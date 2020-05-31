@@ -1,0 +1,47 @@
+#!/bin/bash
+
+if ! [[ -n $1 ]]; then
+  echo "Enter file name"
+  exit 1
+fi
+
+exec 3<&0
+
+cd $(dirname $0)
+
+found=false
+matched_one=false
+while read -r line; do
+  trashname=$(echo $line | cut -f 1 -d";")
+  filepath=${line#*;}
+
+  if [[ $(basename "$filepath") == $1  && -f ".trash/$trashname" ]]; then
+    matched_one=true
+    echo -e "Do you want to recover that file? y/n \n$filepath"
+    read answer <&3
+    if [[ $answer == "y" ]]; then
+      found=true
+      break
+    fi 
+    echo
+  fi
+done < .trash.log
+
+if  [[ $matched_one == false ]]; then
+  echo "There are no matching files."
+  exit 0
+fi
+
+if [[ $found == false ]]; then
+  echo "There are no more such files here"
+  exit 0
+fi
+
+if ! [[ -d $(dirname "$filepath") ]]; then
+  filepath="$HOME/$1"
+fi
+
+ln  ".trash/$trashname" "$filepath" || exit 0
+rm ".trash/$trashname"
+
+echo "File have been recovered in $filepath"

@@ -1,0 +1,31 @@
+#!/bin/bash
+
+if ! [[ -n $1 ]]; then
+  echo "Enter file name"
+  exit 1
+elif ! [[ -f $1 ]]; then
+  echo "File doesn't exist"
+  exit 1
+fi
+ 
+filepath=$(realpath "$1")
+cd $(dirname $0)
+
+if ! [[ -d .trash ]]; then
+  mkdir .trash
+  echo 0 > .trash/.last
+  trashname=0
+else
+  trashname=$(($(cat .trash/.last) + 1))
+  echo $trashname > .trash/.last 
+fi
+
+ln "$filepath" ".trash/$trashname" || exit 0
+
+if ! [[ -f .trash.log ]]; then 
+  touch .trash.log
+fi
+
+echo "$trashname;$filepath" >> .trash.log
+
+rm "$filepath"

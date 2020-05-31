@@ -1,0 +1,6 @@
+#!/bin/bash
+
+file=$1
+
+awk 'BEGIN {i = 0} {lines[i++] = $0} END {for (j = i - 1;j >= 0 ; j--) print lines[j] }' $file
+

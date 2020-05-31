@@ -1,0 +1,25 @@
+BEGIN { FS = " : "; count = 0; prev_ppid = -1; sum = 0}
+{
+  pid = substr($1, index($1, "=") + 1)
+  ppid = substr($2, index($2, "=") + 1)
+  avg_load = substr($3, index($3, "=") + 1)
+  
+  if (prev_ppid == ppid) {
+    sum += avg_load
+    count++
+  } else if (prev_ppid == -1) {
+    prev_ppid = ppid
+    count = 1
+    sum = avg_load
+  } else {
+    printf "\nAverage_Sleeping_Children_of_ParentID=%s is %s\n\n", prev_ppid, sum / count
+    count = 1
+    sum = avg_load 
+    prev_ppid = ppid
+  }
+  
+  print $0
+}
+END {
+    printf "\nAverage_Sleeping_Children_of_ParentID=%s is %s\n", prev_ppid, sum / count
+}

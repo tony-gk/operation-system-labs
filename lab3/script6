@@ -1,0 +1,3 @@
+#!/bin/bash
+
+awk -f awk5 procs5 > procs6

@@ -1,0 +1,97 @@
+#!/bin/bash
+
+if ! [[ -d $HOME/source ]]; then
+  echo "$HOME/source doesn't exist"
+  exit 1
+fi
+
+now_in_sec=$(date '+%s')
+now=$(date '+%Y-%m-%d')
+
+
+for backup_dir in $(find ~/ -maxdepth 1 -name "Backup-*" -type d); do
+  backup_date=${backup_dir#*-}
+  #if date is valid
+  if [[ $(date -d $backup_date 2> /dev/null) ]]; then
+    backup_in_sec=$(date -d $backup_date '+%s')
+    day_diff=$(( ($now_in_sec - $backup_in_sec) / (60*60*24) ))
+    if [[ day_diff  -le 7 ]]; then
+      recent_backup=$backup_dir
+    fi
+  fi
+done
+
+echo $(date): >> ~/backup_report
+
+#create new backup
+if ! [[ -n $recent_backup ]]; then
+  new_backup="$HOME/Backup-$now"
+  echo "Created new directory with backups of $HOME/source in $new_backup" >> ~/backup_report
+  cp -r -v ~/source/ $new_backup >> ~/backup_report
+  echo >> ~/backup_report
+  exit 0
+fi 
+
+OLDIFS=$IFS
+#separating by null char \0
+IFS=
+declare -a new_files
+declare -a updated_files
+
+#find files to add or update
+while read -r -d '' file; do
+  rel_path=${file#$HOME/source/}  
+  backup_file="$recent_backup/$rel_path"
+
+  #directory
+  if [[ -d $file ]]; then
+    if ! [[ -d $backup_file ]]; then
+      new_files[${#new_files[@]}]=$rel_path
+      mkdir $backup_file 
+    fi
+
+  #regular file
+  elif [[ -f $file ]]; then
+    if ! [[ -f $backup_file ]]; then
+      echo "New file: '$file'"
+      new_files[${#new_files[@]}]=$rel_path
+      cp $file $backup_file 
+    else 
+      source_size=$(wc -c $file | cut -d' ' -f1)
+      backup_size=$(wc -c $backup_file | cut -d' ' -f1)
+      if [[ $source_size -ne $backup_size ]]; then
+        updated_files[${#updated_files[@]}]=$rel_path
+        #move previous version
+        mv $backup_file $backup_file.$now 
+        #copy new version
+        cp $file $backup_file 
+      fi
+    fi
+  fi
+#get files recursively separating by null char
+done < <(find ~/source/ -print0)
+
+
+if  [[  ${#new_files[@]} -eq 0 && ${#updated_files[@]} -eq 0 ]]; then
+  echo -e "No new changes in the last backup directory $recent_backup\n" >> ~/backup_report
+  exit 0
+fi
+
+echo "Some changes have been made in the backup directory $recent_backup" >> ~/backup_report
+if [[ ${#new_files[@]} -ne 0 ]]; then 
+  echo "  Added files:" >> ~/backup_report
+  for file in ${new_files[@]}; do
+    echo "    '$HOME/source/$file' -> '$recent_backup/$file'" >> ~/backup_report
+  done
+  echo >> ~/backup_report
+fi
+
+if [[ ${#updated_files[@]} -ne 0 ]]; then
+  echo "  Updated files (previous versions saved as <file>.$now):" >> ~/backup_report
+  for file in ${updated_files[@]}; do
+    echo "    '$HOME/source/$file' -> '$recent_backup/$file'" >> ~/backup_report
+  done
+  echo >> ~/backup_report
+fi
+ 
+IFS=$OLDIFS

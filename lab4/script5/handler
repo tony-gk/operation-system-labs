@@ -1,0 +1,34 @@
+#!/bin/bash
+
+
+value=1
+mode='+'
+
+(tail -n 0 -f data) |
+while true; do
+  read line
+  case $line in
+    \+ )
+      mode='+'
+      ;;
+    \* )
+      mode='*'
+      ;;
+    [0-9]*)
+      if [[ $mode == + ]]; then
+        (( value += $line ))
+      else
+        (( value *= $line ))
+      fi
+      ;;
+    QUIT )
+      echo "program successfully completed"
+      echo "value = $value"
+      exit
+      ;;
+    * )
+      echo "error: invalid input \"$line\""
+      exit
+      ;; 
+  esac
+done

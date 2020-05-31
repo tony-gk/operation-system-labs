@@ -1,0 +1,9 @@
+#!/bin/bash
+
+touch full.log
+
+xorg_log="/home/tonny/.local/share/xorg/Xorg.0.log"
+
+egrep '] (\(WW\))|] (\(II\))' "$xorg_log"  | sort -rk3 | sed -E 's/\(WW\)/Warning:/; s/\(II\)/Information:/' > full.log
+
+cat full.log

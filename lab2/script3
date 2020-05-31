@@ -1,0 +1,11 @@
+#!/bin/bash
+
+> emails.lst
+
+for file in /etc/*
+  do
+    if [[ -f $file ]]; then
+      egrep -o -h '([a-zA-Z0-9_\-\.\+]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]+)' $file >> emails.lst
+    fi
+  done
+cat emails.lst

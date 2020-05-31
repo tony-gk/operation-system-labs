@@ -1,0 +1,11 @@
+#!/bin/bash
+
+result=""
+read next_word
+
+while [[ "$next_word" != "q" ]]
+        do result="$result$next_word"
+        read next_word
+        done
+
+echo "$result"

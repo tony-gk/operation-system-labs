@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo $$ > .pid
+
+mode="work"
+
+handle()
+{
+  echo "Terminated by another process"
+  mode="term"
+}
+trap 'handle' SIGTERM
+
+val=1
+while true; do
+  case $mode in
+    "work")
+      (( val++ ))
+      echo $val
+      ;;
+    "term")
+      exit
+      ;;
+  esac
+  sleep 1
+done

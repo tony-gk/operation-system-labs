@@ -1,0 +1,13 @@
+#!/bin/bash
+
+mkdir ~/test && 
+{
+  echo "catalog test was created successfully" > ~/report
+  date=$(ps -o lstart -$$ | tail -1 | sed 's/ /_/g')
+  touch ~/test/$date
+}
+
+ping www.net_nikogo.ru ||
+{
+  echo "ping error" >> ~/report
+}

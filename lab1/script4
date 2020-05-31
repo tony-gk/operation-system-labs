@@ -1,0 +1,12 @@
+#!/bin/bash
+
+read next_num
+count=1
+
+while [[ !  $(( "$next_num" % 2 )) -eq "0" ]]
+        do 
+        read next_num
+        count=$(( "$count" + 1 ))
+        done
+
+echo "$count numbers entered"

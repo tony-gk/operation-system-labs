@@ -1,0 +1,14 @@
+#!/bin/bash
+
+touch errors.log
+
+> errors.log
+
+for file in /var/log/* 
+  do
+    if [[ -f $file ]]; then
+       egrep '^ACPI' $file >> errors.log
+    fi
+  done
+
+egrep "(/.+)+" errors.log

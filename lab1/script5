@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "menu:
+  1 - nano
+  2 - vi
+  3 - links
+  4 - quit"
+
+while true
+  do 
+    read choice
+    case "$choice" in
+      1) nano ;;
+      2) vi;;
+      3) links;;
+      4) break;;
+      *) echo incorrect
+    esac
+  done

@@ -1,0 +1,41 @@
+#!/bin/bash
+
+
+for backup_dir in $(find ~/ -maxdepth 1 -name "Backup-*" -type d); do
+  backup_date=${backup_dir#*-}
+  #valid date
+  if [[ $(date -d $backup_date 2> /dev/null) ]]; then
+    if [[ -n $last_backup_date 
+          && $(date -d $backup_date '+%s') -gt $(date -d $last_backup_date '+%s') #if backup_dir created after the last found 
+          || ! -n $last_backup_date ]]; then
+        last_backup_date=$backup_date;
+    fi
+  fi
+done
+
+if ! [[ -n $last_backup_date ]]; then
+  echo "No backup files found" 
+  exit 1
+fi
+
+mkdir "$HOME/restore" 2> /dev/null
+
+last_backup="$HOME/Backup-$last_backup_date"
+
+OLDIFS="$IFS"
+IFS=
+
+while read -r -d '' file; do
+  rel_path=${file#$last_backup/}
+  tail_after_dot=${rel_path##*.}
+  #if dot not found or tail is not a date
+  if [[ $tail_after_dot == $rel_path || ! $(date -d $tail_after_dot 2> /dev/null) ]]; then 
+    if [[ -d $file ]]; then
+      mkdir  "$HOME/restore/$rel_path"
+    else  
+      cp  "$file" "$HOME/restore/$rel_path"
+    fi
+  fi
+done < <(find "$last_backup" -mindepth 1 -print0)
+
+IFS="$OLDIFS"

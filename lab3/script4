@@ -1,0 +1,14 @@
+#!/bin/bash
+
+> procs4
+
+for pid in $(ls /proc | egrep [0-9]+)
+  do
+    if [[ -d /proc/$pid/ ]]; then
+      statm=/proc/$pid/statm
+      diff=$(awk  '{d = $2 - $3; print d }' $statm)
+      echo "$pid:$diff" >> procs4
+    fi
+  done
+
+sort -t: -nrk2 procs4 -o  procs4

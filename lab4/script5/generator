@@ -1,0 +1,9 @@
+#!/bin/bash
+
+while true; do
+  read line
+  if [[ $line == QUIT ]];
+    then exit
+  fi
+  echo "$line" >> data
+done

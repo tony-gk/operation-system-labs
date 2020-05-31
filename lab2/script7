@@ -1,0 +1,15 @@
+#!/bin/bash
+
+man bash | awk '
+     BEGIN { FS="[^a-zA-Z]+" } {
+         for (i=1; i<=NF; i++) {
+             word = tolower($i)
+             if (length(word) > 3)
+                words[word]++
+         }
+     }
+     END {
+         for (w in words)
+             print words[w], w 
+     } ' | sort -nrk1 | head -3 | cut -f 2 -d ' '
+      

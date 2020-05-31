@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ps -A -o cmd,pid | egrep "^/sbin/" | awk '{print $NF}'

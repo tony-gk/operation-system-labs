@@ -1,0 +1,12023 @@
+ 323
+       ~/.bash_ 1
+lied or if o 1
+                     If   2
+d val 9
+              -e     If   1
+h - as i 1
+ he wishes  1
+ribed above are ex 1
+es des 1
+ed below,  1
+dexed array  2
+ is also  1
+dexed array i 1
+ases. 2
+g  are   1
+d  i 2
+d HISTIGNORE variables may be se 1
+  zero, 1
+ read from  1
+dard error 1
+              ls 2>&1 > dirlis 1
+.  Pro 1
+              as a 1
+       LINENO Ea 1
+mbers i 1
+NAME 1
+al dire 2
+ RUBOUT, DEL, ESC, LFD, NEWLINE, RET, RETURN, SPC, SPACE, a 1
+s  a field.  A seq 1
+       GROUPS A 1
+he variable REPLY.  The lis 1
+e elif else esa 1
+ lexi 3
+erformed, a 1
+ory  file,  o 1
+hose   1
+voke $VISUAL, $EDITOR, a 1
+e will dis 2
+d are added  2
+es  whi 1
+       FUNCNAME 1
+y.  If a  1
+ffix. 1
+es `0-y'. 1
+es are 2
+es are req 4
+              If  offse 1
+y level.  If BASH_COMPAT is  1
+       shell, a 1
+rofile, ~/.bash_logi 2
+o o 26
+_errexi 1
+              hos 2
+              -d offse 1
+g fil 2
+       glob-ex 1
+able file 1
+g (( 1
+d  m 1
+o a s 9
+o words  3
+   Keyboard Ma 1
+ory, i.e.,  1
+ed dire 1
+rieved wi 1
+g-mode (ema 1
+              The le 1
+ire key seq 1
+glish.  For exam 1
+).  Job  1
+              ls > dirlis 1
+h LC_. 1
+lly des 1
+              If   7
+o q 4
+                              Same as -H. 1
+d  o 2
+o ``em 1
+he HOME shell variable is  1
+ are dele 2
+d.  For i 1
+ (see SHELL BUILTIN COMMANDS below) or marked  1
+he behavior des 1
+r ] 1
+o r 3
+al, as wi 1
+o  be  1
+dexed array a 1
+ame[@]} a 1
+              This variable de 5
+al word.  Whe 1
+r  where  a 1
+o s 24
+ell If se 1
+ed for  4
+d  q 1
+lays   1
+he alias is ex 1
+ded by q 1
+er his 1
+es as des 1
+s mode a 1
+ fixed-wid 1
+s several  1
+ ;; ] ... esa 1
+d (see SHELL GRAMMAR below) or  1
+       bash.  The la 1
+viro 73
+.  Whe 13
+d  r 1
+s.  If a  1
+ers a 9
+o -d, or  1
+ [-e e 1
+                              Tell readli 1
+d, for i 1
+h #!,  1
+ed is ex 1
+h is  16
+] [+ 2
+ed.   The defa 1
+d  s 6
+he here-do 1
+.  For exam 2
+d], se 1
+ess S 1
+e is 0,  2
+.  This is k 1
+voked as sh does  1
+       Bash is Co 1
+sed wi 13
+al C lo 1
+h (  2
+s is  sile 1
+ if fo 1
+kward-word 2
+ode a 1
+sed, as i 1
+d,   2
+       file1 -ef file2 1
+ from o 1
+es (FIFOs) or  1
+ized as  1
+he  firs 2
+] [- 11
+ed.  By defa 2
+h may be em 1
+              \d     dele 1
+ers d 1
+d  variable ex 1
+ed.  The bra 1
+rol.  If  1
+                              s 1
+e  (whi 1
+ers e 1
+o give variables 1
+  as   1
+h of  5
+ variable is  1
+       If   10
+d is a so 1
+ by exe 1
+o a file or dire 1
+  is  sy 1
+.  Tra 1
+                             s 1
+f(1) forma 1
+he head. 1
+d HISTCONTROL. 1
+ is disabled.  If  1
+o be a f 1
+hose whose  1
+esses are  1
+lears  1
+ available 1
+ame.  The lis 1
+ory file so  1
+ameref variable ref whose val 1
+e  i 3
+       jobs [-l 1
+ame] [-d 1
+d (see SHELL  BUILTIN  COMMANDS 1
+rogram whi 1
+ers  whi 1
+.  This is e 1
+g, eve 1
+he  shell  1
+refix).  The defa 1
+g job 1 from  1
+ified by redire 1
+ame of a shell f 1
+d -S 1
+ed file 2
+              Toggle  1
+              -s     Sile 1
+ers i 17
+ word.  Words are  1
+g1 == s 1
+.  A val 2
+ed  lis 2
+der  S 1
+les  des 1
+DESCRIPTION 1
+s a 72
+g or  6
+heir  2
+kslash es 9
+ames, so i 1
+lied, all  1
+h a file as a dire 1
+se  shell- 1
+ will be removed.  If  1
+y''.  If  1
+e is -1. 1
+g %? 1
+er exe 1
+wo or  1
+s as word se 1
+hildre 5
+d_aliases 1
+g dir a 1
+ified redire 1
+ed as (%U + %S) / %R. 1
+s b 4
+       HOSTNAME 1
+   Posi 1
+ where -e is bei 1
+                     If readli 1
+he array variable a 1
+.  This is a 1
+                              Hos 1
+              (s 1
+                     $if Bash 1
+ed job  1
+d whe 2
+gle word.  The o 1
+       The de 1
+o all members of  1
+y.  A 1
+              BREAKS, RANDOM, SECONDS, LINENO, HISTCMD, FUNCNAME, GROUPS, or DIRSTACK are  1
+                      s 4
+d forma 1
+e res 1
+lay i 1
+ logi 1
+ers m 1
+, or i 1
+ed is lo 1
+ers lose  1
+ed for. 1
+s e 5
+or is s 2
+                     s 2
+ered or a 2
+h arg 3
+g for keyseq. 1
+ form a  1
+o Ema 1
+hes whe 1
+ory as se 3
+g a slash m 1
+ers o 5
+ame] [-l 1
+ SIGCHLD is exe 1
+ers,  delimi 1
+o NAME[1].  This  1
+ess a 2
+dable_vars 1
+.   The  ERR 1
+hars  2
+d whi 2
+y delimi 1
+d (i 1
+ores (_) as eq 1
+d is a symboli 2
+le ide 1
+              \?     q 1
+voki 1
+hey lose  1
+                      o 1
+g his 4
+ed.   The  -E  o 1
+he PATH are exe 1
+gs from file 1
+ab  3
+ of a ma 2
+       keys are de 1
+, several ex 1
+heses are  1
+s i 47
+e seq 14
+                     o 2
+g.  The -d 1
+e,   2
+ory).  The file  1
+hes whi 1
+       dele 3
+              Sear 6
+d sor 1
+              /dev/s 3
+or fd is d 1
+her file 1
+ally rshd, or  1
+ers s 5
+                      m 1
+lay o 3
+lied  as  a 1
+arse  1
+              ward-dele 1
+e file a 1
+, or o 1
+ive array variables.  A 1
+gle word sim 1
+o NAME[0].  The s 1
+e for ea 1
+hey do  1
+med by  1
+       ·      s 4
+ors a delimi 1
+e sig 1
+ already a 2
+h dis 1
+ers  may   1
+ds from file 1
+.  Chara 1
+ refers  2
+hes sor 1
+e job.  If a  1
+g lef 1
+ame[@]}" as ex 1
+he  shell, 1
+              s 15
+ame Ex 5
+he dollar sig 3
+valid jobs 1
+sed.  If  2
+, leavi 1
+              board. 1
+o Off if  1
+ ID is eq 1
+.  If arg 1
+ime as  1
+o words.  There are seve 1
+ -o.  If  1
+       BASH_VERSION 1
+              The while  1
+g mea 10
+ive   4
+ds.  May also be s 1
+.  By defa 1
+ive array  2
+   Bra 1
+s m 3
+                 o 1
+ale is  1
+ **  1
+his allows break  or   1
+                              Same as - 1
+              q 2
+   Ari 1
+y,  1
+ded reg 1
+              file  2
+                      exi 4
+s o 18
+                     i 1
+s OPTARG.  If ge 1
+s, shell b 1
+.  Word bo 2
+ser is asked whe 1
+ess i 1
+       ·      o 3
+ FUNCTIONS.  If  1
+dard Error 2
+ribed  below 1
+              o 22
+asema 6
+he  variables   1
+ll.   O 1
+d disables f 1
+  1719
+es are  assig 1
+              Cha 2
+ saved by 1
+s;  1
+d form, "keyseq" 1
+ds res 1
+]<<<word 1
+gle sigs 1
+                      e 4
+ variable  1
+g exe 5
+              \0 1
+       The  shell  exi 1
+ zero. 6
+              m 2
+h 0  1
+~" (Q 1
+es are assig 1
+s s 29
+  (q 1
+ed may  1
+layed, eve 1
+ as a variable (if  1
+" 2
+              \]     e 1
+mbers.  A leadi 1
+ameref variable's val 1
+       readli 2
+       If bash is s 1
+hmod(1).  If mode is omi 1
+s remai 3
+ame as  1
+g  a 4
+       Readli 6
+ds a SIGHUP  1
+eive  1
+or fd is o 1
+ked.  If  1
+       The `$'  1
+sive.  S 1
+erformed, wi 1
+31) a 1
+              is s 2
+a- a 3
+       A fail 1
+g  b 1
+assed as  1
+ fi for f 1
+valid o 18
+              i 21
+                      a 6
+              OP is o 1
+ array if  1
+al.  I 1
+ossible hos 1
+ds (see  1
+-1 re 2
+ab. 1
+.bash.b 1
+e size i 1
+ read'' is dis 1
+              exi 2
+                     a 3
+ leader. 1
+o 1  ea 1
+              \E     a 2
+ a shell wi 1
+   Com 2
+g key 1
+              \e     a 2
+              \a     a 1
+ed.  F 1
+       fail 1
+o array members, ${ 1
+osix had bee 1
+              g 1
+ged.  If  3
+he  remai 2
+lly de 1
+' 1
+if‐ 1
+ory file (see HISTORY below), while  1
+he MAILPATH variable is  1
+less   1
+g a DEBUG  1
+lied, -A  2
+ reverses  1
+able, b 1
+  if   1
+ses a visible bell if o 1
+       The  exi 1
+                     POSIX s 1
+ess s 6
+       or  *,   1
+a1). 1
+r1 is eval 1
+here is  4
+) 30
+d's  =~  o 1
+se read  2
+                     are  read.   The  res 1
+s, ea 2
+              e 6
+reserved  a 1
+ym for  1
+esses.  Exe 1
+ears wi 4
+kslash re 2
+?word} 1
+he shell variable PWD re 1
+ded res 1
+s of  zero.   The   1
+ (see 1
+his behavior.  Whe 1
+              exe 5
+              Move forward  2
+mbers  1
+ser, i 2
+he behavior of  3
+ified variable  1
+ word  4
+g  i 5
+s word.  Words are delimi 1
+g.  As ea 1
+e (o 1
+       horizo 1
+abled, bash re 1
+he same job.  Bash  1
+essed is sele 1
+er iss 1
+ed (see PARAMETERS below).  The PS3  1
+, 8
+       alias [- 1
+ame  is  ide 1
+ffer.  This is  1
+ly is, see above for  1
+-zero,   1
+d ||  1
+ look 2
+r1 -o ex 1
+ames whe 1
+              a 17
+- 54
+ely by  a  digi 1
+              \UHHHHHHHH 2
+     horizo 3
+ sear 3
+e is broke 1
+d variable ex 10
+e (M-C-e) 1
+ SIGCONT  1
+e>.  A do 1
+ of words followi 2
+       If bash is i 1
+o-s 1
+. 229
+er savi 1
+              is i 1
+ variable- 1
+sive OR 1
+ rela 3
+ire array. 1
+ribed  above.  This variable is available o 1
+/ 10
+, arra 1
+hese  9
+dex origi 1
+ame, or, if  1
+ely by a digi 1
+ variable. 2
+ed firs 1
+ed.  O 2
+egers are s 1
+       HISTIGNORE 1
+       GLOBIGNORE 1
+       EXECIGNORE 1
+abled exi 1
+hed agai 1
+-arg move ba 1
+d Names 1
+              Posi 1
+e (Arrays). 1
+ered  1
+g a lis 3
+       Bash is i 1
+ of a si 3
+d before  3
+ was  1
+, bash removes 1
+e whe 7
+g  o 4
+h  ` 1
+ames whi 2
+es so  1
+less a  4
+al  val 1
+yle his 1
+med.   A 1
+h  a 6
+                              res 1
+                     U 1
+e Comma 1
+o a job i 1
+).  Eval 1
+e a file  1
+=], whi 1
+ded val 11
+he behavior of ra 1
+       FIGNORE 1
+2 2
+ job.  The re 1
+s ESC x, i.e.,  1
+mes job 1 i 1
+ed.  S 1
+dlers.  Comma 1
+g lis 3
+              [ 11
+]<&word 1
+, as whe 1
+              -q     S 1
+              -s     S 1
+,  where  a   1
+d wri 3
+rol-x, or  1
+ase modifi 3
+e assig 1
+s BASH_ARGC o 1
+e (shell f 1
+al  121
+o override  2
+d <> redire 1
+ before exe 3
+voked.  Whe 2
+e.  The  6
+e whi 1
+de  1
+ame[@]} des 1
+d @ (see S 1
+e is assig 1
+ers,  a  missi 1
+ be a   1
+              -i  1
+h  e 1
+h his 5
+                     Q 1
+here. 1
+hod of  1
+he ``##''  1
+ed below (e.g.,  1
+he while a 1
+       POSIX s 1
+.  These are  1
+g,   1
+hild  5
+sed as a  1
+d sys 3
+les based o 1
+erformed as well, a 1
+s behavior.  A variable may be se 1
+der SHELL BUILTIN COMMANDS) are re 1
+              Use Defa 1
+he form {x..y[..i 1
+s.   A 1
+resses shell f 1
+hree-arg 1
+mber of arg 1
+o affe 1
+ers are  se 1
+                     O 1
+ires more arg 1
+lied as ex 1
+mbers. 1
+he  shell  immedia 1
+ed  125
+ed for, a 1
+e for PATH  1
+ word. 2
+              U 2
+s are exe 3
+ibili 11
+][l]S  The  1
+essed by  2
+ame is COPROC.  NAME m 1
+al  bi 1
+                      res 1
+) id  2
+h as assig 1
+y a 5
+ally; i 1
+wo Co 1
+       a   1
+ fd  Tr 1
+s a -a o 1
+dexed array,  1
+sys\ 1
+les as for  1
+ whose s 1
+              S 9
+o files (see Pa 1
+ zero.  OPTIND is se 1
+ --  1
+] [-DE] [-A a 1
+       !      S 1
+-kbd-ma 3
+rogram, followed by  2
+ order.  If  base  is 1
+ally loadable b 1
+ered, 1
+layed as well.  The -F o 1
+s' (e.g., ` 1
+       Similarly, ``%1 &'' res 1
+42 mea 1
+mber of bash 1
+ame ...] 8
+y jobs are r 1
+valid offse 1
+able [-a] [-d 1
+s are exi 1
+       x      Q 1
+       q      Q 1
+              Q 1
+d-of-file as se 1
+e (C-a) 1
+sed for da 1
+rofile a 1
+e(3) 1
+ered. 3
+              -e      Exi 1
+l, a dirs is  2
+ames.  If a 1
+ message is  1
+y e 1
+       dirs [- 1
+ored.  A 2
+       is omi 1
+                     If hos 1
+ds whe 1
+       PROMPT_DIRTRIM 1
+h  m 1
+ EOF  1
+ saved whe 1
+y f 2
+md  Same as - 1
+              O 3
+rs.  If - 1
+ally (Off) 1
+mes.  Whe 1
+ally be 1
+her  val 1
+][l]U  The  1
+s, ex 2
+ive,  4
+v] [-o  1
+e variable.  Ea 1
+he word.  If a 1
+ive.  The val 1
+o read from (wri 1
+ess  gro 1
+ base 10 is 1
+ged.  A { or , may be q 1
+ified; val 1
+ored,  a 1
+g" q 1
+              -H      E 1
+es lis 2
+g loo 5
+d [arg ...] 1
+ks while  1
+sed.  The -P o 1
+   Eve 1
+hem, so  1
+he keyboard.  This  1
+er assig 2
+o fail. 1
+glob is se 1
+ sele 1
+              res 4
+              -s     E 1
+ds whi 2
+y i 3
+rs while readi 1
+ form lis 1
+ame.  Comma 1
+e-mode 1
+he key seq 1
+ of valid keyma 1
+       The shell has a 1
+al- 1
+mber  of 2
+e of a semi 1
+al. 6
+kslash  does  1
+he file des 8
+s false if a 1
+ will dele 1
+g  shell o 1
+omize i 1
+he  shell's  1
+ variable assig 1
+lay array val 1
+s are removed.  The re 1
+he DEBUG  5
+ is DEBUG,  1
+h  s 1
+ed  as 1
+h  -P,  a 1
+he PATH is  1
+       shell-ex 1
+e) a 1
+h exi 1
+       * / %  m 1
+o abor 2
+ will fail if  1
+er%%word} 1
+ of word (or a message  1
+       Asso 1
+              I 12
+ is made  10
+ed, 2
+g  dire 1
+d);  1
+g),  1
+hild. 1
+er seq 1
+h.  To ge 1
+hey may be  1
+ If se 1
+he >, >&, a 1
+ variable or  1
+dler before re 1
+              -a     A 1
+              Exi 1
+      The  1
+ed- 2
+e Key Bi 1
+ed below  2
+g a ba 2
+ed or abo 1
+ zero.  The remai 1
+ed. 49
+ase or [[  1
+ rese 3
+d failed while -e was bei 1
+y  ma 1
+ savi 2
+o begi 3
+              M-Co 1
+, less  1
+der SHELL GRAMMAR, s 1
+ded whe 3
+       Aliases  allow a s 1
+ili‐ 1
+ by sho 1
+y o 12
+lied, or if job  1
+                      ex 2
+ is, i 2
+he shell.  If  1
+refix, se 1
+s added  2
+he += o 1
+ed aliases.  If -a is s 1
+                     ex 1
+s-s 7
+ is 0, read re 1
+d form,  2
+hose i 1
+              E 1
+hes are added  1
+ally bo 1
+e (C-e) 1
+ired is  1
+e.  See also  1
+ified by offse 2
+g ${ 1
+ies are bei 1
+es  available   1
+d, a 10
+ge  9
+h (a 1
+essary,  4
+ers remai 1
+ before a 1
+              Exe 2
+ed), a 1
+der Shell  Variables). 1
+ds.  A s 1
+rimaries is o 1
+lays d 1
+able   2
+lied as a 4
+ read a 2
+ SIGHUP is  1
+id ... ] 1
+ before re 1
+d.  The shell mai 1
+ers \, $, a 1
+       GLOBIGNORE  1
+ab>, a 1
+he FUNCNAME array  variable  are  defi 1
+ sshd.  If bash de 1
+rofile o 2
+       A shor 1
+y s 15
+he file  8
+ariso 6
+ by defa 9
+he hash  4
+sed   4
+mber of eleme 2
+egory for a 1
+ame [ [ i 1
+                      words are  1
+              A 28
+ds.  If - 1
+   Gro 1
+       G      A 1
+he shell variables HISTIGNORE a 1
+o a sig 1
+he form of a 2
+o avoid bei 1
+ed job, i 1
+er wai 1
+       _      A 1
+ where -e is ig 1
+ilde  2
+hes for  1
+h $),  1
+refixes,  or 1
+       ++id --id 1
+or digi 2
+e is 10.  If i 1
+he desired  1
+                      (see COMMENTS above).  This o 1
+hose o 2
+ | exi 1
+              -q f 1
+ed  if 1
+s/s 1
+ase  a 1
+o a val 6
+e removal o 1
+lare -a  1
+ive shells af 1
+       MAPFILE 1
+              ex 16
+s, ra 1
+ed.  The - 1
+eger is s 1
+e of /.  The fi 1
+kslash;  2
+ally em 1
+g 0x or 0X de 1
+       **     ex 1
+eger  (e.g.,  42)   1
+he  887
+ reso 1
+ (see Pa 1
+g res 1
+ew'' his 1
+ed or fail 1
+or.  I 1
+here exis 1
+al  ex 1
+rl digi 1
+g  file 1
+ale.  Whe 1
+d, i 3
+re if a  1
+s  of  a   1
+ase.  The lower- 1
+he shell is r 4
+       HOSTFILE 1
+       HISTFILE 1
+hose re 2
+e of bash.  The val 1
+ally !, m 1
+he while  1
+s, or zero if all  1
+able obje 1
+ed alias. 1
+ fd] [ 1
+shd re 2
+gh  17
+g is firs 1
+do  1
+              ya 1
+ed slash (or all  1
+s a defa 1
+divid 6
+em  5
+lly se 1
+ed below. 2
+, or /dev/s 1
+ word do 1
+ally eq 2
+ is a me 1
+              The  &&  a 1
+ARGUMENTS 1
+              ! ex 2
+                      ig 1
+] ... 1
+ired arg 1
+e will se 2
+hose se 1
+       ·      im 1
+g seq 3
+g mode is a 3
+ime of  1
+       If  a  \< 1
+voked.  I 1
+hes file 1
+              im 1
+ be ≥  1. 1
+ [-o o 1
+he same  as   2
+ge- 1
+e  remembers   1
+airs removed by  1
+o 0.  A shell variable  1
+omes -d af 1
+g a  valid 1
+.  The sele 1
+g a val 4
+              whose  f 1
+d, o 1
+g sig 1
+r1 or ex 1
+      6
+ reads a  1
+       ·      shell variables a 1
+gs are  1
+ of a shell s 1
+ded wi 1
+g of flag val 1
+s, or 1
+d || have eq 1
+he PATH variable is  1
+als (as de 1
+ed above 1
+k a shell s 1
+e, a 4
+       The  b 1
+       Variables lo 1
+ word of ea 1
+ax  1
+o ambig 1
+   Lis 1
+       Aliases are  2
+d mode is omi 1
+he file. 1
+h shell f 1
+h word i 3
+ame (M-~) 1
+e, b 1
+he ((  1
+s lower 1
+g val 1
+d1 ||  1
+ame is  20
+              are  2
+ified 4
+des file 1
+              -o     Res 1
+ify  Same as -b. 1
+e  array variables, addi 1
+e (C-k) 1
+ively.  Arg1 a 1
+, divisio 1
+ilde- 12
+d bash dis 1
+sed.  The  1
+d), a lis 2
+abled by 1
+hose available wi 1
+s is grea 5
+ly-se 1
+rol is disabled or, whe 1
+ as a me 1
+       ·      vario 1
+       There are  2
+       as lo 1
+k, as i 1
+bs/9699919799/ 1
+ive a 3
+d's < a 2
+] 15
+ be rese 1
+imal  8
+ sile 2
+ by whi 2
+              ig 1
+g sho 2
+lied, a des 1
+abled (see  1
+gle % (wi 1
+).  Whe 1
+arame‐ 1
+g a shell s 1
+e.  Bash behaves as if  1
+ame of  30
+s are rela 1
+er whe 1
+he SIGHUP  1
+er of IFS as a delimi 1
+ds) bash  1
+voked as  a 1
+ale's  3
+er‐ 6
+ds  45
+, maki 1
+ses a  1
+g a defa 1
+he  shell 3
+ame.  Bash  1
+erseded by shell f 1
+  will  for 1
+ word ex 2
+ 10  1
+   Mis 1
+ery-i 1
+able forma 2
+ors.  The levels are lis 1
+g shell me 1
+ers \, ', a 1
+       array variables a 1
+a 1494
+              - 36
+al && or ||, a 2
+able exis 1
+k is eval 2
+ bash  sessio 1
+e, i 2
+ame refere 3
+rovides a 1
+able readli 1
+e are members of  1
+              $( 1
+hird  1
+b 2
+ Ramey, Case Wes 1
+d  )  i 1
+mber  4
+ bash sessio 1
+ by dele 1
+              Res 3
+o defi 1
+he same way as if  1
+e is give 1
+,  words  whi 1
+he library  1
+er whi 3
+ IFS  1
+              loses i 1
+er  94
+              + 3
+al  variable  1
+h shell o 7
+ed by glob-ex 1
+d.  Comma 1
+e will wai 3
+              seq 2
+h is fo 2
+d 55
+vxBCEHPT] [+o o 1
+              -a a 1
+ed by sear 1
+       If  17
+d word o 1
+wo  sear 1
+ake addi 1
+rol, bash  1
+_fo 1
+he word is lef 1
+il lis 1
+e 714
+ of a  8
+k is  1
+ive i 7
+hed for i 1
+       For i 1
+d offse 1
+ases below, word is s 1
+ive array,  1
+]] [ ! ]  1
+es  94
+f 8
+.ramey@ 2
+s.  If  7
+ will dis 1
+  are   1
+ (e.g., kill-li 1
+sed similarly  1
+rovides f 2
+       LC_MESSAGES 1
+              BASH_VERSINFO[1]        The mi 1
+g 70
+h are i 1
+     The  1
+ame arg 9
+sed for read -e. 2
+              Removes e 1
+o  - 1
+, or if o 1
+) is  1
+s, wi 1
+d shell o 1
+g a ma 2
+-variables 1
+e, o 1
+s differ as des 1
+g ${ is  1
+hey are removed). 1
+e is eval 2
+‐ 52
+h 91
+              SIGKILL (wi 1
+ form sele 1
+  may  be   2
+                      is  1
+  worki 1
+d word s 2
+he files  1
+lare  2
+d remove dire 1
+he -- are  1
+i 1029
+              The bash exe 1
+lied, or a 1
+less a 16
+s, if a 2
+osix mode,  6
+s a fail 1
+              If  jobs 1
+ab,   1
+e from  2
+ kill 0 does  1
+d a -A o 1
+.  For i 1
+e of ;;  2
+e a shell i 1
+BUG REPORTS 1
+ld  5
+d [ eval 1
+defgjks 1
+j 2
+       alias-ex 1
+              This s 3
+lay a s 1
+ 0 a 2
+ 9 sho 1
+s are removed. 1
+ by se 1
+hiloso 1
+kslash-es 4
+ive o 1
+                              Same as -a. 1
+d  of  o 1
+ded.  The  1
+ a fashio 1
+ as a re 1
+ed by M-key, so M-x mea 1
+g  a  job   1
+g  below).   If   1
+he +B o 2
+es sho 1
+y levels,  1
+ormal   1
+imal. 1
+s are de 1
+l 262
+s may be assig 1
+              shell exi 1
+y levels  1
+ly be refere 1
+il while { }  1
+,  whi 1
+le  21
+m 13
+ds. 8
+less e 1
+o diag 1
+ires a 1
+er whose val 10
+d Co 1
+rovides  3
+              This de 1
+ase is e 1
+il  3
+ly.  I 1
+h are o 1
+y  wi 1
+d reado 2
+ order, a 1
+ed  file 1
+hoed. 1
+ is a  4
+] [word] 1
+h req 1
+dard error are redire 1
+lobber o 2
+or for  1
+dex) is "mai 1
+des i if bash is  i 1
+o 1195
+ed (see Com‐ 1
+              If ei 1
+lly   1
+ive s 2
+able,  2
+s (C-x g) 1
+ds for sear 1
+g whe 2
+derr, file des 1
+er, 2
+her a series of  1
+le val 2
+es may a 1
+sed,  13
+              Ex 5
+er- 4
+e_f 1
+h res 5
+s is dis 1
+dler.  if re 1
+              is  4
+ified,  i 1
+g ? may be omi 1
+ds are also limi 1
+       A varia 1
+gle word  1
+ribed above.  Care m 1
+       UID    Ex 1
+       EUID   Ex 1
+mber. 1
+       BASH   Ex 1
+       0      Ex 1
+       !      Ex 1
+       $      Ex 1
+       -      Ex 1
+       ?      Ex 1
+       #      Ex 1
+       @      Ex 1
+       *      Ex 1
+              zero exi 1
+eral Comma 1
+q 16
+er. 8
+ show 6
+rs wi 4
+h word.  For  1
+voked  as 1
+ modified si 1
+).  The  1
+d bash will  1
+  if i 1
+r 308
+vxBCEHPT] [-o o 1
+er read a 1
+ew  8
+ as a si 1
+o  dis 1
+d 1 if  1
+arded whe 1
+ers *, ?, a 1
+er/ 1
+ally se 6
+g a lo 1
+es, 1
+s 224
+o a shell variable, a 1
+g whi 4
+s of his 1
+ words  1
+d [- 2
+] [-G glob 1
+              Ya 1
+ similar  1
+y-s 1
+/bash/. 1
+o effe 7
+gs  17
+lare, 1
+es. 13
+ from a  1
+valid  o 1
+ed a val 8
+me  1
+s are ge 1
+ly as ma 1
+", i 1
+h seq 1
+ (Off) 5
+g  shell  1
+, EOF sig 1
+o remember.  Bash will  1
+le‐ 1
+       is C or POSIX,  1
+ly variables  1
+ed for readi 1
+ly  bra 1
+abs, !, for lis 1
+o $0 1
+d_s 3
+  versio 1
+g, a 10
+deb 7
+h sig 2
+ake 12
+less o 6
+; +O  1
+d a  3
+d  is  s 1
+es of all variables havi 1
+raversi 1
+ word.  This is  1
+              shell-forward-word. 1
+ 2 a 1
+ers above). 1
+h bash  1
+ifies how of 1
+ reserved word is s 1
+layed a 1
+s for  all   1
+y 60
+o variable by  1
+ormally  3
+h arg m 1
+ of  shell  b 1
+''.   The  -f  o 1
+rs.  If word eval 2
+  is  a  s 1
+h #, i 1
+h val 2
+e, or has  1
+d may be reassig 1
+rol  o 1
+able O 1
+e-arg 1
+abled whe 1
+ale 2
+ behavior is  2
+ame[=word]] ... 1
+here is a redire 1
+less r 1
+ 124 1
+s are fo 1
+bje 16
+ame ex 37
+s, if s 7
+assig 1
+he -@ o 1
+le. 1
+ires o 1
+d \2 2
+lared wi 1
+le levels of i 1
+ saved i 2
+ of words  1
+iler  1
+  a  1
+ed  wi 6
+or does 1
+layed, 1
+s may be fo 1
+s are ig 2
+h sho 2
+              -G glob 1
+ will be reloaded i 1
+d alias ex 1
+e Co 2
+g is dis 4
+ho- 1
+ame ma 3
+eral mea 1
+ame 23
+g a se 1
+g_e 2
+es whe 5
+h sim 2
+ly effe 1
+ed words, es 1
+e will e 1
+ormally a 1
+} 6
+erally i 2
+ will  lis 1
+h is re 1
+,b}e ex 1
+ds (see COMMAND EXECUTION below).  A 1
+o disable s 1
+ablished be 1
+ede 17
+layed. 3
+              direx 1
+air 1
+e, all lower- 1
+ali 5
+ories readli 2
+              forward-word. 1
+lied as a si 1
+~ 1
+e, followed by ; a 1
+emwide  1
+, or disk file, res 1
+s a s 2
+s origi 2
+ormal his 1
+              If  a req 1
+al's bell (s 1
+erform  1
+ew arg 1
+h for a s 2
+d jobs,  1
+g, i 2
+,  word s 1
+bex 3
+g (i.e.,  1
+layed i 5
+h is se 1
+.  Does  1
+ossible-hos 1
+e-dis 2
+ame me 1
+hey exe 1
+ks for mail.  The defa 1
+er wri 1
+ loses i 7
+ilized as arg 1
+1 && ex 1
+ds.  If a 1
+ami 9
+ew/ 1
+       dabbrev-ex 1
+g a si 1
+e will i 1
+s are ex 1
+d has a size grea 1
+  Ma 1
+ameref, i 1
+ormally `!'.  The se 1
+   Shell F 1
+       sele 1
+s is 0.  Comma 1
+lied  26
+he -A o 1
+gs. 4
+ll  12
+ame or  1
+edi 12
+ dir (see also  1
+d COMP_TYPE variables are assig 1
+  of   9
+s as a  1
+-file (C-x C-r) 1
+ally wi 3
+he word behi 4
+he HISTCONTROL 1
+s.  If se 2
+ear 1
+       word   A seq 1
+res from  1
+       Array variables may  1
+lly whe 1
+ega 29
+  is   11
+              are res 1
+ify a valid job or jobs 1
+g Names of r 1
+              Seq 1
+ix-word-r 1
+h variables ex 1
+ors.  If  1
+d `. 1
+              The res 1
+.  If sho 1
+dled gra 1
+al logi 1
+e are wai 1
+res is  1
+              -A a 1
+       %      The word ma 1
+erforms alias a 1
+ases are  1
+ablished before a 1
+   Sim 1
+       Che 1
+; if a job s 1
+                     may  1
+ds.  If e 1
+h a ba 3
+kward-word. 3
+ories). 1
+rol-   1
+       A  shell  f 1
+ribed below, ma 1
+       The  GLOBIGNORE  shell  variable  may  be  1
+  a  for  loo 1
+ores val 1
+o be  22
+              ( ex 2
+layed o 3
+e key bi 3
+              The ma 1
+e, or a  1
+ossible-file 1
+e has variables  1
+ds are similar  1
+ial  e 1
+d file1 does  1
+d file2 does  1
+d [.  If o 1
+refixed  2
+h a zero,  1
+he eleme 1
+h, a 1
+ are   1
+r.  Ea 1
+d  GLOBIGNORE variables, if  1
+ame lo 1
+e a  7
+he mark.  The  1
+d-exe 1
+dif 1
+res of  1
+l of  1
+der 2
+d y, i 2
+air of bra 1
+sr/sbi 1
+bmi 1
+       These res 1
+als 2
+ara 56
+layed;  1
+gle word i 1
+y levels a 1
+or, =~, is available, wi 1
+  a  shell  f 1
+ worki 9
+o  O 2
+he bell.  If se 1
+al N, bash  1
+              A      The  ex 1
+       A seq 2
+ormal shell  1
+res des 1
+  a  shell 2
+ 128 if   1
+ial  i 1
+d, or fail 1
+his is  1
+ix-file 1
+al driver  1
+m forma 1
+              mkdir / 1
+ely des 1
+g") will  1
+   115
+s.  The ERR  1
+e Ex 2
+       If a word desig 1
+abled wi 1
+o [ab 1
+   Word S 1
+refixed by  a  `+' 1
+s of "$@" a 1
+e.  However,   1
+layed; 1
+are 22
+e Ma 1
+defiklm 1
+ggers is e 1
+he shell does  3
+efm 2
+able a 2
+              dis 2
+       Shell  b 1
+ame lef 1
+   Pro 1
+able b 2
+              MAPFILE is  1
+ arg  eval 1
+  SIGTERM  is  ass 1
+  bash is  1
+ld load  1
+e is also available.  Li 1
+or 0).  If  1
+ers.  If  2
+sed a 2
+m limi 1
+ory.   If  DIRSTACK  is 1
+       well!  S 1
+osix mode 1
+hreads 1
+reserve wha 1
+hai 1
+he variables  1
+h a fra 1
+he variable OPTARG.  The shell does  1
+lied, 2
+SHELL BUILTIN COMMANDS 1
+e less  3
+imes  1
+mber of his 4
+  job, whi 1
+r1 , ex 1
+       Of  2
+ of a SIGWINCH. 2
+h whe 1
+ffi 2
+g  a  while 1
+ified as a s 1
+o eigh 2
+              -l     Prod 1
+ (0 if  1
+ive,  i 1
+ every  2
+he word is removed.  If  1
+       LC_CTYPE 1
+er holds  1
+s of lis 2
+ zero is a -, or o 1
+ll. 1
+ks  5
+lied. 7
+lied.  The re 1
+hree  3
+d all keys bo 1
+       Word desig 1
+       The shell allows  2
+he -C o 1
+ari 2
+ges immedia 1
+self, so  1
+e or more slashes,  1
+sed as a sim 1
+]}.  If s 1
+       for (( ex 1
+                 allows  1
+                     # Q 1
+              Remove ma 2
+he  sele 1
+he  shell's 1
+g off res 1
+ed.  The o 2
+d-word is dis 1
+              Perform  file 1
+ified  by 1
+e removal,  1
+he ``%%''  1
+ "$BASH_ENV" ];  1
+he shell.  If a sigs 1
+ ( 14
+voked.  If re 1
+                      file 1
+a (Off) 2
+heses are eval 1
+ers, @, a 1
+ 0, defi 2
+e.  Aliases are ex 1
+ime hos 1
+dli 1
+d error messages. 1
+g sys 8
+eex 1
+'' a 1
+able i 1
+lare -x  2
+e \< 1
+er is @ or *,  4
+   Arrays 1
+       MACHTYPE 1
+ ) 1
+o bash wi 1
+hed 2
+s are re 1
+al.  The -l o 1
+sed i 16
+bshell re 1
+he +H o 1
+s)  ge 1
+              of ma 1
+       show-all-if- 1
+       Bash allows  1
+ file.  O 1
+ for a   1
+erms  1
+s of sele 1
+, shell f 2
+ before  20
+bse 2
+y, a  2
+able keyma 1
+less ex 1
+fig 3
+he / followi 1
+oses of  1
+              as a file 1
+              BASH_ALIASES is  1
+ever  2
+e>   1
+re  5
+ed before exe 2
+d-of-file is e 1
+e  key  a 1
+he -F a 1
+he -D o 1
+har 1
+his bra 1
+, as modified by redire 1
+       Arg 1
+h %, i 1
+       HOME is  1
+d * wi 1
+              The file 1
+              BASH_VERSINFO[3]        The b 1
+s are se 1
+ - 5
+              -f file 1
+d.   S 1
+o  exe 1
+       Bra 4
+              arrive af 1
+g of more  1
+ial 1
+his behavior. 1
+              Remove ea 1
+eme 19
+gh 4.2. 1
+       read [-ers] [-a a 1
+ds' file 1
+lass  1
+       Ari 1
+              BASH_CMDS is  1
+ggi 3
+eli 28
+able o 1
+s.  The shell does  1
+ers) is  1
+dard error, wi 1
+   Word Desig 1
+lay or modify  1
+he word.  If  1
+ore   1
+       shells a 1
+ / 1
+g  PATH.   Files 1
+k size 1
+sed o 3
+ by dirs, s 4
+ is assig 3
+o 1. 2
+              file 2
+d is followed by digi 1
+o  a 4
+layed or modified wi 1
+ame may be s 1
+h $HOME abbrevia 2
+losed is ma 1
+ame a readable file, bash  a 1
+ of  "$@" 1
+ files.  I 1
+e-his 1
+rol-R as a 1
+'' i 1
+ime.  If  1
+he shell, whi 1
+ 2 1
+ories a 6
+ges 4
+bro 9
+ell 1
+              -O     Begi 1
+ HISTFILESIZE li 1
+leari 1
+s key seq 1
+e No 1
+al slash) 1
+ed above may  1
+REDIRECTION 1
+ is disabled whe 1
+              @,  a 1
+e a variable is se 1
+e read  1
+, if  1
+sage message o 1
+se  26
+o dire 3
+al shell behavior.  The se 1
+ [-dms] [ 1
+        .  file 1
+he -E o 1
+al sear 11
+es, a se 1
+ive UID is 0, a #, o 1
+h Da 1
+o  d 1
+k so  2
+ory -s arg [arg ...] 1
+rols several as 1
+daries.  The killed  1
+d (C-xC-e) 1
+(2) is a 1
+hars (O 1
+ PS1 whe 1
+d 255, 1
+       -S file 1
+       -O file 1
+       -N file 1
+       -L file 1
+       -G file 1
+       -x file 1
+       -w file 1
+       -s file 1
+       -r file 1
+       -k file 1
+       -h file 1
+       -g file 1
+       -f file 1
+       -e file 1
+       -d file 1
+       -b file 1
+       -a file 1
+h  sh  is 1
+.  This is  1
+ have mail" 1
+". 1
+ary 1
+lay a shor 1
+ followed by a bla 1
+'  2
+, refresh  1
+dles readi 1
+       file1 - 1
+, word s 1
+o a variable  1
+       HOSTTYPE 1
+ly.  Whe 1
+ looks for ~/.bash_ 1
+ of all do 1
+ (IEEE S 1
+he  reso 1
+ded for  1
+              -i     The variable is  1
+d Ya 1
+  file  is 1
+ored from  1
+fli 3
+er^ 1
+ed by @ or *, or a 1
+able bi 1
+ shell,  1
+       Com 1
+ames are e 3
+less lo 1
+ame wi 1
+al word are removed  1
+s followed by bla 1
+gho 1
+her 2
+                             arg 1
+s is 0.  If  1
+g `s' modifier o 1
+d 64 re 1
+       The  shell  allows  ari 1
+ase) or 1
+o  i 1
+dard GNU  1
+herwise, if  1
+ifi 30
+era 203
+s(1), vi(1) 1
+ame.  If  6
+or give 1
+ressed.  If  1
+              Begi 1
+hes 2
+forms  1
+       are  ig 1
+g a  16
+h embedded  2
+              -k      All  arg 1
+                     Dis 1
+re. 3
+              -s     Dis 4
+dex is 0. 1
+              -r     Dis 1
+sed as a forma 3
+              -m     Dis 1
+              -d     Dis 1
+ories i 6
+'' r 1
+self,  are   1
+              -v     Dis 1
+              -S     Dis 1
+ry ma 1
+dled (so  1
+ribed above i 1
+e if file des 1
+ is ``+ ''. 1
+ame lis 1
+.  This variable is read-o 1
+.  Eleme 2
+, by  1
+, reado 1
+              reserved  word is  1
+g args  1
+)  4
+ word is assig 1
+sed  by shell  1
+har (R 1
+he shell word ex 1
+h forward  2
+h allows key bi 1
+       The r 1
+       also  be  1
+hed file 1
+       as  ex 1
+ly dire 2
+ems 1
+ded.  This  1
+gme 1
+es from words as a  1
+gs or a seq 1
+ribed above.  The shell wai 1
+m amo 2
+ame wo 1
+y dollar sig 1
+ all key seq 1
+g BASH_XTRACEFD  1
+he array members are as fol‐ 1
+ !  a 1
+d, bash reads a 1
+or  21
+ly  26
+o $1, $2, ...  $ 1
+ of ba 2
+o  o 5
+hes for word a 1
+s are wri 2
+o as  1
+g for a 2
+he old.  The e 1
+g Ex 1
+$2 1
+ifies how  1
+voked  wi 1
+ order.  The -- 1
+o  limi 1
+lai 4
+   Shell o 1
+der Com 2
+       forward-ba 1
+ory (C- 2
+e may alias ls  1
+ears as  1
+ab, a 1
+       COMP_TYPE 1
+ bash is i 1
+voked as a logi 2
+,  -O  se 1
+e read. 1
+       fg [jobs 1
+ase, i 1
+ese 5
+  all  o 1
+e key seq 4
+       bg [jobs 1
+e variable, regardless of  1
+lied by fo 1
+       SHELL  The f 1
+sr/bi 1
+ (e.g., /var/mail/$USER). 1
+ream a 1
+.  lis 1
+al memory available  1
+eri 3
+g from reg 1
+              Dis 4
+s, or for  1
+.  A 5
+, logo 1
+ error  2
+he -G o 1
+her a digi 1
+ired  2
+ral fashio 1
+or grea 1
+aseglob is e 1
+se. 1
+lared as follows 1
+ed (see RESTRICTED SHELL below). 2
+.  B 2
+der Pa 1
+khash 1
+              Kill from  1
+h-hidde 1
+o job  1
+JOB CONTROL 1
+he , o 1
+o  s 1
+o be removed from  1
+d always re 1
+              read from  1
+lea 2
+,  a 11
+hme 44
+ bash is  1
+md] 1
+s] [-f file 1
+              job is  1
+'. 1
+er is also  1
+e-hos 1
+ila 1
+ive), a 1
+wo ways 1
+re.  Whe 1
+o zero size. 1
+ale.  No 1
+ array.  The 1
+ a -a o 1
+ (see HISTORY EXPANSION below).  The  firs 1
+voked  by   1
+o,   1
+g a file 3
+,  154
+o memory 1
+e) or 1 (false) de 1
+                      by i 1
+lies  3
+,  b 1
+e] ...] 3
+llglob is  1
+)) 2
+he array 1
+eral %. 1
+he \w a 1
+ories s 1
+like  1
+       --res 1
+                 arg 1
+mber.  If  2
+md_ 1
+his 6
+ded as des 1
+ories whe 1
+ames are s 2
+ as a forma 1
+ake effe 4
+ E 1
+                     *s will ma 1
+              ari 1
+, bash will se 1
+, so b will  1
+kward from  1
+ossible f 1
+ively, bash dis 1
+li‐ 1
+]>&word 1
+e is 2.  If  1
+) lis 1
+ile 1
+              arg 3
+ of ea 2
+g.  The -r o 1
+s.  If - 1
+ly.  These  1
+ries is se 1
+       The f 1
+ed, all li 1
+es (keys) assig 1
+              Use Al 1
+e, if a variable  1
+es  a  f 1
+hese lis 1
+for 1
+d >> redire 1
+g a slash as a 1
+he -H o 1
+ffer.  If  1
+or mode.  Job  1
+k, a 1
+sed.  The 1
+ames.  May also be s 7
+ified  jobs 1
+ ASCII key seq 1
+mber, if  1
+or 0 is d 1
+voked.  ${BASH_LINENO[$i]} is 1
+ed (see FUNCTIONS below). 1
+). 5
+h a  20
+                      If a  1
+.  I 9
+ormal i 1
+ffix is a 1
+ed for ea 2
+ase, r 1
+s (C-x ~) 1
+he  Ema 1
+his job is 25647.  All of  1
+he disow 1
+ alias.  If so,  1
+d reads from a 1
+k, b 1
+ bash is s 1
+, or  ~/. 1
+err 6
+herwise   2
+ses   2
+al.  The -L o 1
+d.  The -r o 1
+ is saved o 3
+al-forward-sear 1
+ro  1
+ers is also  1
+              Parame 2
+his variable i 1
+ili 18
+ers 8
+ is abo 1
+       There is  1
+ GLOBIGNORE is se 1
+,  i 1
+abled shell o 2
+ly. 8
+able (se 1
+ is available o 1
+s, addi 1
+o have  1
+  addi 1
+ermi‐ 1
+or. 1
+wo-arg 1
+esses  1
+dexed array variable (see Arrays above). 1
+d-of-his 1
+ is ``> ''. 1
+ BASH_LINENO a 1
+  `` 1
+ess 1
+h a re 1
+s as a 1
+       His 2
+reserve sy 1
+e  a   2
+ may  be 1
+eeds  more 1
+ed for bo 1
+ex‐ 1
+imi 3
+INVOCATION 1
+m real- 1
+.  O 12
+ error. 3
+h fail  1
+     Read   1
+ormal o 1
+eives a SIGHUP.  If  1
+es of all shell variables.  The -f o 1
+d -C o 1
+refix of a lis 1
+       as a key seq 1
+e>,  1
+ired. 1
+eral val 3
+assed as arg 2
+g for s 3
+s  for   1
+essed i 2
+rol over whi 1
+rsor is.  If  1
+ is saved i 1
+he shell are ig 1
+he shell looks for  1
+ely exe 1
+d ba 4
+,  o 1
+s before disk  1
+ will res 2
+he -o defa 1
+h a se 1
+akes effe 1
+o ${#COMP_LINE}.  This variable is available o 1
+d }, b 1
+ormal q 1
+ order,  1
+side a f 3
+h Me 1
+al driver a 1
+       BASH_CMDS 1
+ shell a 2
+exi 2
+ors (see des 1
+he -V or -v o 2
+hey  had  bee 1
+h (-1) 1
+d af 1
+s, all  1
+ear as  1
+.  S 1
+ds read from  1
+.  T 1
+ried by re 1
+al AND 1
+ase,  if   1
+he form {var 1
+er,  so  a 1
+o  read 1
+or, bash will wri 1
+              BASH_VERSINFO[0]        The major versio 1
+ [ [(]  1
+s.  Af 1
+gro 1
+              0 arg 1
+d  If se 1
+les 1
+h a si 2
+.  U 2
+ is bei 3
+ is bo 3
+he shell does.  This  1
+hes read  1
+erformed.  The res 1
+  ba 1
+er} 2
+es assig 2
+              1 arg 1
+ies (see Programmable Com 6
+              globs 1
+s as i 2
+al delimi 2
+her way  1
+he variable ex 1
+              2 arg 1
+o remove or mark all jobs;  1
+                     val 1
+ shell e 6
+mbered from  1
+       Job   1
+l, a 1
+his exe 2
+o by  1
+ is ei 3
+              3 arg 1
+lays  12
+ of all se 1
+he leadi 2
+s]] 1
+sidered.  The s 1
+a-f. 1
+ro. 1
+       If a  4
+ame res 5
+.  To ob 1
+  agai 1
+ shell f 6
+es, if  1
+.  The TIMEFORMAT variable may be  1
+] [-S] [mode] 1
+              4 arg 1
+  is a 1
+d bi 5
+  be 2
+e (M-\) 1
+       The shell lear 1
+h a ``.'', make ``.*''  o 1
+e of IFS  1
+er.  The ^ o 1
+.  This ex 1
+, is  2
+ime val 1
+              The  val 2
+ed before ea 1
+k.  The fi 1
+       BASH_ARGV 1
+s is 0 if  1
+hose  10
+d ea 3
+o ?. 1
+ is desired,  1
+o TAB, b 1
+ variable has  1
+olor.   The   1
+       read,  a 1
+       This is  1
+ of arg 1
+ser id. 1
+o EXECIGNORE. 1
+le Comma 1
+d C shells (ksh a 1
+s.  Ea 4
+ [ 3
+ shell i 4
+ered, read  1
+s 0  3
+e of HISTFILE is 1
+ ($1) is  1
+ed for a 2
+d de 5
+, alo 1
+ is do 2
+he variable;  1
+how 1
+ds were exe 1
+erformed af 1
+// 2
+s as o 1
+              failglob 1
+hro 26
+ allows a disk  1
+g for variables. 1
+ified as -a. 1
+              Re-exe 1
+o readli 2
+g job s 1
+he shell, if i 1
+ive  EOF 1
+, of  1
+  affe 1
+erformi 19
+.  Comma 1
+sed.  Whe 2
+iri 2
+ are a 1
+ bash   1
+ory (M- 2
+e keyma 1
+       has  a  val 1
+he array i 4
+-file file 1
+              val 4
+              will be dis 1
+ a bla 2
+  ea 2
+ of ex 3
+he versio 3
+eive keyboard-ge 1
+ or disable bra 1
+ses li 1
+-1; do lis 2
+he >, >|, <>, >&, &>, a 1
+o firs 1
+ of ma 6
+-begi 5
+e (M-^) 1
+ mode mask as se 1
+e; i 1
+              removed.  Read-o 1
+ified for  1
+ of FIGNORE.  This o 1
+  shell  variable  refere 1
+, bash lis 1
+ifiers are  1
+ is eq 2
+ry wi 1
+omized by 1
+he assig 2
+ are e 2
+ a 201
+ is fo 4
+ shell o 4
+.  sigs 1
+lied,  a 1
+d fe 1
+all) of ea 1
+ser or 1
+ame val 1
+e) if s 1
+es a maxim 2
+se a f 1
+he arrival of mail i 1
+al hash  1
+ame sh does  1
+ b 59
+ is ig 5
+mdhis 3
+oge 2
+      Trea 1
+ below). 7
+herwise 1
+              Move forward a  1
+he form /dev/fd/ 1
+or is >, a 1
+s is sig 1
+dergo   1
+              Assig 1
+e af 2
+ified for a 1
+dard error, i 1
+d ei 1
+ of me 3
+              /dev/fd/fd 1
+he  dirs b 1
+ess.  This differs from $$  1
+ a defi 1
+osix mode  1
+                      bra 1
+ d 3
+he -L o 1
+rs. 4
+d ge 1
+re  if   1
+ame sho 1
+ory  b 1
+ase-versio 1
+, save  1
+g readli 1
+ems (100) 1
+d.  The edi 1
+e be 1
+ @ is  2
+]}.   A 1
+ired whe 1
+sr/lo 3
+s of whi 1
+ed by a ; are exe 1
+ds will be exe 1
+ e 30
+ive 3
+.  e 1
+ removed from  1
+d do 3
+ are i 1
+              a way  1
+d fi 1
+ shell s 3
+eral forma 3
+r  i 1
+ers, if  1
+ed.  The  1
+ded  val 2
+ f 17
+kslash (\) a 1
+/bash_ 1
+ is  for‐ 1
+s ("" or '') are re 1
+gs} 1
+m, a 1
+s is zero if  1
+ g 2
+, ari 9
+              Arg 2
+ is ex 10
+he members of  1
+ory  e 1
+ory file is  5
+,  behave  exa 1
+  ha 1
+ge.  U 1
+he same forma 1
+lied.  I 1
+lied are  1
+e.   O 1
+ry  11
+llq 1
+ (500) 1
+  are  1
+ is im 1
+                     ra 1
+e is 0 if  2
+ i 293
+e if all of  1
+e ea 3
+s 0. 1
+ dir, i 1
+he shell's o 1
+ivi 2
+ below) or  1
+ked for alias ex 1
+ is le 1
+dexed arrays) or 1
+  do 1
+his lis 1
+ word 1
+less  25
+), a 1
+31 1
+ j 5
+ of lo 1
+r hex digi 2
+ GLOBIGNORE.  The do 1
+ll.  However, se 1
+.   If se 1
+  em 1
+              re 10
+32 1
+d fo 1
+, dis 1
+ (C-x C-v) 1
+d-kbd-ma 1
+olored- 1
+ is modified,  1
+refix is a `~+',  1
+), b 1
+.  This may be  1
+ of BASH_REMATCH wi 2
+d ig 2
+se a q 1
+40 1
+       as SIGINT.  These  1
+s  a 2
+ of here do 1
+e> a 1
+]=val 2
+s.  If 1
+ed by a   1
+       ALL b 1
+rea 77
+41 1
+              $#,  1
+ m 13
+                     The words are assig 1
+              re-read-i 1
+s  b 1
+wo  3
+s (@), vi  1
+ase.  The file 1
+iza 1
+herwise,  13
+42 1
+                      versio 1
+forma 21
+g1/s 1
+e bo 1
+oke 5
+d) form, all  1
+mber of fra 1
+he highes 1
+g  COMP_WORDBREAKS  as  des 1
+he reserved word 1
+ o 182
+              ra 1
+43 1
+d la 3
+  (see  JOB  CONTROL 1
+ of reado 1
+ are s 3
+)T 1
+ Names of shell b 1
+                      bi 1
+ries saved i 1
+he shell's i 1
+]<word 1
+ed job's  1
+; ] ... [ else lis 1
+d ), { a 1
+oma 12
+ore a 1
+-arg. 1
+  es 1
+erforms file 1
+sed for word s 1
+ TAB,  for   1
+raged  1
+s.  The re 6
+e ei 1
+d ex 7
+he shell sim 1
+;  11
+ q 6
+he global s 1
+e.  The li 2
+       Nex 2
+voked firs 1
+              bo 1
+ree 10
+              is dis 1
+orarily re 1
+              Show versio 1
+ead of >. 1
+id or jobs 1
+d ma 4
+md does  1
+he -P a 2
+he -G, -W, a 1
+all or 1
+ r 1
+er, eve 1
+layed 1
+s (O 1
+he variables are added  1
+s.  Ex 1
+       (see D 1
+  bash 1
+ s 257
+ Shell a 1
+he shell is 1
+s of 0  1
+       r      Remove a  1
+       h      Remove a  1
+ode as  2
+       shell-ba 2
+d %-  1
+ras 1
+he --r 1
+s  i 2
+     Dis 4
+       re-read-i 1
+ are de 1
+                     be 1
+e do 1
+d may be followed by a  1
+                             RETURN  1
+ ... |  1
+es.  The re 2
+able wi 2
+  ex 6
+lar val 1
+s or vi mode.  This may be  1
+o Off,  1
+h a `.' (hidde 1
+g; a 2
+              saved.  A val 1
+ed as a file 1
+  ma 5
+ bash  3
+k a  1
+ame whe 1
+g-mode  1
+ames are ig 1
+e library s 1
+              or eq 1
+h /, all ma 1
+ [ |  1
+d &, whi 1
+formi 1
+e how ea 1
+d li 21
+                      ba 1
+o fail ( 1
+sed 2
+his way.  The re 1
+, movi 4
+ry from  1
+ished  1
+ is Off, 1
+              bi 1
+o refer  4
+       |      bi 1
+       ^      bi 1
+       &      bi 1
+       A variable may be assig 1
+ally a lis 1
+SEE ALSO 1
+omi 5
+ll arg 7
+              \\     ba 3
+              \b     ba 3
+ive array variable (see Arrays above). 1
+              for  exam 1
+_loader -o bashdefa 1
+ was defi 3
+s.  Li 1
+       above);  o 1
+ive  shell  i 1
+       The versio 1
+ew val 7
+ is dis 3
+ria 3
+he  foregro 1
+sef 6
+  ($1)  is   1
+d mode.   The  val 1
+e eq 1
+s of 2  1
+refix is a `~-',  1
+he variable's  2
+rib 42
+kwi 3
+mos 2
+ime(3).  The  1
+ed off,  1
+d mi 1
+er, so  2
+, asy 1
+h [[,  2
+s  o 1
+h . or so 1
+olo 27
+rimary  9
+  li 2
+ is re 5
+he  vari‐ 1
+lied, jobs re 1
+ shell-b 1
+e of $$, a 1
+geably  1
+d will be removed i 1
+ bash exe 2
+e es 1
+       --versio 1
+eded by $ is  1
+s is 0  8
+  is 3
+ fd  Read i 1
+     Remove a  1
+o des 2
+                              Perform  1
+es will be refle 1
+ of his 4
+refixes a 3
+.  A job may also be referred  1
+       TERS.  These assig 1
+ is read.  The  1
+ser of  1
+ises  1
+ishes exe 1
+      Exi 1
+ are ge 2
+o save i 1
+ed as if  1
+es.  Some GNU Ema 1
+he form  2
+ENVIRONMENT 1
+              sessio 1
+kslash is removed before a 1
+d lo 2
+or is eq 1
+ases a lis 1
+              Val 1
+ is se 16
+s  s 3
+g ba 3
+ge is s 1
+       shell sessio 1
+he mark  1
+gs or variable assig 1
+h-arg.   S 1
+              This al 2
+       Arrays are assig 1
+.  The eleme 2
+s,   2
+s is sile 1
+e.  The re 1
+lied, exis 1
+g[?]  sear 1
+he  mark-sym‐ 1
+ora 2
+ire sear 1
+ If a 1
+, remai 1
+ is ide 1
+h.  The se 1
+.  Assig 1
+, or  8
+e ex 18
+he $ENV a 1
+g af 3
+he -P o 2
+ook 1
+       For exam 1
+shd 1
+       if   1
+ime as a reserved word 1
+  of 4
+ossible val 1
+              Ro 1
+dary.  The killed  1
+sed, or  1
+e im 1
+he word a 1
+er of arg 1
+              The -f o 1
+o arg 8
+              5 or more arg 1
+ is ass 4
+              assig 3
+ dir.  If .. a 1
+g be 1
+'s exe 1
+ed, be 1
+g eleme 2
+es, of  1
+ is si 1
+ore 1
++1 ... are re 1
+              -b      Re 1
+HISTORY EXPANSION 1
+h -F is i 1
+al more-like  1
+refixed es 1
+g shell as modified by redire 1
+COMMAND EXECUTION 1
+o bra 1
+ged while  1
+ "ex 1
+ser a 6
+                     Re 2
+ly  whe 3
+g da 1
+lare [-aAfFgil 1
+g Readli 1
+s (a 1
+ory.  A 1
+ro defi 3
+heir file  1
+e" forma 1
+.  Care sho 1
+seq 3
+ via PATH 1
+abled.  The = o 1
+ser 55
+d re 20
+              For ea 1
+file  re 1
+, sile 1
+ed  a 1
+       kill-word (M-d) 1
+shi 1
+ies are  1
+eeded.  A 1
+dergoes  1
+ems followi 1
+og‐ 1
+g a / as a 1
+ds, whe 1
+ses 3
+e li 11
+h `` 1
+  defi 3
+d or file 1
+s.  Re 1
+ges  i 1
+he jobs   1
+'s exi 1
+,b 1
+              The   3
+ffix ma 1
+g al 1
+hese assig 1
+ files ~/.bash_ 1
+e is 3
+              PATH  sear 1
+] [[arg] sigs 1
+ers will  2
+g ea 5
+              -f     Use f 1
+lyi 1
+ed, ea 1
+, his 2
+ses fall be 1
+or 1 is d 1
+hes zero or more o 1
+ge  ex 2
+ori 3
+he array, so  1
+ial word  1
+              BASH_VERSINFO[5]        The val 1
+o dis 7
+s.  See SHELL VARIABLES above for a des 1
+er readi 6
+g de 3
+or  begi 1
+sed, his 1
+-a 2
+d se 3
+       PATH   The  sear 1
+       will be  1
+  re 3
+d ri 1
+sed by ba 1
+       remembered sear 1
+       assig 3
+o ema 1
+ looks like 1
+-b 1
+s.  If o 1
+g File  Des 1
+sla 3
+       CDPATH The sear 1
+       BASH_LINENO 1
+kslash.  The ba 1
+es.  The ba 1
+ed words a 1
+ified) a 1
+osi 63
+s is 0. 2
+he shell.  The  2
+es from  5
+ory -a 1
+d.  If  4
+l val 1
+y  delimi 1
+her readli 2
+ is less  1
+ially.  Exi 1
+air of  1
+ed by * or @,  1
+o PATH, MAILPATH, a 1
+ of exi 1
+e has bee 1
+ds word, a 1
+il a break  1
+med by i 1
+ame sh, bash looks for  1
+ Posix mode, - 1
+ or [,  1
+              Re 3
+       &      Re 1
+o save ea 1
+o "\[", keys  1
+h @), or  1
+ses a 1
+o bri 1
+h alias 1
+%3lR\ 1
+ly 8192)  1
+file file 1
+ory.  I 1
+  se 6
+e, had bee 1
+ gives de 1
+e of 1
+d si 1
+              The word before  1
+his seq 1
+he mark. 1
+              Perform  1
+ame as a 1
+ser i 2
+mbers be 1
+mber or -.  If i 1
+he globs 1
+ of gro 1
+ives o 1
+esses 1
+ed  i 2
+.  This also affe 1
+.   If   3
+s.   2
+.  The defa 3
+sage sy 1
+s is 1. 1
+dard, ema 2
+       The   2
+ 500) is saved. 1
+d, if a 1
+-f 1
+              sear 2
+h ba 6
+g as 1
+eeds as des 1
+he failglob shell o 1
+       Tha 1
+al words i 1
+sio 284
+s),  1
+rod 16
+er may be q 1
+ is forma 2
+       rever 2
+h-his 4
+       -R var 1
+]}.  The bra 1
+ax is also a 1
+hs  des 1
+       shell sear 1
+              wise. 1
+              form  1
+e.  The eval 1
+, shell error messages are wri 1
+s.  Tha 1
+ed, ei 1
+ 0.  a 1
+g ei 1
+al  o 1
+g  (like  addi 1
+ levels.   1
+o fil 2
+im.  This is how  1
+he HISTSIZE shell variable.  If a 1
+o zero.  If  1
+ -h. 1
+g.  If i 1
+e of IFS (a 1
+ears ide 1
+o_res 1
+abled before readi 2
+his val 3
+-i 18
+es of a m 3
+ame for whi 2
+lay-shell-versio 1
+eger val 2
+d  ${ 1
+losely as  1
+.g 1
+ors 5
+rog 1
+g ``r'' re-exe 1
+ames of all ex 1
+s shell variables se 1
+       x-     Abbrevia 1
+       x*     Abbrevia 1
+ a his 3
+s, as if me 1
+o self-i 1
+ may be referred  1
+he kill  1
+, exe 1
+       This is sema 1
+       If arg 1
+ of - is eq 1
+ser o 1
+sis 14
+              fied as arg 1
+d exe‐ 3
+d so 3
+g do 1
+al  sear 2
+ized as reserved whe 1
+ossible, while   1
+herwise i 3
+ed  o 1
+                      1.     The -F o 1
+, so  1
+er all of  1
+he word s 1
+a- or Co 1
+ll or  3
+ses i 2
+he size of a 1
+d1 &&  1
+wee 31
+e re 3
+g  semi 2
+ream  1
+  is  a   1
+e.  See HISTORY EXPANSION below for a des 2
+dexed arrays, if  1
+%3lU\ 1
+ser;  1
+der CONDITIONAL EXPRESSIONS,  2
+gle  q 1
+o $#.  If  1
+                      his 2
+,  diag‐ 1
+he shell's  9
+              before  1
+o jobs 1
+s is 0 1
+h bi 5
+ear a seq 1
+der SHELL BUILTIN COMMANDS below). 1
+       Sim 1
+o modifi 1
+  are  s 1
+d, if i 1
+dexed array, if  1
+h ea 4
+s,  dis 2
+ds.  If  4
+-o 7
+rol 3
+med.  The re 1
+       may be  1
+d ya 1
+/i 2
+              C-Me 1
+es is similar  1
+ zero, TMOUT is  1
+ -o  1
+d  are   1
+       Por 1
+rom 29
+ory 13
+h keys i 1
+e se 3
+erisk is a 2
+e (C-x R 1
+osed of al 2
+er as if i 2
+ed  s 1
+ed,   3
+rre 189
+d all remai 2
+              -r     Ba 1
+wd [-LP] 1
+o have a visible s 1
+ from dir, ba 1
+-q 4
+rol-J  1
+d; ema 1
+r am/ 1
+esses whose  1
+g1 sor 2
+ of lis 1
+he old-s 1
+ive offse 2
+ is lef 1
+              The  his 1
+ame=[val 1
+ame of a sim 1
+d wi 2
+ behavior of his 1
+g ig 3
+ses o 2
+s.  Wi 1
+g es 3
+der Programmable Com 1
+h q, b 1
+       forward-sear 1
+       reverse-sear 1
+he forward dire 1
+       ·      shell aliases defi 1
+ has a 1
+sed as a si 1
+es a level of variable i 1
+o be bra 1
+              -T     The maxim 1
+              -P     The maxim 1
+              -x     The maxim 1
+              -v     The maxim 1
+              -s     The maxim 1
+              -r     The maxim 1
+              -q     The maxim 1
+              -m     The maxim 1
+              -l     The maxim 1
+              -k     The maxim 1
+              -i     The maxim 1
+              -f     The maxim 1
+              -e     The maxim 1
+              -d     The maxim 1
+              -b     The maxim 1
+ver 12
+o make  2
+kjobs 1
+-s 4
+ ($2) is  2
+ames.  A sam 1
+he shell looks for des 1
+1 is s 1
+o a forma 1
+ is exa 2
+ed words s 1
+e (M-r) 1
+h bo 1
+d \2 es 1
+he jobs  2
+sed (see FUNCTIONS below). 1
+ly (see D 1
+ files, a 1
+or} 1
+ive shell wi 4
+       --verbose 1
+  wi 6
+ged.  The re 1
+h as 1
+he -T o 1
+e.  A  2
+ (as 1
+              array a 1
+ed  as  a 1
+              his 4
+es a more verbose des 1
+ros 2
+herwise s 1
+d as a 1
+       Pro 1
+e.  This variable is available o 1
+ of shell variables, a 1
+ reserved word is  1
+; [ elif lis 1
+ bash a 1
+d $"s 1
+o be dis 7
+lobber 1
+g ex 9
+ified, a 1
+       same  his 1
+e.  See ALIASES above for a des 1
+ (ei 1
+g ho 3
+ GLOBIGNORE 1
+ are re 2
+ed, ex 1
+ (!), a 1
+d "${ 1
+       INPUTRC 1
+ is exe 31
+y (" 1
+qrs 1
+g ma 7
+herwise 0. 1
+se all remai 1
+                              Same as -B. 1
+  EXIT  is  exe 1
+l whe 2
+ized o 1
+essor whi 1
+o zero, a 1
+e wa 1
+ely whe 1
+e.  All b 1
+ases where  1
+              The val 1
+       PS4    The val 1
+       PS3    The val 1
+       PS2    The val 1
+       PS1    The val 1
+       PS0    The val 1
+       OPTARG The val 1
+erformed.  Assig 1
+voked as sh, bash e 1
+ a dire 2
+d.  This is wha 1
+                      hel 1
+       modes 1
+o limi 3
+/s 1
+ (see PARAMETERS below). 1
+o mail  1
+              eleme 1
+ies are i 1
+ers as  1
+d.  Ba 1
+ are se 1
+                     defi 1
+ (do 1
+ireme 1
+              The maxim 1
+rofile or a 1
+                     read  re 1
+hem.  Firs 1
+              "\C- 1
+ (see READLINE below). 1
+       COMPREPLY 1
+              This  defi 1
+her shell 1
+revi‐ 1
+       glob- 1
+       id++ id-- 1
+g me 2
+              of   1
+o  be  removed  from  1
+ore whe 1
+he variable s 1
+       --deb 1
+/bash 1
+he < a 3
+g li 1
+ds for Movi 1
+o his 1
+se a si 1
+ally ^Z, 1
+bshell rei 1
+es hexade 1
+ alias bei 1
+ variable.  If i 1
+ed as if i 2
+ above.  A   1
+g is 2
+d as i 1
+       be  1
+wo forma 1
+   Co 1
+d  OR  lis 1
+       All  of   1
+       Whe 31
+m is 5000.  Whe 1
+ of a SIGHUP.  Before exi 1
+ bash i 1
+s.  The file des 1
+              file.  By defa 1
+o for 6
+s, or whe 1
+e wi 8
+ error  whe 1
+k, so  2
+d (vi-move is also  a  sy 1
+ed, if  3
+ed),  1
+g mi 2
+ %1 is a sy 1
+       for  a  defi 1
+abled.  If   1
+              defi 3
+                      defa 2
+he RETURN 1
+o las 2
+              hel 1
+es, assig 2
+.  This is a  1
+s.  Whe 2
+       If val 1
+r3 )) ; do lis 1
+                     defa 1
+ories from  1
+o mea 1
+lare variables a 1
+m val 2
+     The maxim 4
+              by ea 1
+ed as des 3
+rol is a 3
+he -V o 1
+ame.  If 1
+ives  1
+g of 1
+ged wi 1
+rovides  several ways  1
+       of   2
+refix.  If  2
+hored a 1
+e) is a 1
+/~ 1
+d -f is  1
+              The  re 2
+his mode,  1
+d  or  f 1
+.  This is effe 1
+ially.  The exi 1
+ forward as well.  If  1
+) also refers  1
+he file will  1
+valid, or  1
+e sy 1
+s) a 1
+       SECONDS 1
+able; however,  1
+ file.  If bash is s 1
+ks; -P, -T, -b, -k, - 1
+     Lis 1
+abled  4
+s, or a 2
+ified, o 1
+h ke 1
+       FCEDIT The defa 1
+here, a 1
+ file /e 3
+he variable i 1
+ a lis 4
+h ex 3
+     Disable ( 1
+ errors i 1
+he order of  1
+HHHH  2
+ of aliases i 1
+d word is a f 1
+ser has fi 1
+he $if dire 2
+ressed  1
+]>word 1
+lare, lo 1
+e wo 1
+       dard.  Ba 1
+h ma 8
+e is loaded i 1
+o exe 5
+rol is e 2
+er if  fewer   1
+.  If   2
+ed, ra 1
+able-me 1
+b-ex 1
+g ra 1
+ of word is s 2
+egers or si 1
+ive shell.  If a 1
+ ... ] 1
+he hexade 7
+ed (s 1
+       defi 1
+       The shell asso 1
+refixed wi 2
+es less  2
+side   1
+       A  variable   1
+o mimi 1
+ shell (see INVOCATION below). 2
+g mode (see   1
+.  The - 2
+ses a si 1
+ame [arg 2
+              Drag   1
+       show-mode-i 1
+al's bell. 1
+ed jobs are  1
+g disow 1
+er  0  is 1
+ a word,  2
+ bash s 1
+              defa 2
+modified, or %, for me 1
+k.  Whe 1
+d ) i 1
+ryi 2
+ame if i 1
+.d/$1.sh" >/dev/ 1
+he -W o 1
+a modifier key  1
+esses a 1
+ mode mask 1
+ors.  If word ex 1
+ removal o 3
+ser exe 1
+r, a 1
+lays error messages ge 1
+  or f 1
+es, eve 1
+hed as 1
+) file forma 1
+g re 6
+ew limi 1
+              asso 3
+o a  23
+o exi 8
+ed, re 1
+he kill b 3
+rol is i 1
+       -v var 1
+g-val 1
+al' b 1
+e yo 1
+ively.  If limi 1
+              have  1
+h li 6
+he -L  o 1
+       By  defa 1
+s) i 1
+       The defa 2
+he = i 1
+he RETURN  1
+g, as if  1
+o array a 1
+he word bei 9
+ forward over  1
+rol,  1
+ded from  2
+er a de 1
+o be re-i 1
+es.  A si 1
+       bfox@g 1
+m size of files wri 1
+g se 2
+ory is sear 1
+herwise,   1
+e $'\ 1
+ed, se 1
+o read 1
+ribe how bash exe 1
+herwise.  Whe 2
+er is read a 2
+, lower 1
+able !  s 1
+ body.  If re 1
+ase-word (M- 1
+ose-words (M- 1
+he "! 1
+d word does  1
+wo forms 1
+ fails,  1
+ allowed. 1
+ds  from  ~/.bashr 1
+ory, a 1
+ed mode wi 1
+s is 0 if i 1
+ra forma 1
+arded.  If  1
+                              Hel 1
+      Pri 1
+ory  ex 2
+he -X o 1
+vars shell o 1
+ime reserved word 1
+ory is saved (see HISTORY below).  The defa 1
+esses i 3
+h lo 1
+o disable  1
+g  a  f 1
+modified (Off) 1
+he fol‐ 1
+es (see  1
+       asso 1
+he home  dire 1
+he  fi 1
+abled. 5
+s as  3
+o dir fails.  Wi 1
+able, or if array is  1
+  or o 1
+lied  wi 1
+he home dire 2
+ers.   Shell  q 1
+              Clear  1
+, or -ge.  These ari 1
+g2 lexi 2
+       word is regarded as a  1
+) or >(lis 1
+ as file1 file2 af 1
+ers, `&' ma 1
+d had bee 1
+ory   2
+k.  This ex 1
+o Me 1
+e-ba 1
+he  em 1
+ed, a ra 1
+he hard or sof 1
+s is false if a 1
+her  o 3
+k af 1
+herwise a $ 1
+r HH 3
+e of IFS is 1
+o refere 2
+ of sig 1
+he shell.  The re 1
+he shell is a logi 1
+ a word  2
+he -a  1
+ed from file 1
+h ra 1
+       affe 1
+e> is ig 1
+s  do   1
+ array variable from whi 1
+y(3)), or o 1
+als ig 1
+                              The effe 1
+he forma 8
+ivale 30
+ory  li 1
+voked, ge 1
+ers, eve 1
+dlers se 1
+es read  1
+   Pa 1
+ers or words  1
+o save all li 1
+kslash; see  1
+mber).  If las 1
+o assig 4
+d -S o 2
+s.   The  firs 1
+wri 1
+ked-dire 2
+d-ge 1
+ory, i 1
+ser's logi 1
+ of val 2
+o be mea 1
+ribe  1
+.  The bo 1
+he ;; o 1
+s, a 14
+ered, a 2
+ew worki 1
+o vi- 2
+o lis 2
+abled, readli 2
+ers will be i 1
+ shell exe 2
+ame or immedia 1
+offse 2
+, res 2
+he  ig 1
+d [arg 1
+ames for ex 1
+oggle 1
+, -le, -g 1
+dex (for i 1
+esses r 2
+ of sho 4
+  dire 2
+r] [firs 1
+-file 1
+g redire 1
+hed ex 2
+ories.  Assig 1
+he &  1
+esses s 1
+her modifi 2
+ a ba 1
+ory ( 2
+k ea 1
+     Clear  1
+ame is   1
+ ($3) 1
+s do  2
+g ya 1
+e.  The killed  1
+rogram i 1
+d (see SHELL GRAMMAR above). 1
+he  la 1
+ shell exi 5
+FILES 1
+h se 2
+here  are  more 1
+o be exe 6
+lare is exe 1
+  for   1
+re‐ 2
+ime(3) a 1
+ is read,  1
+he $( 1
+ed.  Array variables  1
+ds above).  Tha 1
+amed   2
+g wi 27
+, a  4
+s of a 1
+ mode);  1
+d (see SHELL GRAMMAR above), 1
+ (or 1
+s agai 1
+he form key 1
+sly (i 1
+dard error o 2
+g variables are se 1
+ess (i.e., i 1
+valid; o 1
+he  ex 12
+s, or zero if all 1
+       eval [arg ...] 1
+              Lower 1
+or 2 is d 1
+ses his 1
+ems.  The se 1
+   Pi 1
+  bash is s 1
+  read i 1
+g is saved a 1
+ as well as all of  1
+ized. 2
+he jobs a 1
+g assig 1
+ is omi 5
+s, i 5
+ory - 2
+ is see 1
+ames, if job  1
+] [-C  1
+ies, while available, will  1
+g  dir  are  ig 1
+ word.  Words are delimi 1
+d variables are se 1
+hed li 1
+       as  1
+ded (see PROMPTING below) a 2
+ames as des 1
+ify his 1
+ded via  1
+s affe 2
+       The  word   1
+h a ``.''  will ma 1
+ allows a  1
+o iss 1
+ file exis 1
+rovides for fili 1
+s; see below.  O 1
+hem.  This may be  1
+s is e 2
+sed.  I 1
+g ``-f foo=bar'', a 1
+er, whi 2
+hes more  2
+s, bash assig 1
+d BASH_SOURCE.  Ea 1
+, val 1
+y''  2
+g  a  slash   1
+s if  2
+ are words.  Vario 1
+ream, maki 1
+kward (M-C-]) 1
+y valid shell i 1
+gs may be ge 1
+ified, ea 1
+ -f is ass 1
+s above. 1
+es read. 1
+he  li 4
+ readli 11
+ialized from  1
+s word  1
+ase le 5
+ers, digi 1
+.  The es 1
+ame of a file i 1
+ame'' wo 2
+ed or rese 1
+hars] [- 1
+h  have  more 1
+ is req 2
+s ``s 1
+real\ 1
+       HISTCONTROL 1
+  file 2
+ered, o 2
+s, o 4
+s is i 2
+ 0 or grea 1
+ew,dis 1
+       able is a  1
+              hard  limi 1
+osix mode, o 1
+ame] [ 2
+o  $OLDPWD 1
+              No effe 1
+ file, a 1
+ is res 1
+ -.  This allows s 1
+ a fa 1
+all or eq 1
+ers.  Whe 1
+e removal are  1
+sidered as a si 1
+or sshd ge 1
+eives a SIGCONT sig 1
+ol‐ 1
+al, readli 1
+h or wi 1
+sed.  O 2
+me  jobs 1
+k or forward).  The his 1
+ory (ba 1
+ a seq 1
+s.  If a se 1
+d fails be 1
+he  array.   If   1
+ed job exa 1
+o 3.   If   1
+h is also eval 1
+ses exe 1
+              If  limi 1
+ified, bo 1
+e of PATH  1
+g for mail has bee 1
+er followed immedia 2
+dard   1
+.  The ex 3
+eded by  1
+              of limi 1
+s, s 3
+o sear 4
+ is removed. 1
+d-li 6
+rsor.  Whe 1
+              effe 1
+bshell is s 1
+ors a 2
+es.  ${! 1
+er is joi 3
+ered, s 1
+ified as -j. 1
+       visible-s 1
+s (-) a 1
+d is read,  1
+dard error a 1
+e is added whe 1
+r1 a 1
+ of whe 2
+ a val 4
+ify how arg 1
+ed, readli 3
+h wi 1
+MM 2
+h a zero exi 1
+s, as des 2
+erformed before  1
+roblem. 1
+ified array.  I 1
+y  o 1
+       LC_TIME 1
+              Use   1
+d (see SHELL 1
+h bash is exe 3
+s are  25
+ame from shared obje 1
+rol e 1
+d adds a key seq 1
+g " a 1
+al, a 2
+ array of s 1
+ribed above (Com 1
+ors are eval 1
+o hold  2
+osix mode, i 1
+ (ye 1
+raili 15
+              sy 2
+d +r  will   1
+g ! i 1
+ is sig 1
+  exe‐ 1
+ame.  These s 1
+2 are  1
+rol f 1
+ a do 3
+PROMPTING 1
+able.  If  2
+       Aliases  are   1
+e is ``\s-\v\$ ''. 1
+der DEFINITIONS has s 1
+ file, i 1
+y  s 1
+s begi 2
+ld be bo 1
+sage, ge 1
+ a sim 3
+ge for  1
+s.  These o 1
+ed, a 17
+ is RETURN,  1
+her -s or - 1
+dard ( 2
+     Pri 1
+ ($3) is  1
+              The  word  before   1
+kjobs o 1
+ame.  The re 1
+ables  1
+e before bash exi 1
+ed foregro 2
+SHELL GRAMMAR 1
+       effe 1
+her rshd  1
+resses  3
+ld make M-C- 1
+       No   1
+ed, b 1
+ ($"s 1
+, $0 is se 1
+e (POSIX) Par 1
+mber.  Sig 1
+al(s) sigs 1
+d B, a 1
+ fd] [-C  2
+ified as -b. 1
+ (+). 1
+       arg1 OP arg2 1
+er # is   1
+ (C-v TAB) 1
+       isear 1
+ers of  4
+       To fa 1
+e as a 1
+ede or a 1
+ members be i 1
+ of vir 1
+bshell or s 2
+ive  arrays.  If bo 1
+he  se 2
+ hex digi 2
+ode had ge 1
+erformed  2
+sly   1
+omes  2
+ories (Off) 1
+ll val 3
+mber of jobs  1
+s may be lis 1
+ors  below) 1
+ array variable s 3
+al.  Bash does  1
+e word.  Whe 1
+       BASHOPTS 1
+he == a 1
+reedi 2
+o res 3
+he addi 2
+d, as if i 1
+e,  false,  a 1
+       do- 1
+ ambig 1
+ horizo 1
+.  The bra 1
+g %-. 1
+arily, variables a 1
+al array eleme 1
+her -H  1
+om‐ 18
+ks if  1
+                     si 1
+abled, ( will also i 1
+ory,  2
+              Add  2
+ds.  Bash a 1
+e).  If  1
+d C-J will  1
+, whe 3
+ers des 1
+              \'     si 1
+rol o 5
+; ] fi 1
+ly of al 1
+ds from /e 2
+              so 1
+llglob 1
+ory E 1
+aller.  If  1
+k li 3
+al-reverse-sear 1
+ds may be give 1
+              /dev/ 2
+m al 1
+s bei 1
+       SHELLOPTS 1
+d false o 1
+ a war 1
+g + ra 1
+he real  5
+ed, i 7
+              Modify  1
+er % i 1
+       by  2
+ a la 1
+voked or a shell s 1
+h  1) 1
+o -D, b 1
+he  si 1
+                      se 3
+d -X o 1
+ames are ema 1
+              Perform his 3
+g Redire 1
+ified logi 1
+ead.  O 1
+mber of  digi 1
+ly, ex 1
+, whi 7
+o seq 1
+rol s 1
+h.  This is a sy 1
+a  3
+s Co 1
+e form of s 1
+              is followed by a  1
+ked for mail.  The message  1
+sed, limi 1
+ or a s 3
+hey are read. 2
+he -- 5
+ a ma 2
+ -s"'', so  1
+d removes e 1
+              before   1
+ew sear 1
+his vari‐ 2
+lose. 1
+lasses  1
+ors s 1
+d by o 1
+.  The re 4
+ error message whe 1
+) ea 2
+ers, or s 1
+o sig 1
+eives a sig 1
+              arrive. 1
+ is 60 se 1
+ds, $0 is se 1
+/bash.bashr 5
+              followed by a  1
+ame.  Whe 1
+] [-F f 1
+o sele 3
+refix of  4
+ro body,  1
+abled, lis 1
+o words, if i 1
+are, as  1
+       ENV    Similar  1
+sed (see HISTORY EXPANSION below),  1
+ read ei 1
+here are fewer words read from  1
+o val 7
+he  so 1
+d.  This is a sy 1
+he -o  1
+ (see SHELL BUILTIN COMMANDS below),  1
+ed, o 3
+voke  a 1
+o righ 4
+ll or U 1
+h array member se 1
+ds if a  1
+                 se 1
+d.  Wi 1
+     Whe 1
+.  The se 2
+o save 1
+der SHELL BUILTIN COMMANDS below),  1
+he mark-dire 1
+h-ba 2
+md-mode-s 1
+ a me 1
+h may be lis 1
+her redire 1
+h word for  1
+  asso 3
+              fra 1
+       BASH_SOURCE 1
+       ·      se 1
+layed.  If  1
+ removes a  1
+erformed, 1
+.  The f 1
+he isear 1
+              se 7
+ args, ge 1
+dexes beyo 1
+.  The fil 1
+erm   The   1
+d or may follow a  1
+l ma 1
+g.   S 1
+he message ``The mail i 1
+erformed. 3
+     Perform his 1
+e-horizo 1
+ers from bei 1
+s  is  de 1
+o wai 2
+e 3 is  1
+de a valid val 1
+d  408
+ Readli 1
+                     -2 re 1
+side  2
+ho does  1
+                      bashdefa 1
+ is 1 or -1 as a 1
+.  The i 1
+d added  1
+2 if  1
+rogrammable  11
+ser id is se 2
+d [ args ... ] 1
+readli 1
+er is read whe 1
+e  key  seq 1
+ed.  This  1
+o var 1
+ases, bash assig 1
+or, wi 1
+ size (ma 1
+s a  8
+              shif 1
+verify shell o 1
+       bei 2
+sed  by 1
+              swi 1
+       AND  a 1
+efail  is  e 1
+e  262
+.  If a 2
+reasi 3
+he shell.  No  1
+ array variable a 1
+] [-P  1
+a, 1
+k-las 3
+d will  1
+he maxim 4
+ossible ma 1
+ames are re 1
+ a lo 1
+hey had  1
+d 1 o 2
+ser file- 1
+-zero exi 3
+ered.  The  1
+s word, b 3
+a- 2
+h level. 1
+              -C  1
+                      gro 1
+rogrammable 2
+       magi 1
+ames is ema 1
+ive kills  1
+ilde,   1
+s is  19
+ for - 1
+ors are  4
+f  3
+ error message a 2
+e is disabled. 2
+e word i 2
+rol-G will abor 1
+s edi 1
+ame above i 1
+dexed a 1
+ is sor 1
+ory file.  These are his 1
+d a key seq 1
+h a defa 1
+ds for Ma 1
+s defi 2
+, or grea 1
+b- 1
+es a de 1
+ames.  The - 1
+o a reado 3
+ase.  The  1
+, swi 1
+ax error o 1
+or a b 1
+ 3 are  1
+              The key (or fi 1
+g  374
+s of  59
+der READLINE above).  This is e 1
+       shif 1
+he  e 3
+e removal.  The res 1
+d) 1
+ded).  Ea 1
+ly rese 9
+he shell.  The followi 1
+                      keyword Same as -k. 1
+ored,  3
+  of -l lis 1
+ory [ 1
+d for edi 1
+o modify  1
+ory-size ( 1
+kjobs shell o 1
+ by 0 is  1
+he  f 3
+.  The s 1
+FUNCTIONS 1
+al key of a key seq 1
+shed  o 1
+he $((...)) ex 1
+he -a o 3
+essed, shell f 1
+s  1;  0  is 1
+s forward i 1
+s Me 1
+       a job asy 1
+ (see Arrays below),  1
+here are  arg 1
+h  274
+ is ERR,  1
+ <sig 1
+he shell re 3
+(3); bash-4.1 a 1
+lay hel 1
+ally as  1
+g of bell-s 2
+d is immedia 1
+ory-sear 2
+h forward s 1
+al Co 1
+rol-N.  Similarly, me 1
+d, 2
+ories already i 1
+he variable NAME_PID.  The wai 1
+e if a 4
+ified, have  2
+g of dir.  If  1
+d- 7
+he  i 2
+he abse 1
+self. 2
+sly, a 1
+dex is 1
+he admi 1
+.  Also se 1
+d  is ide 1
+he shell wai 1
+d. 23
+ a se 4
+o be 3
+e of eval.  If  1
+s  is  eq 1
+o move ba 1
+              Move  4
+e.  Normally, bash wai 1
+ers /, $, `, a 1
+ame.  The  2
+ed by a ba 1
+es words.  O 1
+ored  3
+ files are exe 1
+.  If m 1
+  give 2
+.  The x 1
+g1^s 1
+e, 1
+afied  1
+d 35. 1
+ribed below.  If le 1
+o; o 1
+ored). 1
+       bla 1
+s are 3
+g from  7
+e- 11
+d  -r, a 1
+rred or  1
+ed, or, if  1
+ory a 1
+d ESC [ 1 1 ~  is  bo 1
+o whe 1
+ or de 1
+); word s 1
+       FUNCNEST 1
+ds are read from   1
+ame were s 1
+e. 50
+ame is followed by =word,  2
+he begi 24
+ Use readli 1
+ory b 3
+ked all a 1
+h may i 1
+m li 1
+s arg 2
+ify a valid his 1
+ a si 4
+ld be re 1
+o overwri 1
+o bi 3
+he -b o 1
+dex of 1
+mber, or i 1
+herwise, i 2
+ries  2
+d2 2
+o ea 19
+erforms bra 1
+he  o 2
+ym for g. 1
+.  The his 1
+ed immedia 2
+al OR 1
+g File Des 4
+  falls 1
+ Defa 1
+ be of  1
+em wide i 2
+ely followi 6
+ory e 14
+o de 13
+o whi 3
+              remove   1
+       edi 3
+       is  4
+e (TAB) 1
+-mark  1
+hey are  3
+ed.  Aliases are ex 1
+dard O 2
+  eval 2
+osix mode before readi 1
+   Shell Variables 1
+ is +O,  1
+k  10
+ld be se 1
+s fail 1
+k wi 2
+he base 4
+y similar i 1
+, wri 1
+h eleme 3
+.  If s 1
+d for 2>&1 |.  This im 1
+e if i 2
+ a jobs 1
+o sor 1
+ros a 3
+ed so far. 1
+       self-i 1
+g- 1
+sed, wri 1
+d  , ex 1
+arser are saved o 1
+       fea 1
+g. 26
+he same  10
+he  s 9
+ribed 3
+refix 3
+ive.  May also be s 1
+       of  3
+g forward i 1
+       bli 1
+ors re 1
+o be ski 1
+ed job.  There is  1
+abled   1
+ial li 1
+ame of a 1
+self q 1
+ame is a 5
+,  $'s 1
+o load  1
+ory i 2
+              i.e., ``.''.  If dir begi 1
+e of a m 1
+har-or-lis 1
+              has  1
+d),   1
+ order is  1
+s dis 1
+ory (see HISTORY below).  If  1
+mber, or o 1
+r1 ; ex 1
+s effe 1
+h-arg (M-C-y) 1
+h- 2
+ modifi 1
+o as 2
+  for a 1
+here were  1
+der REDIRECTION. 1
+h. 8
+lied.   The  variable 1
+ easy  1
+e, so exe 1
+rol-o 1
+       des 5
+ally have  1
+s of a  3
+e-Agai 1
+m  11
+es by defa 1
+o be eval 2
+lied.  If a variable  1
+d all of  1
+o ei 1
+heir ow 1
+g2 5
+ order of  1
+ed a  1
+ $0 is se 1
+ Defi 1
+o zero.  Ea 1
+he shell be 2
+k, maki 1
+ off reado 1
+he word af 1
+ed, so  1
+d is des 1
+d addi 1
+ame is e 1
+)  form  is  1
+              || & && ; ;; ;& ;;& ( ) | |& < 1
+i- 1
+al, Bria 1
+e.  If  6
+ored. 5
+es, whi 2
+o ge 6
+ll dire 2
+res are available. 1
+r Tr 1
+o fi 7
+              Se 6
+d a diag 1
+ory o 1
+es a ma 1
+er (07) 1
+amed e 1
+ified as a  1
+der ALIASES.  This o 1
+ or eq 10
+h  a   2
+ args, re 1
+wo hex digi 3
+amed f 2
+yle (a 1
+der of  2
+e if s 2
+he file dirlis 1
+ds as em 1
+e 1, bash dis 1
+he -f a 1
+dow size af 1
+ries. 2
+ame is i 2
+ories.  The defa 1
+       arg 4
+h  ${ 1
+o  493
+.  The exi 2
+d C-o is bo 1
+d  variable 1
+e, aliases defi 1
+or is <<-,  1
+, be 1
+ SHELL BUILTIN COMMANDS). 1
+g ;& i 1
+e> 1
+s or allow  1
+d  followi 1
+ory s 26
+              above  1
+abled, if jobs 1
+he ``defa 2
+s,  if  s 1
+k- 4
+e of PPID 1
+sly.  I 1
+       below),  a  word  begi 1
+y of COMP_WORD‐ 1
+h all files a 2
+k. 7
+o forge 2
+gs similar  1
+g level will   1
+he defa 34
+g jobs. 1
+o fo 2
+layed, a 1
+ally  ESC-[.  If  1
+g aliases a 1
+              Co 9
+-as-kill 1
+, /dev/s 1
+ified) for a  1
+ +o res 1
+ also  1
+essarily  2
+abled.  This o 2
+  Same as - 1
+hes, a 1
+o es 1
+o ig 2
+ame of o 1
+              below  1
+, ea 5
+                     lis 1
+hes, b 1
+       dis 1
+dard a 1
+he read b 4
+              \[     begi 1
+e of   1
+ word.  If a 1
+ GLOBIGNORE is removed from  1
+ffer, for  2
+ is sys 3
+o ${COMP_WORDS} of  1
+       ema 2
+              abled; o 1
+he -e o 4
+, de 2
+ or ma 1
+s  so  as  1
+ored a 1
+ilde  are   1
+       If  a  word  begi 1
+ of ~/.i 1
+ also ma 1
+2 is  1
+              symboli 2
+]] 1
+d -P  1
+ly remembered dire 1
+ed words.  The li 1
+he word bo 1
+, or does  1
+hird word of a  1
+ead  of 1
+ shell is s 1
+o la 1
+ll.  If  1
+ $# or less  1
+m. 1
+ll file 3
+s 124, a 1
+       above  1
+es will have  1
+ allows bi 1
+ame whose s 1
+       READLINE_LINE 1
+file  file  o 1
+       --hel 1
+o ex 4
+ers, whi 5
+ame is s 4
+refix is added a 1
+              Swa 1
+r  1
+s (Off) 3
+h (0) 1
+al for whi 2
+er.  If  3
+              $((ex 1
+ POSIX message q 1
+o ma 21
+oglob  Same as -f. 1
+              -h      Remember  1
+                     Ca 2
+  mark 1
+iversal-arg 9
+ess's i 1
+o im 1
+he body.  (See FUNCTIONS below.) 1
+ase.ed 3
+ge fails. 1
+ory file, marked wi 2
+ess is  4
+eE] [arg ...] 1
+he defi 2
+d affe 1
+d-of-file ( 1
+ive shell), a 1
+aram‐ 2
+              delimi 1
+o le 2
+em  forma 1
+ shell is o 1
+s  211
+m so 1
+sed, bash will  1
+ed from  15
+d is e 2
+              lis 6
+her variable is se 1
+s or  1
+ive shells do  1
+e regardless of where  1
+he C  1
+       The  FUNCNEST  variable,  if  se 1
+], where  1
+es a ra 1
+reserved a 1
+              begi 1
+       COMP_LINE 1
+he -f o 7
+h a digi 1
+dard i 14
+ed.  A   1
+       mark-modified-li 1
+e is read, em 1
+em  o 1
+y, a 2
+der SHELL BUILTIN COMMANDS below) are  1
+ers immedia 1
+h frame of  1
+       ((ex 1
+o. 1
+       hel 1
+o  be  affe 1
+ed.   The 2
+o me 2
+he same as ba 1
+ "Weekday Mo 1
+ allows bo 1
+       ass 1
+he form [s 1
+ored i 1
+e.  Si 1
+he  des 2
+d.  A 1
+                              If  se 1
+ read wi 1
+, ge 2
+kward 2
+d of i 2
+he -e 1
+       formed.  Co 1
+his variable will  1
+i-li 5
+d is i 5
+lare will dis 1
+sed  wi 1
+       The  sy 1
+llglob o 1
+ word ] ; do lis 1
+                              Same as -C. 1
+              Ca 3
+sly a 1
+o ob 5
+d,  a 1
+       g      Ca 1
+       s/old/ 1
+ossible for shell f 1
+er  ( 1
+ribed  1
+ially.   See   1
+he  -o  o 1
+ had bee 7
+he  word   2
+       delimi 1
+ side of  1
+g ((i 1
+ories (O 1
+    3
+              [1] 25647 1
+ll) dire 1
+ified reso 1
+ears firs 1
+dard o 33
+der HISTORY.  This o 1
+sed as a li 1
+&'.  If  1
+s his 4
+       begi 2
+s eigh 3
+he -i 1
+ially.  These  1
+d2.  This  1
+his if i 1
+-exis 4
+              las 4
+o args, or o 1
+ed.   Wi 1
+he -g o 1
+ly a s 1
+e variable. 1
+d is m 1
+       Similarly,  1
+reserved i 1
+e> is  1
+d of o 5
+                      The  shell  se 1
+o lo 5
+s) 13
+s  for 1
+       era 1
+ged.  The firs 1
+he array, a 3
+              below).   If  se 1
+       MAILPATH 1
+d.  The 1
+rol-x  1
+ds  from  file  i 1
+ewsgro 1
+o shell  2
+kslash will q 2
+s for 1
+hed for firs 1
+ory-a 1
+ers lis 3
+ed.   Embedded  1
+he  bra 1
+d is o 1
+d error are bo 1
+;  a 1
+                      If  se 11
+              -T      If  se 1
+              -C      If  se 1
+ is 0, all li 1
+d.  I 2
+s  is   1
+ess arg 1
+ress  2
+ame-val 1
+       The ge 3
+ed by a hy 1
+d are  1
+  array  variable  (see Arrays below)  1
+he  ari 2
+ SHell 1
+ a logi 4
+-zero val 3
+ory is ass 1
+g forma 2
+ab 6
+les des 3
+.  C-x C-r is bo 1
+ame, bash a 2
+s, 2
+e as a  1
+o variable  1
+                     give 1
+he IFS s 4
+                              Names of disabled shell b 1
+s- 3
+hes.  I 1
+he dele 1
+alled.  Some sys 1
+ or redire 1
+ or shell f 1
+ for a 2
+  was  redi‐ 1
+ read by  2
+hey  are 1
+       ere 1
+sly i 1
+ies, IEEE -- 1
+ variable or f 1
+ed.  The -S o 1
+o mode.  If mode begi 1
+s. 53
+abled,  12
+d is s 2
+d begi 4
+g (@) 1
+e by s 1
+       or  1
+r be 1
+r2 3
+, bash follows  1
+o read  2
+he -h o 1
+       dow 1
+er.  If s 1
+ified by 2
+e of LANG a 1
+       HISTTIMEFORMAT 1
+e,  li 1
+ed; assig 1
+, bash allows  1
+                      4.     BASH_ARGC a 1
+              The give 1
+              are give 1
+d] 1
+ alias is defi 1
+, ex 3
+h word 0).  A  1
+he shell vari‐ 1
+rary s 2
+ or se 1
+he  shell is s 1
+o re 12
+sed, bash will a 1
+he effe 14
+or‐ 1
+, ma 1
+ frame is frame 0.  The re 1
+s exe 4
+der EXPANSION.  The res 1
+hars (C- 1
+d.  O 1
+ries i 3
+loys  1
+ by variable assig 1
+       << >>  lef 1
+                      here-do 1
+ redire 3
+ were a  1
+s worki 1
+              The  se 1
+       BASH_LOADABLES_PATH 1
+       BASH_EXECUTION_STRING 1
+ems.  The variable  1
+s of 0 or 1 de 1
+ors | or |&.  The forma 1
+ed  before   2
+ PATH.  If  2
+y  41
+e HHHH (o 2
+                              Names of shell f 1
+hed if  1
+       kill-whole-li 1
+rol-Y)  1
+d_ 1
+ary or bi 1
+g shell  1
+ai 78
+ refere 3
+ers "@" a 1
+o words as des 1
+roy a 1
+hes.  If  2
+;  i 1
+har re 1
+              If  se 2
+ "> o 1
+he  shell's  exe 1
+ 0 is se 1
+ alias defi 2
+ [ a 3
+  *s  1
+d` 1
+h variable  1
+g is zero-based  1
+ed slash) are  1
+       TMOUT  If  se 1
+       TIMEFORMAT 1
+es).  The  1
+e] 1
+hes.  O 1
+_o 4
+da 6
+o se 4
+ may be a de 1
+ed jobs. 1
+s  exi 2
+ly if readli 1
+se by  1
+s of sh.  sh does  1
+h have eq 1
+dard shell.  I 1
+s exi 7
+ for i 4
+ial file; i 1
+       his 14
+e Tell readli 2
+md, for i 1
+, me 1
+hem; o 3
+o ri 2
+layed.  A  1
+e is ~/.bash_his 1
+rofile  1
+  limi 1
+e removal af 1
+al 8
+d followi 1
+sed as shell i 1
+bi 1
+e variable  2
+i-key seq 1
+ifier  (see  JOB  CONTROL 1
+ialized  by 1
+herwise, ea 1
+hesized  s 1
+he -i o 2
+ed.   Whe 1
+lied, ea 1
+here are five or more arg 1
+g'  a 1
+_s 2
+her a  2
+am 12
+ea 6
+ file  2
+ase.  The ^^ a 1
+       POSIXLY_CORRECT 1
+s.  A val 1
+de 10
+al   9
+d side ( 1
+.  This is a lis 1
+lare -i is assig 1
+ame defi 1
+       lef 2
+ore shared library files  1
+his  mode,  i 1
+, behavior i 1
+, mi 1
+              -l     Lis 2
+ry.  The las 1
+;  o 1
+he same as firs 1
+s for  3
+              -X     Lis 1
+              -V     Lis 1
+              -P     Lis 1
+o $HISTFILE.  If  1
+yle) a 1
+er as a  1
+d  af 1
+       eve 1
+RESERVED WORDS 1
+ed 24
+refix) or a sig 1
+he variable refere 3
+hed by  1
+g2/'' (see Modifiers below). 1
+ (M-0, M-1, ..., M--) 1
+d reads  1
+rogram is i 1
+ $( 1
+des arg 1
+he  SHELLOPTS,  BASHOPTS,  CDPATH,  a 1
+s af 5
+ ID, a 1
+ime  s 1
+ be exe 3
+,  if  a   1
+he mark is se 1
+yle). 1
+ee 1
+ly works followi 1
+her  ma 1
+ for o 1
+       file)  1
+ef 1
+ar 131
+di 143
+hem fa 1
+ job.  If jobs 1
+ed   10
+o a slash or  1
+bo 12
+" ( 1
+ fails be 1
+d = a 1
+es) of a 1
+o a shell variable or array i 1
+       -D        A lis 1
+d -d o 1
+s be 3
+e.  Readli 1
+ame is exe‐ 1
+              Refer  1
+       !!     Refer  1
+ified by a  1
+as 4
+k-ma 1
+refix  3
+ of words read from  1
+al  Field  Se 1
+m size  1
+s; o 1
+o so 1
+ PATH are  1
+ words,  2
+oses  2
+d.  Whe 3
+dle.  If  1
+he digi 3
+hed.  The sor 1
+.  If GROUPS  is   1
+ Do  1
+ei 12
+h are se 1
+essary  2
+       exe 4
+arriage re 6
+ (see ARITHMETIC EVALUATION above) is  1
+                      The shell f 1
+e allows keys  1
+ed for wri 1
+- ex 1
+dexed array eval 1
+       COMP_WORDS 1
+alled like a sim 1
+ha 451
+d's re 2
+bs 138
+, ra 2
+              Lis 7
+he "!$" his 1
+ or wi 2
+y. 2
+       here-do 1
+er (`~'), all of  1
+ have a  1
+ FIGNORE is ex 1
+g' are  1
+aw 4
+ above) are e 1
+ 4.1.  The defa 1
+ If  se 1
+g for, while,  1
+d is exe 7
+s al 1
+ge 2
+ desig 1
+COMMENTS 1
+ds are read a 1
+do 3
+                      vi      Use a vi-s 1
+e.  A 3
+es a dash a 1
+ishes,  1
+o ya 1
+s ea 3
+d  as   1
+er  is  refere 1
+gf 1
+ed, or zero if  1
+k  A s 1
+em 84
+ia 32
+ have  3
+       exi 2
+ym for `!-1'. 1
+er-sear 2
+d are se 1
+o arg2, res 1
+.  All of  1
+ld be dis 3
+              Bash   1
+he 177
+ed ( 1
+gh 5
+hose lis 1
+e read is assig 1
+, re 3
+he same fashio 1
+              words, shell f 1
+e,  a 1
+a-X.  (O 1
+he -k o 1
+o wi 1
+gi 8
+ormal  o 1
+ified, is fo 1
+sdirs 1
+              same as a shell b 1
+       124.   If  a shell f 1
+ file. 4
+eo 2
+e,  b 1
+s fa 1
+s job  1
+ available,  1
+dexed  arrays 1
+om.  Whe 1
+ive array.  Whe 1
+-2 is exe 1
+ds 8
+o re-edi 1
+,  bash  a 1
+ is allowed, a 1
+o lower- 1
+       e      Remove all b 1
+     Refer  1
+ffer for  1
+e -D -F _ 1
+ `.' 1
+ame or I 2
+hes a  1
+dexed arrays 1
+ If  1
+       A lis 1
+  A 1
+ie 2
+al [o 1
+d for lis 1
+hose valid for   1
+he &.  If old is  1
+d has  2
+ +  1
+eq 1
+osed o 1
+s bo 1
+he oldes 1
+              The shell f 1
+er 242
+hi 122
+her.  This is a 1
+rior  4
+ored.  If  2
+ed Names of s 1
+ro, si 1
+hes are fo 1
+es 66
+.  The val 3
+erformed wi 7
+ory is exe 1
+s   Use a 1
+ial variable as delimi 1
+d  may  be  1
+es (M-{) 1
+s.   See  HISTORY  EXPANSION 1
+ file2 2
+d defi 1
+ig 1
+ers.  The re 1
+sed as well as  1
+e.  I 8
+ IFS are  1
+e  is  read  from  1
+g mode  1
+h (C-]) 1
+le, by ``s 1
+       ·      shell f 1
+d, or i 1
+d  of  1
+al word.  This is a 1
+       Bash   1
+ds.  Whe 1
+       REPLY  Se 1
+       COMP_KEY 1
+ be a lis 1
+g =), a 1
+r2 ; ex 1
+he  his 6
+he -l o 2
+der SHELL BUILTIN COMMANDS for i 1
+erisk im 1
+abled a 2
+ job s 1
+all.   A 1
+ed.   The  1
+       joi 1
+, si 1
+orebo 1
+       SHLVL  I 1
+              shell f 1
+ame of a  1
+self),  1
+e of ;, &, or < 1
+la 77
+ does  9
+ory, `` 2
+dexed array variable array, or from file des 1
+he eigh 10
+s ge 3
+                      alias   Alias  1
+sly-a 1
+ad whe 1
+he PROMPT_DIRTRIM variable) 1
+h  a  s 1
+ameref  variables   1
+abled (see  SHELL  BUILTIN  COMMANDS 1
+       read, shell f 1
+  mode  mask  similar  1
+ke 9
+g a while or  1
+s fi 1
+d  readli 1
+sed, a  1
+ -  1
+d  remembered.   A 1
+ew 1
+] [-DE] [+o o 1
+rs addi 1
+essary. 2
+o-bra 1
+              read /e 1
+s do 2
+, words whi 1
+ames have a slash a 1
+mber  a 1
+h assig 1
+ex 114
+il 173
+ho 52
+his  o 1
+ism (see  1
+  read so far, or  1
+he ``.''   1
+k.  Dire 1
+  (as  i 1
+, are de 1
+osix mode is e 1
+gs 14
+d or shell f 2
+he  las 4
+ld 2
+im 1
+le 296
+ory ex 31
+                     "\C-xq" 1
+ead of ri 2
+s.  A vi-s 1
+.  A redire 1
+s are saved for la 1
+ly-formed bra 1
+e.  O 1
+       A shell f 1
+io 1422
+d > o 6
+ki 5
+ified as -s. 1
+ossible-variable- 1
+ory ma 1
+       vi- 1
+s of zero. 2
+ all leadi 1
+he POSIX s 6
+ file.  If a  1
+em) a 1
+ed ba 2
+gle or do 2
+lied, array is i 1
+ered.  If  1
+gle ba 2
+  all of  1
+ "F 1
+al be 1
+s like [a-z] (see below), le 1
+h.   The le 1
+ribes  3
+esses above). 1
+ame ()  1
+me 382
+              of alias, keyword, f 1
+amed by  4
+es  of ea 1
+d was fo 1
+s fo 1
+g mode may be swi 1
+ is ~/.i 1
+ of array i 1
+es a sligh 1
+b/{ex,edi 1
+der SHELL BUILTIN COMMANDS for a 1
+iq 1
+self (s 1
+k-se 1
+ . "$BASH_ENV"; fi 1
+d  arg 1
+li 71
+ed af 7
+ors where  1
+e  is  bei 1
+ive shell does  1
+he word followi 2
+d), i 1
+s  by  defa 1
+ir 3
+s ig 1
+e.  S 1
+ make redire 1
+ds.  F 1
+he  exe 2
+ may be redire 1
+o maxim 1
+is 1
+mber  i 1
+       Shell b 1
+se of  1
+s of word ex 1
+,  bash  q 1
+he  [[   2
+ory li 16
+ed be 1
+heses make  1
+              MAILPATH='/var/mail/bfox?"Yo 1
+e.  U 1
+o be read, b 1
+ really is a b 1
+o remove a  1
+s dy 1
+mi 1
+, wi 2
+he arrow keys. 1
+mber of a  1
+ 128, immedia 1
+d dele 1
+he C la 1
+he -o f 1
+ds for la 1
+here is more  1
+ds.  I 1
+ory is 1
+ameref is  1
+e HHHHHHHH (o 2
+ed are dis 1
+he regio 2
+o  BASH_ARGC.  The shell se 1
+ess is exe 2
+s ex 3
+ames,  2
+ified as -k. 1
+e() s 1
+he mode s 3
+  word  of  1
+ks)  is 1
+il a li 1
+ does, o 1
+kq 4
+g} 1
+ files.  This variable is read-o 2
+his  variable  is eq 1
+       BASHPID 1
+QUOTING 1
+e  be 2
+ffer before edi 1
+k] [- 2
+d.  This  1
+s for a  2
+s ma 3
+r] 1
+ded like a key 1
+e of a 1
+less a sy 2
+s of ea 1
+ks 4
+ed ea 2
+d, for  2
+he dire 24
+abled;  1
+o remove a 1
+og 11
+       x-y    A ra 1
+he HISTTIMEFORMAT variable.  Whe 1
+his variable is se 3
+le,  % 1
+rol refers  1
+  (see  Pa 1
+, is  a 1
+ged, bash adds 1
+s of de 1
+d effe 1
+al,  2
+              dir    Adds dir  1
+ a way  3
+h - wi 1
+ire eve 1
+rsor if  1
+h} 1
+here is a maxim 1
+ds  from   1
+ess gro 7
+                      above).   All   1
+oi 69
+s] 7
+s off  1
+'s behavior beyo 1
+.  The words ge 1
+ a b 3
+ra 78
+ified wi 7
+ already read from  1
+er  a 5
+refix.  The  1
+d ${! 2
+refixes immedia 1
+d  is 1
+he for  1
+       (lis 1
+ed, whi 1
+, are ig 1
+] [-s  2
+              If a 1
+ [-f 1
+hese es 2
+es of .. i 2
+ds are saved o 2
+ies, i 1
+s li 3
+ds  r 1
+e  if  1
+he shell does so before dis‐ 1
+ialized a 2
+              The if lis 1
+ed,  36
+s is 3
+he -o o 6
+valid 3
+or >| i 1
+dard  i 4
+ -1 re 1
+              -C     Eval 1
+or  (CSI),   1
+ol 2
+al ha 1
+ made  1
+om 385
+g !.  These are 1
+s of 0 ( 2
+              for 2
+              The lis 4
+ge   2
+he same shell i 1
+ Desig 1
+ro‐ 4
+kward-kill-li 1
+al ge 1
+ms 3
+er  (wi 1
+re 92
+ a f 12
+e of i 8
+d word  1
+ab-i 1
+              be lis 1
+              ?( 1
+es, word s 1
+s firs 1
+erformed.  Co 1
+g words are re 1
+, yo 1
+e is i 4
+rf 4
+ as a shell variable. 2
+s hy 1
+ly 5
+aled val 1
+he disk 1
+  (see 1
+he remai 10
+ed ha 1
+ file2, or if file2 exis 1
+ file2, or if file1 exis 1
+hese ex 2
+losed  1
+g of LC_COLLATE.  Whe 1
+ed as a delimi 1
+o 0 if  1
+hese files exis 2
+al versio 3
+se 89
+ [-l 1
+s of 1
+mber (a 1
+lays or edi 1
+ld  a 1
+oq 1
+ -- s 1
+ames  ge 1
+ively.  AND a 1
+or 92
+ri 481
+kslashes  1
+                      lo 1
+g for a  2
+  error   1
+dard  o 2
+ess IDs i 1
+ers whe 1
+do all  2
+he keyboard. 1
+       If a 1
+s  a  message  i 1
+er  i 3
+h is omi 1
+refix as a 1
+       while lis 1
+       file /e 1
+os 12
+  a 14
+d, every ari 1
+rofile before  1
+ed em 1
+ly disabled b 1
+he  lis 2
+] [-l 1
+e verba 1
+he file 5
+hey are sim 1
+or 0) if  2
+he [,  1
+ds  be 1
+1 or ex 1
+e of o 8
+s sig 3
+ory file. 2
+e, all  1
+ame  of   1
+  b 3
+ aliases, reserved 1
+d digi 2
+rogram.  For i 1
+ modified are dis 1
+his variable 1
+g jobs, whi 1
+losed.  If  1
+       see 1
+ for redire 2
+ab>< 2
+he shell or shell s 2
+si 123
+.org/ 1
+ld be exe 1
+ame  is   1
+              Alias wi 1
+       $      The las 1
+refixed by  1
+       kill-li 1
+       vi-i 1
+.  Passi 1
+wise OR 1
+ess lis 1
+s  val 1
+e.  le 1
+orary files for  1
+ of FUNCNAME has  1
+assed as $1.  If  1
+osix  1
+r2 are  1
+il a se 1
+ed by 3
+kward  4
+e are  2
+s val 9
+ers whi 1
+ (see READLINE below).  A file 1
+y  (see 1
+       if lis 1
+, or a   1
+ds.  Disabli 1
+ed.  The -v o 1
+, break,  1
+e), a 1
+ word as well.  If  1
+d "1" are eq 1
+  e 1
+ed O 1
+ of word exis 1
+ow 3
+       BASH_ALIASES 1
+ro 116
+es  all  shell  me 1
+              dy 1
+s  sho 1
+''  2
+                      job     Job  1
+d immedia 1
+  f 1
+       <= >= < > 1
+ed if 1
+ds  ea 1
+       BASH_COMPAT 1
+,  or has i 1
+his behavior, a 1
+s sho 4
+e is s 5
+es  a 2
+qs 1
+d RETURN are i 1
+s leas 1
+s re 2
+rred. 1
+e begi 1
+              \'     li 1
+              \"     li 1
+ a q 2
+wa 1
+o FUNCNAME have  1
+ BASHOPTS are  1
+.  If EOF is read,  1
+al ex 6
+d readli 4
+              lo 2
+h  job   1
+ job is  2
+e Servi 1
+ew  for  1
+he shell,  2
+              Toggle overwri 1
+h a $ i 1
+ds allow  1
+ase) or  1
+       or  a  `-',  1
+y level.  See  1
+lare below i 1
+g | file] 1
+ a s 22
+  i 21
+ds.   1
+d or a 1
+refix] [-S s 1
+ged; false o 1
+ally exe 2
+       res 3
+ym for ya 1
+he Co 1
+e are also exe 1
+s give 1
+o be a  2
+              \"     do 1
+ +r or se 1
+he   50
+, as wi 1
+les lis 3
+er  s 1
+d word. 1
+ may  be  omi 1
+s se 4
+s are a 1
+ is available  1
+  j 1
+ for ari 1
+e abe'. 1
+rs 1
+e of PATH i 1
+y_ 1
+ored  i 2
+revio 48
+ eleme 7
+mber.  If sigs 1
+es  of  variables.   The  - 1
+              "\C-x\C-r" 1
+he shell will  1
+r wi 1
+er,   1
+ers removed are re 1
+hose words are s 1
+        208
+ variable is 1
+d  job   1
+he same as  3
+lar job, i 1
+he order of redire 1
+ors may  1
+ always be ma 1
+ed ex 2
+e.  The firs 1
+o zero size.  No 1
+losed. 1
+e whose firs 1
+he behavior of bash where  2
+ all of  2
+gle ma 2
+s is eq 1
+ed im 1
+              Case modifi 1
+  m 1
+       BASH_SUBSHELL 1
+ SHELL BUILTIN COMMANDS below) for  1
+s are e 2
+ may be a  1
+ed mode (see RESTRICTED SHELL below).  The val 1
+              li 1
+ories 1
+                      la 1
+d or args wi 1
+s si 1
+ered si 1
+ressi 3
+d or f 2
+ream.  If a  2
+       seq 2
+al li 1
+kslashes. 1
+gle le 1
+mber  of   2
+ed as file 1
+he -r o 5
+ers.  The -x a 1
+  o 10
+mber  is   1
+ll 2>&1 && re 1
+.  Bash a 1
+e will  6
+de a 1
+ is * or @,  1
+e is ". 1
+ess ID or a job s 1
+ames a 8
+              do 1
+h of whi 1
+                      sho 1
+gh   1
+d eigh 1
+ro, keyseq differs from key 1
+s ow 1
+rogram.  The shell exe 1
+e, -l 1
+e  ex 4
+er word xdigi 1
+ array may be refere 1
+ Fox a 3
+ory wi 1
+k is em 3
+              As  a  s 1
+kward- 1
+s grea 2
+er.  I 2
+y eleme 1
+ame for  1
+he form $'s 1
+ as if i 1
+vo 20
+s are i 2
+, bash a 3
+  r 1
+gle li 2
+       val 3
+d  for 1
+              ^  a 1
+hey have bee 1
+  s 13
+s (see Pa 2
+ames d 2
+, is exe 1
+al a 4
+ is saved as  1
+ Arg 1
+he Es 3
+ ASCII es 1
+e word, bash re 1
+he mail file  1
+he  reg 1
+es.  - 1
+,   15
+s behave as if a zero val 1
+  Tell readli 1
+ file.  For exam 1
+rograms  1
+al b 4
+''. 1
+ded  as 1
+       sho 2
+lare.  Whe 1
+ive jobs.  The o 1
+_loader() 1
+s mode; vi mode does overwri 1
+yi 2
+       disable- 1
+s  are  1
+wo 1
+ of word is assig 1
+he max‐ 1
+ed mi 1
+                 sho 1
+       wai 1
+d arg is exe 4
+e  li 1
+       overwri 1
+refixes lo 1
+der SHELL BUILTIN COMMANDS below).  A 1
+alls bash.  A  1
+ly a defa 1
+he -s o 3
+he - 32
+ed a 31
+ moves ba 1
+ase, if  1
+e  is 3
+d.  As a  1
+ array refere 1
+ames i 5
+g if a 1
+              sho 3
+d  wi 1
+he shell se 1
+ery abo 1
+ be re-read. 3
+s are o 1
+       ski 2
+er (i 1
+s  whe 2
+       sio 3
+e of IFS whi 1
+iversi 1
+ (a 2
+s whe 6
+o bash-4.1  1
+h BASH_LINENO a 1
+d  exe 3
+less -s is s 1
+ Dis 1
+s wi 26
+d is ski 1
+, bash i 3
+ed d 3
+e defa 1
+g.  A 2
+dles several file 2
+hey may  1
+ Ema 1
+       CHILD_MAX 1
+              de 1
+       { lis 1
+al i 10
+o args,  1
+he asso 1
+d or s 1
+              or *,  1
+              zero-le 1
+s are s 11
+ame of a dire 2
+e  of 2
+g ``r  1
+ed f 1
+h from  1
+d y are ei 1
+e by defa 1
+ly  array  variable whose members hold versio 1
+d may be  1
+       a  s 1
+s whi 3
+k is ma 2
+ disables 1
+s exam 1
+he shell from se 1
+he  IFS  s 1
+bshells i 2
+, if li 1
+erforms a  2
+ress f 1
+ames o 3
+ame or dire 1
+o GROUPS have  1
+ed i 68
+d dire 1
+ge,  1
+he  res 4
+ses readli 1
+ries will 1
+e shell daemo 1
+       ~/.bashr 2
+ (zero  1
+refixi 3
+ames;  1
+e has  2
+ories, s 1
+all-las 1
+e  edi 1
+lare -a 1
+ire reg 2
+ed re 1
+he firs 62
+al o 6
+he --deb 1
+ if some of  1
+ (i 3
+d for whi 3
+le,   1
+ame (if  2
+       forward-word (M-f) 1
+he forms do 1
+ers followi 2
+       PIPESTATUS 1
+he \< 1
+der ARITHMETIC EVALUATION.  The ari 1
+.   4
+d for  2
+al.  A logi 1
+he HISTFILE variable whe 1
+              \e 2
+;  a & i 1
+       redraw- 1
+ed shell me 2
+       mark-symli 1
+he key‐ 1
+ (see  SHELL  BUILTIN  COMMANDS 1
+y  file  /dev/ 1
+ames s 2
+e of a variable is eval 1
+ array vari‐ 1
+g.  I 2
+e of 0  1
+ed shell is  1
+ered or firs 1
+dard.  The defa 1
+ reads), regardless of wha 1
+e  of  2
+his are  3
+refix are q 1
+ed m 1
+he words be 1
+d -o o 1
+ed.  The  errors   1
+ed as  10
+g `+' i 1
+hed for 1
+her as 1
+, bash s 1
+refix.  Ex 1
+er.  The val 1
+wo-way  1
+able disabled shell b 1
+he shell a 10
+ed.  The re 3
+ed o 17
+al s 3
+o  Off.   The  variables  a 1
+al  l  s 1
+ is a digi 1
+mber) a 1
+less EOF is e 1
+he  sig 1
+ modified.  A 1
+he shell b 1
+ax   1
+d ~/.bashr 2
+emwide logi 1
+       sh(1), ksh(1),  1
+                     The  -a  a 1
+ ${ 1
+re if a 1
+ds) a 1
+abled,  a 1
+       whe 1
+e is available.  If se 1
+ (o 2
+her ha 1
+  ID. 1
+ed;  1
+ have de 1
+he  val 5
+he errexi 2
+       [ ex 1
+es.  A 3
+abled.  For exam 1
+;  e.g.,  '"\C-x\C-r" 1
+y) before  1
+ely, a 1
+or 0) is  1
+h as -f m 1
+he shell e 4
+ ...] 3
+ mailfile 1
+ed s 12
+rw [file 1
+ory file is overwri 1
+ file wi 1
+ores SIGQUIT.  If job  1
+o slashes,  1
+ame is dis‐ 1
+Vv]  1
+rieval (ya 1
+s may be ex 1
+es,  a 1
+rols  1
+ 4.2 a 1
+  is  removed. 2
+he -v o 1
+riori 2
+e is 0  10
+ory file, overwri 1
+he shell variable HISTTIMEFORMAT is se 1
+d file 1
+kslash 5
+he above exam 2
+ever a job  1
+ (s 1
+       whi 1
+o.  Redire 1
+he shell.  Redire 1
+ha as 1
+sed, ba 1
+he  sho 2
+al.  The body of  1
+AUTHORS 1
+h shell variable are dis 1
+k by dele 1
+ded  li 1
+ (M-a, M-b, M-x, ...) 1
+              \$     if  1
+ALIASES 1
+.  Parame 1
+d CDPATH, a 1
+es may be s 1
+ks whe 1
+ resolve symboli 1
+abled.  I 1
+e mode,  1
+orarily by  1
+       The  shell   1
+he shell i 3
+hes ea 1
+ive  array variable whose members  1
+d zero or more a 1
+ame may  1
+he give 6
+                              Same as -T. 1
+d job  3
+ified, break  1
+d-of-li 1
+eeded  1
+g.  U 1
+ors grea 1
+mber ${BASH_LINENO[$i]}.  The  1
+       BASH_VERSINFO 1
+amed NAME.  If NAME is  1
+mbers whe 1
+ly variable, a 2
+ ~/.bash_his 1
+he kill ri 4
+h level (e.g., 2.00.0) 1
+ followed by $, `, or \.  The  firs 1
+ 1 by defa 1
+  assig 1
+              Do  2
+ (-e) o 1
+ified shell b 1
+ds   6
+   Here Do 1
+ale) as  1
+es.  I 1
+.  If a hashed  1
+g of   1
+essive  3
+       $else  Comma 1
+his  variable   1
+,  if   1
+ as a s 1
+abled.  The -E o 1
+ is marked so  1
+s are formed from  1
+d word followi 1
+llglob, failglob, a 1
+ed, or false if a 1
+       bashb 1
+ed wi 68
+he eval 3
+y da 1
+              if  3
+ .i 1
+he shell o 6
+k.  For i 1
+       Comme 1
+ shell  4
+ively.  If  1
+heir  origi 1
+_errfm 1
+ for exe 1
+hey are looked  1
+sed, ea 1
+ory, wi 2
+ers  a 1
+ array 1
+ His 1
+ed if  5
+ails of i 1
+her ex 6
+ if -e is se 1
+ followi 5
+ (M-#) 1
+y bi 1
+ mode.  The val 1
+mber of ba 1
+erformed, b 1
+he lower 1
+ PATH for  1
+d of a  1
+he shell r 1
+es.  If  7
+he shell 2
+ may be dele 1
+e  are   1
+d.  Redire 1
+es.  O 1
+he shell s 8
+omes res 3
+he hashed f 1
+or is a refere 1
+ds are available i 1
+ is legal, a 1
+ed,  assig 1
+re if r 1
+s, all e 1
+er   5
+e, or fix errors i 1
+ges made  2
+       Comma 4
+se alias i 1
+ame  res 1
+ame, a series of 1
+valid or  1
+he -x o 1
+ormally sear 1
+ames as a 1
+s.  See  1
+h.  A 1
+ds for Cha 1
+layed immedia 3
+ame},  1
+g symbol symbol. 1
+e is 0. 1
+d  is  exe 1
+ message is 1
+              De 1
+hereby exe 1
+s or vi. 1
+ers (O 1
+   Parame 1
+       LC_ALL This variable overrides  1
+ (see COMMAND EXECUTION ENVIRONMENT below).  Variable assig 1
+ AND lis 1
+he ENV variable a 1
+ is !,  2
+ed_shell 1
+her li 1
+he alias a 1
+o  be  ex 1
+ BASH_XTRACEFD is  1
+g variables are  1
+       COPROC A 1
+ers  i 2
+eeded. 1
+ame is de 1
+e is  a 1
+hose of Ema 1
+ame=(val 1
+ of shell  1
+he alias b 1
+ed by  48
+er  ex 2
+ed.  If ge 1
+hey are i 1
+mber is  1
+hemselves.  The arg 1
+ame   A word  1
+, I 1
+em I 1
+gs is dis 1
+              -o o 1
+d may  2
+ed variables is  1
+s a his 1
+o more  3
+d so o 1
+ word, as if  1
+ame  before 1
+e as re 1
+es, "o 1
+ 10 a 1
+ears,  1
+er.  If le 1
+ll.  Omi 1
+-2; do 2
+ly variable. 1
+es   8
+sly-remembered  1
+he U 4
+                              Names of all shell variables.  May also be s 1
+o isola 1
+d is a  3
+he form [base#] 1
+er  le 1
+ds (de 1
+d2's  s 1
+mber of  15
+      T 1
+g args a 1
+he  word  desig 1
+he old  1
+h  word 1
+rogram  1
+, readli 16
+er ( 1
+ bash  s 1
+or 1) if  3
+ order  2
+o a variable whose   1
+d (se 1
+ime [- 1
+ds.  If bash is i 1
+emwide i 1
+s  fail 2
+s for ea 3
+ shell- 1
+ally  ^Y, 1
+ ID) re 1
+e digi 1
+ors do  1
+he  shell  is 1
+g from a  4
+ shell. 3
+  a  for,  while,   1
+o save  1
+e or more digi 4
+ers  o 1
+hesis is i 1
+e of HISTIGNORE.  The  1
+orre‐ 1
+d } are  reserved  words  a 1
+ Exi 1
+al word desig 1
+ers are s 2
+his variable is i 3
+er is refere 2
+he EXPANSION se 1
+                      2.     If  1
+lied does  1
+                      x 1
+ym for `1-$'.  I 1
+ds, i 1
+rol keys are de 1
+er  is 2
+dex 0 is   1
+osix mode af 1
+d asso 2
+he same way as e 1
+ error,  1
+    Refer  1
+ory-ex 1
+he form 4
+gs  a 2
+       -o o 1
+he same as i 1
+self a  1
+he Shell a 1
+-zero o 4
+ (a, b, A, 1, !, ...) 1
+ed-i 1
+al bei 1
+ alias  1
+hes le 1
+ for lis 1
+he  word  ex 1
+ory.  A  1
+le   1
+g behavio 1
+              is  zero.   If  1
+hey are s 1
+                      mal  1
+es are read.  The - 1
+rs or a 1
+he shell variable  1
+                      keyword Shell reserved words.  May also be s 1
+ below  3
+ame give 1
+es modified (o 1
+hird arg 5
+              variable.  If  1
+.   Af 1
+gs are eq 1
+ase  of  al 1
+e or a 1
+her re 1
+              -r     Read  1
+erform a 1
+d  res 1
+ll sear 1
+er is  a 1
+                      r 2
+-zero s 6
+il   2
+  immedia 2
+e.  No fil 1
+       $if    The $if  1
+es are eq 1
+ally if a 1
+h is sys 1
+es by removi 1
+o "$1 1
+he a 12
+al errors  2
+oll(3). 1
+              --      If  1
+d +0'' removes  1
+e variables a 1
+ive  arg 1
+       digi 1
+   Readli 6
+       SIGTSTP. 1
+he shell are rese 2
+d is wri 1
+eger a 3
+ IFS whi 2
+mber.  To ex 1
+he shell is ke 1
+ed by a shell f 1
+ers.  A vari‐ 1
+d firs 1
+              word.   If  1
+he b 6
+              x 1
+er, a 2
+  readli 1
+d =.  If  1
+al-s 3
+ is ready  1
+ger  forma 1
+ or assig 1
+h as s 1
+abled,  his 1
+orres 30
+mber of by 1
+e if bo 2
+ed by shell f 2
+ses  a f 1
+mber, s 1
+er, b 1
+h  ba 1
+dible, readli 1
+ory file is also  1
+e  word.   I 1
+ $, `, ", \, or < 1
+y ex 1
+ifies a  1
+g  ex 1
+ries from  2
+al was s 1
+y ma 3
+ order. 2
+he d 1
+he  globas 1
+ds  from file i 1
+he e 79
+ame refers  3
+s are disabled ( 1
+ified, hel 1
+g jobs, if job  1
+ old a 1
+g[?] 1
+ed.  A li 1
+h.  Co 1
+       variable.  If  1
+rol key while  1
+g  where   1
+g saved o 1
+  a  s 1
+g  ma 1
+he f 47
+ of defi 1
+e if ei 2
+he if or elif reserved words,  1
+ assig 15
+or fd. 1
+y of  9
+h a -.  A si 1
+layed by i 1
+ below) 1
+ed variable, val 1
+ += is a 1
+       -s        If  1
+       -r        If  1
+       -i        If  1
+o $#- 1
+he `` 2
+he variable OPTERR is se 1
+es x-$. 1
+he shell from i 1
+voked as  1
+he keys (i 1
+o or add  1
+mbers.  Ea 1
+o be 1.  If  1
+d  val 1
+y me 1
+he h 1
+g -a. 1
+y li 2
+he i 42
+              If  12
+herwise.  If firs 1
+ory is wri 1
+s-me 2
+d  of   1
+ory (M-TAB) 1
+                     $e 1
+       bell-s 1
+sly wi 1
+       MAIL   If  1
+d disables li 1
+, or from  1
+shd  ex 1
+al's f 1
+d is a dire 1
+y file arg 1
+ds,  1
+d  is   1
+  a   7
+, a 68
+eives sig 1
+hose defi 2
+d -v o 1
+h.  Two s 1
+ase-word (M-l) 1
+g `.' m 1
+ below. 1
+ base, a 1
+d  variable  ex 2
+       Bash  1
+ by bash.  If s 1
+e or o 2
+, b 12
+h  ea 2
+                      f 3
+s is zero  1
+ as a file 1
+              $i 1
+he variable _ is se 1
+o delimi 2
+ were wi 1
+       COLUMNS 1
+rol is  4
+ as addi 1
+ -l is give 1
+es ? i 1
+e.  Whe 8
+ break i 1
+daries are  6
+he variable. 1
+ored, a 2
+o be de 1
+voke ea 1
+he ba 14
+ or a shell 1
+s before  1
+) by defa 1
+      Read  1
+he variable is se 3
+hars] [-N  1
+al is  2
+ely by a  1
+s has s 1
+ly  variable,  a 1
+er # are res 1
+o file des 2
+voked as sh. 1
+o mode arg 1
+he o 47
+al.h>, or a sig 1
+ge ex 4
+.  This  2
+y arg 5
+ (see SHELL BUILTIN COMMANDS below) may be  1
+       glob-lis 1
+refix-dis 1
+he file is  2
+ds). 1
+  array,  ex 1
+al/bi 1
+ame sh, i 1
+        If  1
+ored by  4
+rol of  2
+                      b 1
+he origi 8
+o move  1
+es before re 1
+s a lis 1
+o modify file ha 1
+ears as a file 1
+yle ba 1
+g  of 1
+ified, or  2
+                     b 1
+lear array before assig 1
+mber of li 4
+ew   1
+e-word (M-g) 1
+o be bo 2
+ross  1
+ is agai 1
+erform s 1
+o file dirlis 1
+es, a 3
+he q 5
+ avail‐ 1
+              h 2
+he r 7
+s is zero if all o 2
+er,  4
+ (or a s 1
+ame.  If a variable  1
+e.  Tra 1
+ed is  5
+              A sy 1
+ may be de 1
+hes zero or o 1
+hed.  If  1
+es, b 1
+he s 162
+, i 28
+d eval 2
+ally sor 1
+ modifies  1
+essary.  Whe 1
+s.  The  1
+abled by defa 10
+d COLUMNS. 1
+rolli 4
+g delimi 2
+he da 2
+se val 1
+ire  a 1
+              f 1
+              able.  Tha 1
+r3  is eval 1
+ified,  8
+vxPT [limi 1
+e if ex 2
+ `?s 1
+ly  like 1
+       forward- 1
+h file des 1
+ross  shell 1
+ POSIX mode. 1
+airs i 1
+mber of kq 1
+he bi 3
+.   If 4
+d jobs immedia 1
+     S 3
+              d 1
+his digi 1
+e, a  1
+s or vi.  edi 1
+g file des 1
+o be ge 1
+he exis 1
+ have a s 1
+he mode was s 1
+o have a 1
+ old s 1
+ax [ 1
+er is a shell  1
+.   A 1
+e for  1
+he limi 2
+lied,   2
+he de 11
+d +1''  1
+              b 5
+shell- 2
+d vi-i 2
+              by  old.  A si 1
+arser dire 1
+h redire 1
+d  BASH_SOURCE   1
+       [[ ex 1
+ears i 5
+, o 3
+ed below, or, if  1
+es,  3
+sidered  2
+less a jobs 1
+he same flags.  If word is s 1
+s  modifiers  are  available   1
+ or edi 1
+a-flag is a sy 1
+-file, a 1
+le, b 1
+ax [= 1
+h "bi 2
+es, i 1
+he array variable BASH_REMATCH.  The eleme 1
+ of TIMEFORMAT  1
+al arg 3
+mber or  1
+er.  Whe 1
+s is zero. 1
+em o 3
+ified). 1
+              ` 1
+he $'...' q 1
+assed  is   1
+ess  s 2
+aller's  1
+he variable  3
+ilde ex 14
+              Abor 1
+g-mode also affe 1
+elled o 1
+ error d 1
+d flagged as a 1
+mber or servi 2
+ is a valid hos 2
+, q 1
+al bra 1
+ses is sys 1
+k.  The  1
+              Tha 1
+ a shell variable, q 1
+al variable assig 1
+ or `re 1
+dex of  9
+, r 3
+e of /, a 1
+y fil 1
+he  his‐ 1
+le, C- 2
+ds whose behavior wi 1
+ hold  1
+s via  1
+d redire 4
+ds as mai 1
+he bo 1
+e before  1
+ 26                                                                   BASH(1) 1
+/bash/POSIX -- a des 1
+s of 512-by 1
+ allow s 1
+, s 5
+g  from   1
+e) from ea 1
+              Kill  from   1
+ (e.g., "T 1
+alias  1
+ers.   The  firs 1
+or 1) is  1
+       Bash ha 1
+ (file 1
+e all ge 1
+o be ig 5
+ed arg 2
+ for a  6
+              \ 16
+ Key 1" 1
+y si 1
+er,, 1
+ame[*]} 1
+e job begi 1
+              -a     All  1
+d a file  1
+ame is se 7
+he  form  of assig 1
+ames are marked reado 1
+e, or o 1
+g.  The  2
+ified as  2
+es above 125 s 1
+mber of re 1
+ of word  4
+  IFS  whi 1
+refix followi 1
+ Reserve U 1
+al dis 1
+ory file; if  1
+le,  6
+e file 3
+layed wi 2
+e will  se 1
+ializes i 1
+es are shared be 1
+mber of CPU se 2
+voked by  5
+he ha 1
+le, i 1
+.org/o 1
+imes  Pri 1
+ immedia 5
+ffer a 2
+ DEBUG; if i 1
+he bash defa 1
+he ge 4
+ (C-g) 1
+g) word.  Wi 3
+a-key (O 1
+wise ex 1
+s (see 1
+sed as shor 2
+he fi 4
+mber of se 5
+orary file of  1
+ked for alias s 1
+ several me 1
+do, se 1
+.   Li 1
+he do 3
+ file, exe 4
+ a valid shell o 1
+ DEBUG a 1
+g all  2
+s is 0.   1
+s of all e 1
+he em 4
+              from   1
+o be ex 1
+es, s 1
+ alias, shell reserved word, f 1
+ega‐ 1
+ame] [arg ...] 2
+ame is a reado 1
+ed from i 3
+y DEBUG 1
+es O 1
+ym for ``fg %1'', bri 1
+o be ma 5
+egers may be  1
+layed  by   1
+ or arg 2
+                      5.     F 1
+mbers.  Li 1
+ribes wha 1
+              array  variable  s 1
+ax i 1
+ds Ma 1
+ame is reado 1
+ error o 12
+or fd if  1
+              edi 1
+o visible, readli 1
+me)  1
+rs while  1
+g is zero. 1
+e if file1 a 1
+).  The shell se 1
+ser is a member.  Assig 1
+ds a 8
+ds; - 1
+imal val 7
+res‐ 3
+he eq 1
+o  500 1
+.  This does  1
+y jobs are s 1
+ds b 1
+ a shell b 2
+ary fo 1
+              R 1
+s follow‐ 1
+g of a 1
+md)) 1
+able of  2
+rimaries  1
+wise  1
+g agai 1
+ file, overridi 1
+y level  1
+he  variable's  val 1
+ore.  Also referred  1
+r does  1
+ors of  1
+he es 3
+ew file  1
+ive (see INVOCATION below). 1
+osix   Cha 1
+ keyboard ma 4
+hose digi 1
+y or  1
+       from   1
+y wi 1
+he !  is  1
+he ! has  1
+heses are 1
+g  shell,  a 1
+s are assig 1
+valid  1
+voke  6
+ds e 1
+yle es 2
+d SIGTSTP. 1
+g  wi 2
+he PATH for  1
+ a shell f 3
+o be assig 3
+ OPTARG a 1
+ moves  1
+              N 1
+g) defi 1
+g are disallowed or  1
+g is e 2
+              be s 1
+ll   3
+       There  is  some  s 1
+              The  s 1
+ized variable  1
+ores a series of  1
+ of word. 2
+ array as well as  1
+er of PS4 is re 1
+  of file 1
+x    a  1
+es.  The - 1
+d are readable.  I 1
+       There may be o 1
+he ex 86
+mber  less   1
+he  absol 1
+.  The -r o 1
+o see wha 1
+rsor  8
+e, Re 1
+ed while i 1
+.   No 1
+e  (see   1
+ Val 2
+y sy 1
+o BASH_ARGV.  The shell se 1
+1 a 1
+er a 13
+ly if  5
+ds i 12
+id | jobs 1
+he ma 19
+).  A  1
+y-forward-word 1
+he im 1
+SIGNALS 1
+s marked for ex 1
+h  of 1
+.  If arg is abse 1
+he logi 3
+ial arg 1
+s are  re 1
+ified as -d. 1
+o a readli 3
+              Read  a 1
+er a  2
+y-regio 1
+ (C-l) 1
+her key seq 1
+ed so far.  A 2
+er b 1
+he le 5
+e (FIFO). 1
+amed by word exis 1
+ized.  I 1
+              grea 1
+mber of words of  1
+ger key seq 1
+ a kill ri 1
+e key  2
+lays PS0 af 1
+s.  If a ma 1
+              @( 1
+              The  o 2
+sla‐ 1
+o override 1
+ified a 1
+ file ( 1
+s) or by se 1
+here is a  1
+ime.  This mea 1
+       as   1
+layed.  The %  1
+alled (or ${BASH_LINENO[$i-1]} if refere 1
+ored are rese 1
+e may  4
+ive dire 1
+d false if file 1
+he me 6
+eried abo 1
+o # i 1
+he alias val 1
+em de 1
+ ${FUNCNAME[$i]} is defi 1
+ed asy 1
+he files exis 1
+ [- 3
+ may be lo 1
+g of m 1
+ame, or -f is s 2
+he li 57
+ from file des 1
+e's defa 2
+ leavi 1
+er Ex 1
+ mail arrives i 1
+       The  s 1
+age  1
+ds o 2
+aseglob 1
+                      mo 1
+ribed above.  The -D o 1
+he vario 3
+y shell f 1
+hree digi 2
+er).  A 1
+he array eleme 1
+ly does  1
+       This may be i 1
+ed by isa 1
+ | - 1
+es a 15
+     s 1
+ld a 4
+yle li 1
+rimaries.  Bash ha 1
+rimaries. 1
+s a val 1
+er i 20
+              a   1
+o be re 7
+h -f. 1
+ may be  9
+ds q 1
+gs,  1
+ kill  1
+ly by  2
+ally marki 1
+o slashes, bash sear 1
+ds;  1
+ary mi 1
+ed; if i 1
+ed by @ or *,  1
+ly  formed bra 1
+h  eleme 1
+s shell b 1
+ameref variable is ref‐ 1
+he array's maxim 1
+rolled  1
+ shell (see INVOCATION above).  The val 1
+ified by  12
+hey be 1
+he COMP_LINE, COMP_POINT, COMP_KEY, a 1
+kward-kill-word (M-R 1
+                     The  a 1
+ds r 1
+he  alias  defi 1
+g are  2
+er _. 1
+sive,  2
+d serves  1
+ a  43
+ames.  This variable is se 1
+es d 1
+ds s 4
+d are assig 1
+ (C-o) 1
+alled  1
+ array variable (see Arrays below)  4
+h elif lis 1
+valid. 1
+s  are seq 1
+ a shell s 1
+o be se 4
+d arg is  1
+_verbose 1
+ Same as - 1
+he lo 14
+es from file des 1
+ arg [arg ...] 2
+ly abo 1
+es e 1
+ified i 4
+ead, wi 1
+s-his 2
+e asso 1
+d removed wi 1
+ormally `#'.  The his 1
+or is  4
+ from  17
+g begi 1
+lay versio 1
+y exe 1
+er m 1
+g is s 1
+},lib/{ex?.?*,how_ex}} 1
+roys  1
+rol his 1
+he variable BASH_ENV i 1
+ may be re 5
+ symboli 2
+ld be i 2
+refix is o 1
+ds are saved  1
+ behaves as if -1 had bee 1
+ime,  a 1
+ for whi 2
+re is e 1
+g `dow 1
+he His 1
+e if file1 is  1
+lare or  2
+s for redire 1
+                     mi 1
+em mode. 1
+layed agai 1
+ shells 2
+es.  This o 1
+ fails. 2
+er o 7
+ed as C  1
+el's  3
+ Ex 3
+he shell is s 2
+       OSTYPE A 1
+d, af 1
+       variable  i 1
+ behaves as if i 1
+ld i 1
+es i 15
+ Ma 4
+.  The DEBUG a 1
+o a do 2
+d ``IGNOREEOF=10'' had bee 1
+d marked for ex 1
+erformed as well.  If  1
+ers, a 2
+abled, a failed his 1
+y-ba 1
+ory.   A   1
+olor defi 1
+er ``.''  a 1
+       Reserved  words are words  1
+ive,  allowi 1
+al                                                              BASH(1) 1
+                      em 1
+es a  5
+                      me 4
+ers, b 1
+o shell f 1
+d will re 1
+ed.   Alias 1
+he form .xxx, leavi 1
+e of edi 1
+ries are dele 1
+ilde (Off) 1
+aller wi 1
+ified.  digi 1
+er;  1
+er q 1
+e word. 3
+erformed,  1
+ is defi 2
+ may be se 1
+oo slow. 1
+ors (mos 1
+dler,  1
+er.  A  2
+he kill-ri 3
+dible) 1
+              \M-    me 1
+bs.o 1
+he  DEBUG  a 1
+              es 3
+ array.  O 1
+ jobs  1
+er s 8
+age- 1
+il a 1
+s job wi 1
+]<<[-]word 1
+es for word s 1
+]} ex 1
+ ~/.bashr 1
+o $0 a 1
+ally i 4
+he re 27
+ be  35
++1 are  1
+ of dire 4
+ removi 1
+sed, or if - is  1
+eral & may be es 1
+es m 2
+       The  e 1
+s  where i 1
+sed (see Ari 1
+g shell a 1
+d's des 1
+g message if a 1
+                      ma 2
+wo ways.  If  1
+h a way  5
+ored aro 1
+ser mode. 1
+              eq 1
+ mask is se 1
+he [[  5
+g, as a 1
+es o 3
+g jobs.  The re 1
+ld be q 1
+g words be 1
+s EOF. 1
+ly bei 2
+ified s 1
+he +o ema 1
+ bash is made while jobs are s 1
+ed eve 1
+ame[*]} ex 2
+GNU Bash 4.4                                                              2016 A 1
+he se 54
+-zero 1
+ored.  Whe 2
+ffer as a si 1
+he same 1
+                     al 1
+e is bei 8
+ed exa 1
+ be a 2
+ be made  3
+erformed.  If  1
+ers, i 1
+d ``..''  are always ig 1
+kslash (\) is  1
+d reads a 1
+s may be mailed  1
+              me 5
+he shell is i 13
+lx, vi, vi-move, vi- 1
+d a   1
+d is bo 1
+       1.     The words  1
+ word of a sim 1
+ 2>&1 1
+refix is re 2
+g shell f 2
+s.  Bash reads a 1
+       If yo 1
+ho b 1
+e (.) b 1
+es s 4
+ally o 1
+e removal, 1
+MM forma 1
+-), bash  1
+       are  i 1
+              bei 1
+g ;;& i 1
+                 ma 1
+il i 3
+e of 2, a 1
+he si 3
+g?' sear 1
+...", where  1
+m size of a  1
+                      af 1
+e removal. 2
+] [-O origi 2
+he sear 11
+ed exe 1
+s (whi 1
+heir defa 1
+ be e 2
+s a shell f 1
+ame.  I 1
+o lower 1
+sed, $0 is  1
+o BASH_ENV;  1
+ed from lis 1
+              ma 12
+le o 1
+                               1
+ or las 2
+              ei 1
+ ``F 1
+d arg2 may be  1
+ld be read  1
+al/sr 1
+s differ o 1
+ial or  1
+k for mail,  1
+ribed below (for exam 1
+                      whe 1
+he variable OPTIND.  OPTIND is i 1
+me a 1
+ailor  1
+ed so  1
+g.  Bash always reads a 1
+e of bra 1
+e shell i 1
+                      sig 1
+he -F or -C o 1
+.  The -s o 1
+              Refresh  1
+  shell  sessio 1
+o keyboard-ge 1
+e, asso 1
+ if a s 1
+              sio 1
+o a shell f 2
+ be i 1
+rs,  or  a 1
+ be disabled  1
+g defa 1
+ of file 5
+ified.  If  4
+e.  Comma 1
+ x a 2
+  flags  as s 1
+ Fox, Free Sof 1
+he so 7
+              The args are read a 1
+ered.  Whe 1
+h readi 1
+g  bla 1
+d ],  2
+he  >(lis 1
+ded  23
+o $1 ....  Parame 1
+ially a 1
+g shell o 2
+lx, vi, vi- 1
+ake  3
+ error.  Usi 1
+his behavior 1
+les above. 1
+ers, s 2
+bshell). 1
+              SHELL  GRAMMAR  above).   Refer   1
+s are off by defa 1
+ead. 1
+ (C-w) 1
+              This variable, whe 1
+he file arg 1
+.  A ] may be ma 1
+.  A - may be ma 1
+ll,  6
+//f 1
+his may  3
+a‐ 8
+ified, res 1
+rieved  from 1
+ies.   If 1
+ely af 2
+he  shell's   2
+e eval 1
+e shell o 2
+              af 1
+ablished for ea 1
+r2 eval 1
+              ea 2
+                       46
+ew b 1
+il s 1
+              Similar   1
+d is fo 1
+re modes. 1
+o remember  1
+age,  1
+o  more  1
+ before bei 1
+.  Refere 1
+ameref, or a refere 1
+he GNU ge 1
+              If a sigs 2
+                      22
+he readli 19
+ be o 1
+              %q      1
+              %b      1
+              \r      4
+ames of all readli 1
+sed.  bg jobs 1
+              whe 1
+es.  If HISTFILESIZE is  1
+              Read i 1
+gs a 1
+g,  so   2
+lay, s 1
+his file is  1
+              \#      1
+              \!      1
+              \W      1
+              \w      1
+              \V      1
+              \v      1
+              \A      1
+              \@      1
+              \T      1
+              \s      1
+              \l      1
+              \j      1
+              \H      1
+              \h      1
+              \d      1
+d, eq 1
+  is  exe 1
+d zero or more dire 2
+he wi 1
+d (see JOB CONTROL above).   The  shell  always   1
+              -m      Mo 1
+ive if read is read‐ 1
+e grea 11
+ew, i 1
+ded  like  a  key  bi 2
+shd, or  1
+ (file des 10
+ array variable  4
+e  was 1
+ be q 6
+                      makes  word ex 1
+d -1''  1
+es read be 1
+ally modifyi 1
+o embed a  4
+ew e 1
+ job is always flagged wi 1
+ of here-do 1
+], where s 1
+              able, whi 1
+g defi 1
+ks ( 1
+ories ma 1
+ffixes s 1
+ial mea 9
+       kill [-s sigs 1
+o dir.  if dir is  1
+glob shell o 9
+ser‐ 1
+ale  8
+g1 != s 1
+ors below). 1
+s may be formed  1
+              A   4
+       IFS    The  I 1
+       COMP_CWORD 1
+he shell.  Also k 1
+he file, a 1
+ be s 6
+g or addi 1
+] [dir] 1
+ as   1
+              Read e 1
+l, or if  1
+al lis 2
+dex of -1 refere 3
+ed as rela 3
+reamble is  1
+s as des 1
+                  2
+lied, a 6
+              sigs 1
+ error message, a 1
+.  A  5
+g or wri 1
+he behavior of his 1
+ory (M-<) 1
+he sy 4
+es, are  1
+       See  1
+/bash.bash.logo 1
+       ·       12
+ is 0,  1
+ified of  1
+al side effe 1
+g  des 1
+lasses, a 1
+       --        A -- sig 1
+               194
+d, sele 2
+ede  2
+ a valid shell variable  2
+ho [- 1
+s for a reado 1
+ffer.  The word bo 2
+d is readable. 1
+se of aliases are somewha 1
+valid, bash  1
+self,  de 1
+e is of  1
+o 2 ( 1
+d, ex 1
+                     The ex 3
+ame[=word] ...] 1
+ime hash is i 1
+ame's val 1
+o be followed by resolvi 1
+gs i 3
+gs.  A 1
+ (M-., M-_) 1
+ial file. 2
+ed lis 11
+erformed a 2
+              a      The ex 1
+              P      The ex 1
+              E      The ex 1
+              Q      The ex 1
+ds of ex 1
+he remo 1
+e  whe 1
+s.  This o 1
+o  self- 1
+o -, file des 2
+d are zero-based; asso 1
+ exami 1
+er-i 2
+ame  47
+d array assig 1
+  a s 1
+ory from  1
+ from a shared obje 1
+ly redefi 1
+he sele 3
+ially o 1
+g.  If  4
+ "\eb\"\ef\"" 1
+ behavior whe 1
+his al 1
+ded. 2
+ribed below.  O 1
+o  refle 1
+ed side effe 1
+d for re-r 1
+o be read a 1
+ive shells. 6
+he righ 8
+ime(3)  2
+ds are e 1
+eed  8
+  was   1
+.  Nega 2
+ory (M->) 1
+ files follow symboli 1
+d [ b 1
+   Redire 3
+s, where [a-d] is eq 1
+h  variable  assig 1
+ does   1
+voke bash, as give 1
+ime ex 1
+er.   The  si 1
+ked  for  are   1
+ for all  1
+hes are added   1
+olors  1
+       == !=  eq 1
+g level.  F 2
+ially;  1
+b‐ 4
+lied, i 3
+a, ema 1
+              \C-     1
+ess IDs, i 1
+o 0 whe 1
+ded a se 1
+ors for Readi 1
+er.  This allows here-do 1
+       BIGNORE  is   1
+o a se 4
+ =.  I 1
+d GLOBIGNORE variables, if  1
+ially s 1
+                              Af 1
+h &.  If jobs 1
+assed   1
+       Several  shell  o 1
+eived wi 1
+his fa 1
+es, a  1
+ded  may  be 1
+  refere 1
+h (!=)   1
+he Kor 1
+              is   2
+over whe 1
+oreeof 1
+ds are i 1
+ases,  2
+ed array variables.  Namerefs  1
+              The ex 1
+ed by sig 1
+              Eq 4
+arsed a 2
+ds ba 1
+ho -e. 1
+ CDPATH are se 1
+e.  If a   1
+ear as if  1
+able files (see hash  1
+g as des 1
+                     Ma 5
+              ?      Ma 1
+              *      Ma 1
+heir effe 1
+ forma 1
+s, or a  1
+o a si 4
+, or file if  1
+al is rese 1
+ as  6
+ories  1
+he shell was i 1
+e, maki 1
+ail. 1
+ory (C-r) 1
+addi 1
+e.  This i 1
+ale. 1
+       Bash  a 1
+o --. 1
+he mask is  1
+s  are  a 1
+hem begi 1
+                      or   1
+ory.   Wi 1
+ed by C-key, e.g., C- 1
+       - +     1
+s may be re 1
+ase) dele 2
+ive arrays are refere 1
+rols how  1
+       HISTCMD 1
+       !   1
+lied, o 1
+ded   2
+e freedom i 1
+.  If a  4
+              Me 2
+ a variable 1
+e job, bash re 2
+mber be 2
+aseglob,  1
+mbers  may  be  i 1
+ame was  1
+ follows, wi 1
+ds be 1
+mber; o 1
+ory (C-s) 1
+rol-S or Co 1
+hey re 1
+s of 127. 1
+  error 1
+       DEBUG a 1
+h bash is 1
+ed by sho 1
+s] [ 1
+ories.  If  1
+h a * have bee 1
+o 0,  1
+d  -16  for 1
+afy  1
+ly ema 1
+), where ea 1
+y req 1
+       PROMPT_COMMAND 1
+his size af 1
+ame of a file  2
+              -x      Af 1
+s is made lo 1
+erformed  o 1
+s have bee 2
+] [-q f 1
+d or was s 1
+       is   3
+ (see  3
+y forma 1
+erformed o 5
+lass.  The word  1
+       The ex 2
+he form MMmSS.FFs.  The val 1
+ ]] 1
+his do 1
+able 1
+y res 1
+ for ea 2
+he hashed val 1
+he . or so 3
+he shif 2
+e of a  2
+              -a      Ea 1
+hey se 1
+ ``f 1
+d via  2
+ame=val 2
+              Refer   1
+ame- 3
+e is ema 1
+ely.  A 1
+ file a 1
+his  variable  is  se 1
+lar ex 5
+       BASH_COMMAND 1
+              SHELL  BUILTIN  COMMANDS  below).  The o 1
+es.  If IFS is  1
+he variable has i 1
+ame. 20
+bshell e 10
+ for de 1
+all  5
+d.  This o 1
+e.  This is e 1
+h is e 1
+              -A     Ea 1
+              -a     Ea 1
+e  less   1
+erformed if  1
+erformed;  1
+dles i 1
+he shell looks for dy 1
+ames  a 1
+              -       Sig 1
+h are sim 1
+              -l     Whe 1
+es.  If -T is  1
+g  is  a  lis 1
+  where   1
+imes, however, i 1
+o see if i 1
+d is re 1
+ially.   All   1
+              able.  Whe 1
+       The  order  of ex 1
+s BASH_ARGV o 1
+s.  Bash's exi 1
+ have a fix, yo 1
+he reso 2
+ead,  1
+ 3.1 wi 1
+ do  10
+ly a si 2
+g.  Assig 1
+d2 ... ] 1
+voked 2
+es variables  1
+d, re 1
+ames is i 1
+h a # are  1
+ available  1
+abli 1
+s of bash. 1
+   Tilde Ex 1
+y variable is assig 1
+ly; if se 1
+ifies  a  lo 1
+, or zero if  1
+h is i 2
+ors lis 2
+ormal  4
+ory file is read, li 2
+lay a  2
+ro, or se 1
+ded job jobs 1
+       Several  1
+g key bi 1
+       may be modified i 1
+d is se 2
+s.   If   1
+  refers 1
+gs.  U 2
+y seq 1
+d (see 1
+              alias   1
+                      dir 1
+r, a se 1
+d mark is referred  1
+sis whe 1
+aller. 1
+he file ${BASH_SOURCE[$i+1]} a 1
+o by a s 1
+-2 as lo 1
+m size of  1
+ shell, or as a  1
+d is hashed, - 1
+ are dis 2
+                              Same as -E. 1
+              Ea 3
+e.   The   1
+              The  - 1
+ime re 1
+ (jobs 1
+self re 1
+d_ha 1
+r?ex 1
+ories. 1
+ase word i 1
+iswww. 1
+              Whe 9
+                      des 1
+y val 2
+              dir.  Al 1
+; a 1
+er ba 1
+ed above (see PARAMETERS). 1
+e is a  1
+d sear 1
+              BUILTIN COMMANDS below).  The o 1
+              Sig 1
+ if   1
+lied, or  2
+ed, by maki 1
+o be made based o 1
+her by defa 1
+       ger.  Whe 1
+       A sim 1
+ if  20
+h is o 1
+ames are  1
+vokes.  If arg is  1
+ `` 1
+ser    User  1
+ [o 1
+ame  ex 2
+ilde-ex 1
+ive is  1
+              as edi 1
+d bash. 1
+d is ow 2
+  allows  bo 1
+e are ig 1
+his ex 1
+eed.  The mi 1
+his ma 1
+h are  2
+g beyo 1
+eded by - a 1
+ PARAME‐ 1
+              Used  by  1
+       formed o 1
+al.  If  1
+' are  1
+g delim (defa 1
+s  are  s 2
+o read a  1
+y sim 1
+       old  behavior of ig 1
+g arbi 1
+       The  file  des 1
+age i 1
+ase ASCII  1
+ames begi 5
+ry is wri 1
+ a !?s 1
+he desired his 1
+h of s 2
+ are ide 1
+h array eleme 1
+              The sys 3
+es; a 1
+osix mode).  See SEE 1
+der  7
+     Co 1
+all. 1
+rol seq 4
+al order, ra 1
+rols  wha 1
+       is  also   1
+h is s 1
+e or more  5
+ded, de 1
+ed res 1
+g array eleme 2
+ed.  If  12
+d so  o 1
+e (Off) 2
+ >&- a 1
+h more  2
+EXPANSION 1
+o SECONDS,  1
+  be assig 1
+; i 1
+es).  I 1
+ of -  is   1
+e, le 1
+his li 2
+              fied a 1
+rol sig 1
+he file whose  6
+ll o 1
+              des 3
+ were e 1
+ shell, or a  1
+ories wi 1
+,  bash ma 1
+ 3.2 wi 1
+er ea 3
+ails how  2
+ged  2
+e of bash. 3
+ ba 5
+al sig 1
+ read. 1
+ame  is 1
+ file des 11
+ by  19
+s or mi 1
+ard  1
+ified or  1
+ds fo 1
+er de 3
+ames, readli 1
+ id. 1
+ af 13
+al val 4
+fail shell o 1
+e (Newli 1
+lay-wid 1
+ds ig 1
+y variable may be  1
+o words wi 1
+o  be  removed  from   1
+ed seq 1
+ll s 8
+d  assig 1
+  Names of ex 1
+ for dy 1
+g or e 2
+he same as forward-word. 1
+his exam 1
+he  key  bi 1
+airs, of  1
+                     If fd is a valid i 1
+his variable is  3
+eded by a $. 1
+his array variable may be  1
+ is zero  1
+als  4
+ed sig 3
+                      If  -o  is  s 1
+ames are so marked.  The -a o 1
+ abo 5
+ be 7
+er is a  4
+he COMP_WORDS a 1
+kward-dele 2
+y words remai 1
+hem defi 1
+ serve  1
+       able OLDPWD, if i 1
+              %s 1
+sidered exe 1
+ess (see Co 1
+ [ word ... ] ] ; ] do lis 1
+ry.  This allows easy re-edi 1
+              of  - 1
+ive arg 9
+ 12-ho 2
+ for ex 1
+g1 < s 1
+ively, is  1
+.  A f 1
+d,  if   1
+.  The forma 1
+; o 1
+.  This variable is available o 2
+lied, all alias defi 1
+lly.  This o 1
+lied as  3
+ed val 3
+ word is ex 1
+                              Dire 1
+ra i 1
+sed for file 1
+ (a   1
+h variable assig 1
+ da 1
+dergoes  bra 1
+ded, ge 2
+ors ;, &, &&, or ||, a 1
+       !  1
+ossible  46
+ also be s 1
+  is  res 2
+ a file  2
+hese  ma 1
+roll-mode (Off) 1
+ ``> o 1
+e keys 1
+dle  2
+ is refere 1
+or   2
+              Provides   1
+he failed  1
+              -v      Pri 1
+ame  is  -, 1
+d shell  1
+ds ma 1
+ bi 7
+d disable b 1
+ al 3
+e.   For  exam 1
+s, from lef 1
+ will em 2
+              is `^'.  The o 1
+es af 2
+ively,  1
+       bash - GNU Bo 1
+ ea 13
+                      The o 1
+              -v     Pri 1
+h a slash (/),  1
+osi‐ 1
+              This  1
+ries is  1
+eed   1
+ial  vari‐ 1
+es be 1
+g ASCII orderi 2
+ de 9
+ have a 1
+.  The  10
+              \f     form feed 3
+s where  1
+ bee 3
+       for  2
+              (whi 1
+s of false is re 1
+ase  13
+hese  me 1
+ly   4
+g  exa 1
+e  of   5
+ed  as  if  a 1
+ame.  There are  1
+       Bash  also  i 1
+d a b 1
+s for a 1
+ fa 10
+              If  -C  is  s 1
+ error 1
+ll, i 3
+ory file is 1
+ame   2
+he shor 3
+e  is   3
+arded. 1
+g1 = s 1
+d righ 1
+es (see PROMPTING below).  Chara 1
+       sidered a 1
+e, ra 2
+d OPTARG is se 1
+              The s 2
+y addi 2
+ro, key 1
+       2.     The  words   1
+o ref, a 1
+ively ig 1
+ed via a  3
+lar  ex 1
+       -x        Pri 1
+       -v        Pri 1
+ bei 4
+ged. 3
+he shell exi 2
+ bo 4
+he INPUTRC 1
+CONDITIONAL EXPRESSIONS 1
+ded,  1
+ase may be i 1
+ regex(3)).  The re 1
+ as 4
+ed for.  If  1
+ffer size 1
+s or missi 2
+              -S s 1
+l  for  a  s 1
+o view  1
+he file whose 1
+ers.  A  1
+e is exa 1
+he /dev/fd me 1
+hed  1
+dex  2
+gger o 1
+he variable REPLY.  The exi 1
+hars   1
+              Pri 5
+     Removes  1
+ho shell  o 1
+his se 2
+es de 2
+ of shell b 1
+       moves  1
+       This  3
+file b 1
+  for  s 1
+voked as sh.  The -- 1
+work  1
+ is EXIT (0)  1
+              The o 1
+osix mode affe 2
+ Same as -e. 1
+ed or modified is give 1
+ ei 3
+er fo 2
+ly exe 5
+       word bei 1
+e‐ 4
+ a SIGTTIN (SIGTTOU) sig 1
+g or s 1
+em-de 5
+ files are 1
+ ha 8
+essed si 1
+ffer, allowi 1
+              words   1
+       kill -l|-L [sigs 1
+mber of 1
+ory file.  Whe 2
+e are re 1
+ifies wi 1
+he shell exe 3
+ have i 1
+              ified file or Maildir-forma 1
+h bash reads  1
+ ge 12
+ks a 2
+ will ex 2
+       !- 1
+ mode. 1
+e is exe 5
+g1 > s 1
+he -f  o 1
+h lower  1
+o members of  1
+; } 1
+ fi 2
+ job's  1
+s obeyed by  1
+ will ma 2
+ do 20
+es bo 4
+ossible- 6
+losed, made  1
+       The s 2
+ame of a s 3
+ffixes  1
+gs  ma 1
+  is  sim 1
+d Che 3
+g dire 16
+ossible. 1
+ em 4
+he shell breaks i 1
+h a leadi 2
+ide whi 2
+              is  eq 1
+d a key 1
+er for ea 1
+ed for aliases, b 1
+, is ma 1
+aseglob o 1
+g.  Bra 1
+der Shell Variables below. 1
+       of a sim 1
+                      has bee 1
+he shell is exe 2
+ds, lo 1
+h has  1
+s is false if shell-b 1
+ saved.  If  1
+ will be removed from  1
+s job may be refere 1
+       `ade a 1
+-2, or zero  if   1
+              Firs 1
+e of bash o 1
+              The i 3
+er ex 22
+he ERR  2
+al whe 1
+ loadi 1
+ames reado 1
+ase, 1
+                      The a 1
+, = or ( (whe 1
+h key seq 1
+ser is q 1
+              \\     a ba 1
+he shell's exe 1
+o  zero,   1
+       OPTIND The i 1
+lied if  1
+ial val 3
+ly - 1
+ribed i 3
+d, or ari 1
+g for  2
+ed  by  a  sig 1
+ames (q 1
+d shif 1
+ (``#'') 1
+       The o 2
+,  or   1
+s, if  1
+       a sim 1
+ameref,  1
+er  of   1
+all is a 1
+ers $ a 1
+g while exe 1
+he  args, 1
+ eq 6
+ase. 1
+ory for edi 1
+d movi 2
+o bash.  Ty 1
+e if file exis 20
+abled).  F 1
+ address, a 2
+er  is   1
+al wid 1
+ed as a  5
+ial  30
+ allow  3
+ fo 11
+                      errexi 1
+ory as if i 1
+h member of  6
+ime makes  2
+-files (O 1
+ely wi 1
+re a 1
+ed, will re 1
+              Names  ma 1
+h members of  1
+              eval 1
+mber re 1
+ear as arg 1
+              shell's e 1
+ed whe 16
+ es 6
+lied, have  6
+ode (ISO/IEC 10646)  4
+ bla 1
+       !#     The e 1
+ally  dis 1
+d key seq 1
+ossibly wi 1
+ ig 2
+, bash ig 1
+ds re 1
+il af 1
+ess.  The re 1
+s.  The exi 1
+              This  i 1
+) or  -,  ea 1
+ for se 1
+ as a 2
+ffix s 1
+he bg  1
+es.  Whe 1
+              %[ 3
+eeds.  This o 1
+rs] [ jobs 1
+sed as a 4
+er li 4
+d a s 1
+ed.   O 1
+       Firs 2
+       For   1
+ 9 are re 1
+       The eval 1
+file o 2
+ied  2
+ame] 3
+er is 1
+ dy 2
+     Give  ea 2
+       show-all-if-ambig 1
+ifies a 1
+ds se 2
+ [-HSab 1
+ mode.  If i 1
+ be assig 3
+s or wi 1
+voked,   1
+lied by  3
+       BASH_XTRACEFD 1
+his array a 1
+ is  165
+ ho 2
+ ex 81
+                      ema 1
+ edi 4
+le ge 1
+.  Ba 1
+he shell variable FIGNORE is  1
+              This  is  a 1
+rsor is dele 1
+erm=  form  may  be  1
+ive or  1
+his wi 1
+ames ``.''  a 1
+er@o 1
+ies, eve 11
+der CONDITIONAL EXPRESSIONS.   1
+, bash ma 1
+ ma 38
+g file 11
+ 4.0 wi 1
+ively.  U 1
+ive  o 1
+                     ema 2
+ (see EXPANSION above) b 1
+s-mode-s 2
+,  whose  val 1
+e if arg1 is eq 1
+       eval 1
+              BASH_VERSINFO[2]        The  1
+ed if, a 1
+o be POSIX- 1
+ im 1
+RESTRICTED SHELL 1
+ as if  1
+re i 1
+ed (see Shell Variables above). 1
+ds si 3
+h  arg 1
+s have  2
+ fea 2
+esses whi 1
+       error message a 1
+                     TCP so 1
+.  The word is ex 2
+defi 1
+              %%        A li 1
+size o 2
+ le 1
+ld be saved o 1
+ below).  Ea 1
+eded 1
+'s  2
+ of  155
+g or dele 1
+his limi 1
+he hard limi 1
+, bash  6
+ser id is  2
+              The  forma 1
+              For  ea 1
+her variable is defi 1
+ is made 1
+ a readli 1
+ly lis 1
+ressed (a ma 1
+o read from or, if  1
+er of 1
+or 1) a 2
+                     UDP so 1
+ ki 1
+ly variables may  1
+d lower- 1
+              The forma 1
+     Removes   1
+e, wi 1
+e.  This is like exe 1
+       Members  of  1
+ bash is wai 1
+       moves   1
+              [...]  Ma 1
+ as i 6
+omma-se 1
+ of aliases as mai 1
+PARAMETERS 1
+       A des 1
+sed as i 8
+       ! 1
+ me 2
+k or ya 1
+alize  2
+'s o 1
+              \D{forma 1
+y via a 1
+ame.  If >&- or <&- is  1
+dard 2
+ks s 1
+  is  whe 1
+his shell  1
+ li 68
+ des 6
+oded, i 1
+EXIT STATUS 1
+es ex 1
+              every  1
+ase; 1
+              of  2
+ error if le 2
+ive shell  3
+h.  The exi 1
+ OR lis 1
+sh). 1
+ is 20
+              \v     ver 3
+ial- 1
+       The old forma 1
+er ra 1
+ `}'  1
+es ma 2
+o "$1" "$2" ...  If  1
+       Bash  is  a 1
+ame as a  shell  b 1
+.   If  2
+dard se 3
+he shell may  1
+ded.  If word is  1
+ fas 1
+] des 1
+.  Ea 4
+ may be allo 1
+herwise  12
+dergo  2
+o -l.  kill re 1
+ame, OPTARG is  1
+se a 1
+sed.  If a  1
+       % 1
+d below. 1
+d Ari 1
+reamble, followed by ei 1
+       +=  is  a 1
+he Use 1
+     Ro 2
+hem  3
+ger  2
+ed, or whe 1
+e of HISTCONTROL. 1
+hed by a  1
+ive array variable whose members  1
+ed, as if  1
+ is firs 1
+or,  3
+sed as o 2
+e a b 1
+ array variable, or a 1
+ormal shell f 1
+ded a 4
+ory as  2
+       The forma 3
+le, a{d, 1
+d.  If HISTCMD is  1
+he =~ bi 1
+e files where ea 1
+ files.  If a 1
+dard 1003.1).  Bash  1
+ arg 66
+ lo 12
+re s 1
+ of 4
+ied. 1
+se d 1
+aged by  1
+ed.  Therefore, a 1
+       COMP_WORDBREAKS 1
+he  alias  lis 1
+ges  9
+a.  The exi 1
+mber wi 2
+.  The -v o 1
+sh.  This se 1
+ bra 8
+              vio 1
+es is 1
+ (see hash below  1
+ew shell had bee 1
+ax.  A shell variable  1
+reserved.  For exam 1
+e.  The read b 1
+e of HISTIGNORE.  The se 1
+ is, "$*" is eq 1
+o -D. 1
+ds wi 2
+                      PS4, followed by  1
+ifies q 1
+ ari 6
+ory file's  1
+ossible 3
+ word.  Word bo 2
+ is. 1
+assed i 2
+ser-id bi 1
+d may override  1
+er se 2
+              ver 1
+he file ${BASH_SOURCE[$i]} a 1
+g mail,  1
+ reads a 1
+ors whe 2
+f [-v var] forma 1
+e a f 1
+he COMPREPLY array variable, o 1
+he -f or -d o 1
+s devia 1
+ames of exe 1
+or 0, 1, or 2, res 1
+ly,  1
+l.  If LINENO is  1
+ ra 3
+fail 1
+ame,  6
+ for sy 1
+.  vi is eq 1
+              followed immedia 1
+ behavior of  2
+ories.  If followed by a /,  1
+kslash is dis 1
+he array begi 2
+dida 1
+y sys 1
+he same  r 1
+                      The  2
+eara 1
+e will be exe 1
+se i 1
+       - 6
+er.  The  1
+d 42 are valid val 1
+  where a 1
+ld re 1
+ be a  3
+ dis 7
+abled shell b 2
+ified as -e. 1
+habe 11
+ffix of  1
+e.  These  1
+refix)  1
+ally differe 1
+              variable s 1
+es, ea 4
+he SHELLOPTS, BASHOPTS, CDPATH, a 1
+ ema 6
+  variables.  Read-o 1
+,  defi 1
+       This   2
+he file  whose   1
+ removal. 1
+ed.  Ari 1
+ of -1 eval 1
+ilde is re 1
+ified by POSIX.  Whe 1
+ded i 1
+gle  8
+ re 29
+osed of  3
+, bash re 1
+ames 3
+              below for a des 1
+       origi 1
+he \1 a 3
+eral " 1
+ism for  1
+                     A  1
+dom  1
+ers ( a 1
+ive shell. 1
+ behaves ide 1
+ameref a 7
+ors sor 3
+he redire 13
+e is zero o 1
+ge of  1
+me ea 1
+ers af 1
+              leas 1
+       A do 1
+ has 1
+es ra 1
+ above).  This is o 1
+heir origi 1
+al.  = sho 1
+ime [[ ]] 1
+ is give 13
+ se 36
+ged.  This is  1
+d SIGHUP  1
+              globas 1
+ers be 5
+herwise. 4
+he refere 1
+sed by shell-ba 1
+e rela 1
+              Perform alias ex 1
+lx keyma 1
+ame or ma 2
+ively s 1
+, bash se 1
+ive gro 1
+er##word} 1
+ of array keys.  If  1
+ors for o 1
+ removed. 1
+ish, a 1
+edes a  2
+       -- 4
+ored whe 2
+alli 2
+                      fil 1
+ or 2
+her key is 1
+he fg  1
+                     File des 3
+e>''. 1
+his variable is assig 1
+ array variable whose members are  2
+ ide 1
+              The  12
+her  42
+o a variable; if  1
+              immedia 1
+ fil 2
+eari 5
+al wri 1
+ offse 7
+e.  If file 1
+d-alias-ex 1
+eral ' 1
+e (res 1
+ible).  I 1
+se of a 1
+ is as if a  1
+       4.     The  1
+e of var 1
+       PWD    The  1
+       PPID   The  1
+       OLDPWD The  1
+bshell. 1
+ly variable)  o 1
+file [-d delim] [- 1
+e all s 1
+erforms  3
+              >&word 1
+es re 1
+h arbi 1
+ressio 86
+ded;  1
+ive logi 6
+g a @ is bei 1
+se s 2
+e of ea 4
+ readi 3
+              A  10
+ame[@]} 2
+his logi 1
+g, ex 1
+ld be read whe 1
+ ass 1
+ialize  1
+ si 2
+d were exe 1
+hes  15
+h -q,  1
+ry.  The re 1
+.  The HISTCONTROL a 1
+       shell-forward-word 1
+er (033) 1
+ is eval 2
+e will be es 1
+o ==.  If  1
+ is removed from  4
+, allow a word begi 1
+ames are marked for a 1
+kward-kill-word 2
+ word, or if be 2
+rol-Rs are  1
+ded s 1
+d1 re 2
+es se 2
+              job,  1
+ 8 bi 1
+ ro 1
+ify a valid job. 1
+assed as a se 1
+ vi edi 2
+ale a 1
+er wi 7
+h‐ 2
+e, ${FUNCNAME[$i]} was  1
+ be read, bash re 1
+_shell 1
+ is grea 4
+              file des 1
+ame] [-d delim] [-i  1
+ory is i 1
+       shell-kill-word 1
+.  There are o 1
+his  se 1
+ame of $0 ( 1
+]<&digi 1
+o words as readli 1
+, @,  1
+       The  2
+       The G 2
+ary  5
+.  Ex 3
+              -N  1
+ [arg 3
+ames refer 1
+(1) does.  The - 1
+hem dire 1
+e readli 1
+                     keys.  The word o 1
+h  has bee 1
+ded as wi 3
+%3lS'.  If  1
+ses all  1
+ld be dire 1
+ of -- as sig 1
+ if i 15
+g of a dire 1
+er  readi 1
+o  0,  le 1
+ off array  s 1
+ so 3
+o be removed,  1
+ers bo 2
+ribed as killi 1
+ asy 4
+wo forms,  1
+gle- 2
+heir key bi 1
+ 24-ho 2
+ers * a 2
+able files for  1
+rofile, if  1
+                     is ex 1
+er all o 2
+gs.  The arg 1
+aller  dis‐ 1
+ll,  a 1
+he -o dir 1
+kward or forward i 1
+       shell's  1
+hem is  1
+ame from CDPATH is  1
+s may a 1
+                      files by  1
+                      verbose Same as -v. 1
+       A 11
+   Comma 4
+he -o ema 1
+d a seq 1
+eger 1
+       (file des 2
+dex assig 1
+g how  2
+he above lis 1
+er, si 1
+lied, wai 1
+g will  1
+ allows  5
+es.  The sear 1
+ase,  for  ea 1
+es, are removed.  If a  1
+       BASH_ARGC 1
+re shell daemo 1
+       There are some s 1
+es hard, sof 1
+ems  8
+ame [ 2
+her. 1
+ or  17
+ shows o 1
+ wi 35
+heir i 1
+              fo 2
+ (bell) 3
+ho ex 1
+eded by a ` 1
+ is, word 1. 1
+al driver, whi 1
+              BASH_VERSINFO[4]        The release s 1
+       able i 1
+s off a 1
+, or if  7
+or a 2
+ (righ 2
+, or false if a 1
+es.  Af 1
+ally 1
+.   This  is  a   1
+ dow 1
+ro). 1
+om-mos 1
+d (see Com 1
+gs be 1
+ors, && a 1
+he shell).  If arg is  1
+ified sig 1
+ame, a  2
+e is bo 1
+              Ide 1
+olored-s 1
+ kee 1
+ore SIGINT a 1
+re-i 1
+he LC_COLLATE or LC_ALL shell variables, if se 1
+he [ is a !  or a ^  1
+ers have  1
+ame.  PATH is  1
+       E 2
+e is read  b 1
+hes. 9
+e sele 1
+h are symboli 2
+ds remembered by  1
+egers. 2
+ked. 2
+       F 2
+d ], a 1
+.  Pa 1
+sed as assig 1
+ds are  1
+losed whe 1
+aref 1
+aragra 1
+e Library, Bria 1
+ if s 1
+g, ra 1
+ fails is  1
+ error loadi 1
+ sy 4
+he word  2
+ribed below,  1
+le.  All  1
+ies  2
+                     adja 1
+ly a 6
+ was i 2
+gs/old/ 1
+ames, i 1
+ a  ba 1
+ame.  This file 1
+d \W  1
+       I 15
+ame a 10
+ wo 7
+ed before every sim 1
+i‐ 4
+ IFS;  1
+              fi 1
+ mark (?) is  1
+he COMPREPLY array variable. 1
+ly b 3
+e of mark-dire 1
+ Key 1''. 1
+e May 26") 1
+ywhere wi 1
+] is de 1
+es wi 2
+er HOME.  If 1
+ossible logi 1
+e of ig 2
+ffer 1
+  array  variable   1
+imes for  1
+ his 9
+.  A leadi 2
+il,  or sele 1
+hey  3
+ge of words; `-y' abbrevia 1
+kslash may be  1
+ally C-d) 1
+gs de 1
+or is <,  1
+ is a valid arg 2
+ a () s 1
+ file ~/.bashr 2
+, bash reads  1
+y  are 1
+his is ``r="f 1
+der Shell Variables.  If a shell f 1
+ as des 2
+akes  a si 1
+s word 1
+arge 1
+derr 1
+ame}.  I 1
+es read by  1
+s 3.2 a 1
+des all b 1
+ders 3
+or i 3
+ gra 1
+d ,, ex 1
+e is em 1
+s is 0; o 1
+       shells ex 1
+ds from   1
+heir s 4
+ for 4
+heses, a 1
+       dard i 1
+              &>>word 1
+ of 0.  A 1
+d [[  1
+ll.  The li 1
+e of ex 3
+ely  3
+ eve 5
+ory, as des 1
+ame[=val 4
+ of   5
+s, ema 2
+ will e 1
+              &>word 1
+.  No 2
+ of a bra 1
+s.  The i 1
+       O 7
+  is !,  1
+ errors  1
+ mea 2
+] keyseq 2
+       If  bash  is  wai 1
+e is a bla 1
+              !( 1
+ is   1
+he word is do 1
+e of ma 1
+e removal (see EXPANSION below).  If  1
+erformed 2
+.  This o 3
+h dire 4
+ames, q 1
+.  Re 1
+wo words o 1
+       $e 1
+       = *= /= %= += -= <<= >>= &= ^= |= 1
+, a redire 2
+e>, < 1
+sforma 2
+ers ma 1
+o-righ 1
+ly i 6
+ax  error  o 1
+e of a sim 1
+ame i 6
+ax (see Arrays above), o 1
+ory-size  1
+erformed sim 1
+ by a 1
+e.  `&' may be es 1
+              fa 1
+              lows 1
+d @ have s 1
+       Q 1
+ was s 6
+                     read re 1
+ OPTIND a 1
+                      servi 1
+s --  1
+ames for  1
+or o 3
+e is ig 1
+ame, where  1
+e is es 1
+s is 0.  A 1
+s, ide 1
+h for  7
+       S 1
+rogram  is  a file begi 1
+he shell me 1
+he word, 1
+sr". 1
+ds above, wi 1
+ exe 30
+his  29
+k eleme 1
+he shell is  2
+refix a 1
+g.   The 1
+       $i 1
+bshells  s 1
+.  This s 1
+ead be  1
+dexi 3
+erm  1
+e of HISTSIZE af 1
+reased  1
+y effe 1
+ime  8
+ by e 1
+       U 2
+       !s 1
+h bash is r 2
+       adja 1
+ may be 1
+] is also a 1
+ies. 1
+ly o 2
+e reso 1
+d for   1
+med  5
+, a lis 1
+erformed whe 3
+he release of bash, versio 1
+ed (or, if  1
+he job abs 1
+he shell, less a 1
+er is @ 1
+ a shell exi 1
+e (whi 1
+ a failed his 1
+, or a  1
+ed (see ARITHMETIC EVALUATION above).  If  1
+o ``!! 1
+ key bi 1
+e is ex 3
+       There  are  a  1
+ame o 1
+ exi 16
+ly;  1
+s is 0.  The exi 1
+ers.  Ea 1
+d re-exe 3
+  from  wi 1
+d.  Bash dis 1
+gle job, %+ a 1
+or is >,  1
+he variable formed from  1
+gle word wi 2
+se by deb 1
+ly r 1
+hes; a  1
+              mode   The mode= form of  1
+ key 1
+ vi  1
+d SIGQUIT i 1
+d  asso 1
+es, followed by a 1
+ fashio 1
+ame;  1
+hara 305
+se ASCII  1
+sed by i 1
+ly s 2
+ffer for f 1
+e of 128+N as  1
+es of <s 1
+dire 6
+ase or for  1
+ame s 5
+ may 3
+e  is s 1
+ory is  always 1
+ffix 1
+o  ba 1
+ribed below. 2
+       Before  a  1
+sed  for   1
+rs,  1
+ly whe 4
+       word i 1
+ below).  The word is ex 1
+he words a 1
+ime reserved word  1
+h file 1
+              are s 1
+he words b 1
+he -o his 1
+ro a 3
+h.  If  1
+g.   There  are   1
+ds.  The -F o 1
+ is also a valid val 1
+ hos 1
+voked, a 1
+ified whe 1
+ess or job wai 1
+s 4.0 a 1
+ks.   The  re 1
+hey  may  be   1
+ have bee 1
+-zero (false) if a 1
+d -f, whi 1
+] [-o] [o 1
+g, wi 3
+gs from  1
+g exam 1
+,  ex 1
+d is a blo 1
+       For almos 1
+ify a file des 2
+he shell will allo 1
+e of ra 1
+ as  a 1
+ers ra 2
+ory fails. 1
+s.  The -d o 1
+-bi 11
+h job  1
+able.   Whe 1
+ory is  2
+       _ 1
+his variable.  The defa 1
+ of key bi 1
+esses are said  1
+ed  as des 1
+              by HISTCONTROL are a 1
+ired.   1
+o  be 1
+gger 1
+gges 1
+ify  4
+h  for ea 1
+ error (s 1
+ified  as  a 1
+e of 0 will  1
+ame may res 1
+  be  1
+.  If se 3
+lied or  2
+ry   1
+       a 11
+y modifi 1
+d has bee 2
+-de 1
+he -o err 1
+  embedded  ari 1
+his variable ( 1
+ory  of  1
+              look 1
+he deb 2
+e.  The o 1
+he zero 4
+hem from ex 1
+       b 8
+ file.  Bla 1
+       A  6
+       lowi 1
+ed.  To  1
+ory of  1
+erm. 1
+ser ID of  2
+ reserved words from bei 1
+ase   1
+ime. 2
+rofile 3
+ more  2
+-fa 1
+or  a 1
+d, if  6
+ers re 2
+able  5
+m] [array] 2
+he shell,  a 1
+abled, so 1
+e is redraw 1
+he words i 1
+.  Wi 2
+es if i 1
+med. 2
+ed.  This mea 1
+s 0,  1
+ive sig 1
+ame [args] 1
+ew li 3
+  Valid arg 1
+       d 3
+dard error was d 1
+g.  The s 1
+er is ex 5
+o  ea 1
+reserves  4
+g a b 2
+       e 17
+o  de 2
+sed as  14
+h  args s 1
+er a s 1
+ame does  2
+e or more of  2
+hose sear 1
+hoes a  1
+er^^ 1
+he ``#''  1
+       LINES  Used  by   1
+ame of a file 1
+her a sig 2
+ribed above  11
+ers  24
+ lis 32
+s is zero,  3
+       f 7
+d-mark (C-x C-x) 1
+ers se 1
+, so all o 1
+       ${ 18
+e.  The s 1
+       LANG   Used  1
+lly, si 1
+bseq 25
+ed, allowi 1
+s or asso 1
+              fails. 1
+   Modifiers 1
+       Words are i 1
+       below).  No 1
+k‐ 1
+ewer (a 1
+       h 1
+              The re 8
+ge  is  a 1
+ded.  For ea 1
+ will do before  1
+ella 1
+kward   1
+ below).  Word s 1
+       i 25
+ble q 26
+ories are added  1
+g a f 1
+ribed below  3
+s of sh as  1
+d BASH_ARGV are  1
+lay  11
+ry.  No i 1
+hibi 9
+       *      All of  1
+       ESC  1
+  a  job's 1
+refix ma 1
+.  Ty 1
+ose, aliases are s 1
+ed, is s 1
+al word, a 2
+o add a 1
+       BASH_REMATCH 1
+ded words is  1
+s is 1.  This is exa 1
+g if `` 1
+              logi 1
+, or is  1
+herwise.  The exi 1
+e is re 2
+       ||     logi 1
+       &&     logi 1
+       ! ~    logi 1
+       The hardware a 1
+ive shell will  1
+hars 4
+              %(da 1
+       logo 1
+-em 2
+ (M-y) 1
+heir 1
+d _, i 1
+ear a 1
+he  shell  disables 1
+es, wi 1
+              by  a  1
+ess  8
+he edi 10
+k, or ro 1
+ly a shor 1
+              Fe 2
+       are i 1
+       m 1
+/bi 1
+he alias lis 1
+ores, a 1
+s, or wi 1
+ames may  1
+me all of  1
+s.  This is  1
+o  ge 1
+ded before  2
+, for exam 2
+h a `?'.  Whe 1
+BASH(1)                                                               Ge 1
+h may  3
+s is always  1
+ors.  This may be overridde 1
+       o 15
+hars above  1
+h  a  Co 1
+esses  are  imm 1
+ iss 1
+ is @ 1
+ of a his 1
+h is shor 1
+       The re 3
+dard for s 1
+rimaries des 2
+elli 2
+ zero if  1
+ged by s 1
+              [-X fil 1
+he word 2
+ode  1
+y reaso 1
+e or more o 1
+er is @,  1
+ bash wi 1
+ive shell o 1
+he shell dis 1
+       A logi 1
+able. 3
+       /e 4
+ $-.  The re 1
+ remembered  1
+ds from firs 1
+              -X fil 1
+h may be a 1
+       q 2
+g).  The killed  1
+.  A ^Z  1
+o  be added  1
+ameref variable as a 1
+he same, b 1
+s, eval re 1
+ as shell  1
+s word.  Words are  1
+-ig 2
+       r 2
+er as des 1
+e removal). 1
+able files.  The  1
+.  If BASH_COMPAT is se 1
+       s 24
+ory Library, Bria 1
+arsi 1
+ is,  7
+ale-s 4
+he des 16
+ailed hel 1
+ro () 1
+s, exe 1
+ off li 1
+g  for  a  1
+.  If GLOBIGNORE is se 1
+ ; do 3
+ers. 8
+he FIGNORE shell variable  1
+ loo 3
+ear i 9
+ is disabled by defa 1
+-level'' loo 1
+erformed immedia 1
+able-bra 1
+ilde ( 1
+les  1
+o dirlis 1
+              mail  1
+al key-val 1
+ly  f 1
+s.   Usi 1
+yrigh 1
+ew se 2
+o  be  removed  from  ea 1
+e modifi 2
+ory was s 1
+       is removed before a 1
+or is > a 1
+his way. 1
+.  If HOSTFILE is se 1
+).  Use LINENO  1
+,  se 1
+ers may o 1
+ess is 1
+ed (see COMMAND EXECUTION above), rbash  1
+              Wai 1
+ a shell is res 1
+hese a 1
+g a s 4
+kslash.  If & a 1
+ regio 1
+es may be modi‐ 1
+ers wi 4
+esses are allowed  1
+e or more i 1
+       Words of  1
+o remove  1
+ive shell i 1
+able of hashed  1
+k.  Wi 1
+-ex 1
+he saved  1
+lay- 1
+ors.   If  IFS  is  1
+er is a 9
+hese b 1
+ame already exis 1
+esses are wai 1
+ a && or || lis 2
+h !.  If  a 1
+o  be  exe 2
+ed is des 1
+ while i 1
+he word desig 1
+ire  4
+-ma 2
+ial Parame 3
+ reg 1
+oo big a 1
+he arg 23
+he  array 1
+              able,  1
+ files,  2
+, or ari 1
+o RANDOM.  If RANDOM is  1
+sed,   1
+ a leadi 1
+assi 1
+a (ESC) 1
+he  middle  of a word.  If e 1
+he bra 3
+  mailfile.   Exam‐ 1
+here 1
+ear o 1
+ser is give 1
+o be deferred  1
+ed.  If +o is s 1
+ered i 1
+ed.  If -a is s 1
+) is res 1
+       { 1
+ive whe 1
+ess. 2
+he ari 2
+ (or file des 2
+o be referred  1
+er is se 2
+ames where  1
+der S 1
+sh(1) 1
+voked,  3
+v] [+ 1
+ffix]  1
+              -x keyseq 1
+              -r keyseq 1
+e.  This is  1
+ key seq 1
+-me 3
+s (see ARITHMETIC EVALUATION below). 1
+ism by whi 1
+.  If yo 1
+arser.  I 1
+all s 8
+ omi 1
+       } 1
+-li 4
+ial   3
+ially by  1
+oses, a  1
+ see 1
+wise shif 1
+he ela 1
+       --logi 1
+heri 29
+sed by  4
+hes  begi 1
+e of 1000 mea 1
+ is O 1
+he x key.  This  makes 1
+g  sys 1
+lied joi 1
+hese i 1
+ases, bash ig 1
+lay  Error if N 1
+h PS1 a 2
+ame may a 1
+hed  as  a  s 1
+ mos 3
+o word.  ex 1
+he dis 2
+s.  The -D o 1
+y dire 1
+h  seq 1
+ is moved  2
+ move  3
+als,  1
+ was las 1
+er is i 1
+ored.  If HISTCONTROL is  1
+erfa 8
+.  If a variable  1
+ym);  ema 1
+       This allows a se 1
+e a shell  1
+              Kill all  1
+he ema 1
+rsive.  The FUNCNEST variable may be  1
+d $@ ex 1
+HISTORY 1
+ld have bee 2
+       abor 1
+ame-r 1
+g 0 are i 1
+.  The followi 1
+ers.  No 1
+sidered a  2
+  -x  is  e 1
+he shell.  Q 1
+  { a 1
+ Ramey 3
+ified file des 1
+ req 4
+ make ea 1
+ame-s 1
+e, all li 1
+e is sys 1
+der ARITHMETIC EVALUATION.  If  1
+ remai 1
+DEFINITIONS 1
+he variable ENV, ex 1
+h may be s 1
+ be ei 1
+ addi 8
+ire --  1
+o 10 a 1
+mes  1
+.  The --r 1
+he form `a ; b ;  1
+ res 16
+g above) behave as if i 1
+ed; however, a 1
+hese o 1
+he HISTTIMEFORMAT variable is se 1
+er of o 2
+e (like dele 1
+ by bash have sig 1
+ores SIGTERM (so  1
+e of redire 1
+y allowed; if  1
+e may be q 1
+dard error,  ea 1
+              all  1
+he SIG  2
+mber; sig 1
+g (so  1
+              -F f 1
+er is o 2
+ew wi 1
+er-se 1
+ied from  1
+d TAB. 1
+.  Some 1
+g words are  2
+d form, word may  1
+he shell assig 1
+e is ``<s 1
+ess or 1
+                      err 1
+ory or a 1
+h zero) is a 2
+y redire 5
+ase,  2
+rsor is a 1
+erha 1
+es (Off) 1
+ory or  1
+e may be s 1
+her a shell f 1
+]<>word 1
+le, a word e 1
+er are  1
+ed as lo 1
+his file,  1
+ is removed before  1
+e  had  bee 1
+erisk (*). 1
+he same devi 1
+ly (a 1
+lama 2
+he variable exis 1
+       EMACS  If  bash  fi 1
+ame rbash, or  1
+  ``e 1
+he hel 1
+ish  2
+hese s 3
+h a f 1
+SIMPLE COMMAND EXPANSION 1
+ word is re 1
+y refere 1
+ead of a semi 1
+y remai 1
+ seq 4
+es by s 1
+ be ≥ 1.  If  1
+              Move ba 3
+ax [.symbol.] ma 1
+              ``%''  1
+er is s 4
+he shell.  I 2
+ed,  if  o 1
+er  is  se 1
+le-li 1
+ all  4
+ a slash, file 1
+ead of semi 1
+d (see SHELL BUILTIN COMMANDS below). 5
+ess.  A  1
+erformed as des 1
+ did  2
+g.  Whe 3
+ial‐ 1
+ sig 2
+ive) edi 1
+l] [-a  1
+y file 1
+ desired words from  1
+-mark (C-@, M-<s 1
+har).  If a 1
+s (M-*) 1
+ser may  1
+-re 1
+y  lis 1
+ be fo 1
+ead,   1
+er behi 2
+o briefly move  1
+o all jobs, r 1
+ while  2
+              of a word,  1
+ val 61
+ed as a 9
+ory file a 1
+       kill-regio 1
+al.  Ba 1
+eded  by a ba 1
+ array variable (see 1
+ds from a 1
+ files are read. 3
+y job  2
+ had  3
+or errors i 1
+ered, ge 1
+                     Remove a 1
+he = is  1
+refix*} 2
+h eval 2
+r]}, where x a 1
+-se 11
+eded by a ba 1
+ame.   The  reserved  word f 1
+s versio 2
+                      eve 1
+ of a 11
+ed by a  5
+ agai 5
+e had bee 1
+ser so s 1
+he shell  sear 1
+ially.  The word ex 1
+ sho 11
+ is a 33
+er  bei 1
+ble-q 9
+ory for 1
+ilde 1
+he shell sear 1
+o 36, lower 1
+he FUNCNAME variable is se 1
+he alias is also  1
+ as /e 1
+ wai 4
+lied wi 10
+  will  dis 1
+hed.  If a 1
+ely before  3
+ds followi 1
+eded by a dollar sig 1
+ever a  1
+r [-DE] [ 1
+ be read. 1
+d mark refers  1
+he GNU Ema 1
+s.  By defa 1
+mber may i 1
+lasses wi 1
+o  se 1
+s (e.g., be 1
+s (see REDIRECTION below) s 1
+dard word ex 1
+ead.  By defa 1
+ be ma 2
+g modifiers, ea 1
+ers are req 1
+o ``bg %1''. 1
+ly foregro 1
+ affe 5
+d bash does  1
+es  of   1
+ of e 3
+e a hos 1
+ive  24
+ is e 38
+                      6.     Error  1
+dlers  1
+rimaries is of  1
+ does exis 1
+g (see PROMPTING below). 1
+hild s 1
+g.  All val 1
+ory file i 1
+                     Dele 1
+h a s 6
+he HOSTFILE shell variable. 1
+       !?s 1
+ors variable are  1
+rsor are  1
+ded.  If a 1
+ed for a word whe 1
+d (see REDIRECTION below). 1
+mes af 1
+abled.  If  1
+ged s 1
+ialized  1
+he variable is  assig 1
+ is g 1
+o a valid  1
+ly a few basi 1
+mber 1
+he fra 1
+bse‐ 1
+lara 2
+dex,  1
+ames  whe 1
+ of i 6
+he variable is assig 4
+e as if   1
+he shell variable var 2
+d for ig 1
+ reserved word.  A  1
+dard as well.  Whe 1
+es of SHELL, PATH, ENV, or BASH_ENV 1
+ is i 22
+                     The  followi 1
+sis for ea 1
+s.  This is mos 1
+ard (C- 1
+g mode 1
+he PATH for a dire 1
+ of aliases  1
+hes  defi 1
+h for ma 1
+ribed above PARAMETERS) or 1
+ zero  i 1
+.  The valid  1
+ers are joi 1
+he shell  30
+o_em 1
+he variable assig 1
+o  a   1
+osix mode).  See SEE ALSO below  for 1
+ war 1
+he followi 47
+he his 105
+              -o  2
+       To  fi 1
+ed as o 3
+g versio 1
+her x or y begi 1
+ers.   Shell  f 1
+d, dis 1
+ by dirs whe 2
+ or -r is s 1
+              Dele 5
+ six 1
+g a file's  1
+ of a word whose ex 1
+ array variable is  1
+ess is a shell  1
+he else lis 1
+ermi 93
+ of o 5
+ifies a job  1
+ified as -v. 1
+e a lis 2
+ed as q 1
+ (has bee 1
+                     followi 1
+ array.  There is  1
+ is o 13
+se a  2
+he lef 4
+ ID differs from  1
+ files i 1
+er belo 1
+he word is  1
+ roo 1
+ loses 1
+able.  If 1
+he las 68
+ are  13
+ a form  1
+ (see Bra 1
+bshells  2
+he eve 9
+ory for  2
+ of q 1
+ed as s 1
+d, false if a 1
+ame, or  1
+ of r 1
+g --.  O 1
+       This fea 1
+g, or s 1
+e.  By defa 1
+rsor,  1
+g,  so  1
+h  redi‐ 1
+refix of a s 1
+iira 2
+ of s 3
+ame.  The file sear 1
+voked i 7
+er where  1
+d.  The  3
+red  2
+d hash  1
+e may be a de 1
+gle digi 2
+hem   1
+o -l. 1
+ is s 70
+ whe 46
+ors, lis 2
+ files  1
+ive. 5
+d for li 1
+ry a 1
+e, if  1
+ begi 7
+       The word followi 1
+ed like a ?, whi 1
+er  is  1
+or) a 1
+o a variable;  1
+       ~/.bash_logo 2
+mask [- 1
+ase a 4
+losed i 3
+he ker 2
+s, res 1
+.  If offse 1
+ followed by o 1
+abled.   The 1
+hed a 2
+imeo 9
+  of  shell o 1
+              -l -10''  1
+he args, se 1
+r.  The arg 1
+ager  1
+ wid 2
+able-key 1
+eger, file des 1
+  have   1
+mber ( 2
+ialized. 1
+       --d 2
+he exe 14
+e (a shell f 1
+har‐ 3
+  has bee 1
+e will 1
+ger   1
+wo adja 2
+he array wi 1
+y asso 1
+ed.  A res 1
+r.  This may be  1
+              mailwar 1
+                              ALSO below for a refere 1
+ be re 5
+ whi 24
+h -f.  If  1
+less a wri 1
+] -x keyseq 1
+ely remembered for ea 1
+       The  followi 2
+hed d 1
+he order  2
+ed; lef 1
+o avoid  2
+s is 127.  O 2
+mber of file lo 1
+abled 4
+g).  The ba 1
+ames are assig 1
+voked o 1
+ed.  Whe 3
+herwise  ig 1
+leme 3
+) or vi i 1
+       The followi 4
+e Val 1
+              The shell be 1
+ file.  The -P o 1
+imes 7
+ory file 1
+ase f 1
+       Af 7
+he shell. 3
+dif This  1
+al are se 1
++word} 1
+/bash/{old, 1
+ sor 2
+ of $, `, \, a 1
+ifyi 11
+he exi 35
+ be se 4
+ory lis 42
+ory.  The  1
+ame, ex 1
+mber of e 1
+g1 wi 1
+ bash 2
+ll se 2
+ed are re 1
+able  file  by   1
+hem ( 1
+er is * or @,  1
+layed by  2
+       DIRSTACK 1
+       --i 1
+.   This  o 2
+lied 1
+he job 1
+ry i 1
+er array eleme 1
+ead of i 1
+s or +o vi o 1
+s or -o vi o 1
+he message wi 1
+ers.  A 1
+ed if a 1
+ame, eve 2
+ase i 3
+ed  as   2
+he foregro 6
+gs, bi 1
+he form alias  1
+h word if  1
+s or -,  1
+lass 1
+se file 1
+              ized  1
+ame.  A variable has a val 1
+d is followed by o 1
+e.  This will sear 1
+he alias  1
+  GLO‐ 1
+ers,  a 1
+ will be e 2
+e  bash   1
+s follow  1
+o -l is a  1
+ified as -f. 1
+he hos 3
+bshells. 1
+eded by a file des 1
+ear, from lef 1
+ looks for  1
+.  PS1 is se 1
+h exer 1
+ally exis 1
+g word  3
+he PATH i 1
+al if i 2
+ro (C-x () 1
+als s 1
+ld be removed  from 1
+ky'' bi 1
+ds (see SHELL BUILTIN COMMANDS below).  The firs 1
+mber is i 2
+sidered eligible for bra 1
+s, or 128+ 1
+       Bria 1
+s, sho 1
+ome  4
+es.  Dire 1
+d [-m keyma 6
+       Ea 4
+sed  78
+ed as a logi 1
+ [+abefhkm 1
+s,  remove  ea 1
+g -a or -A a 1
+                     Use  keyma 1
+              Kill ba 2
+h files whose  1
+lay-le 1
+ of a sig 1
+ive shell rese 1
+ files. 3
+ory regardless of  2
+d ]];   1
+ize  1
+rol.  The -H a 1
+ dollar sig 1
+ -f a 1
+              wise,  1
+] -f file 1
+ro (C-x )) 1
+s a fa 1
+d %+ refer  1
+d, or  2
+d is a reg 2
+he same wid 1
+mber of m 1
+le differe 1
+ead of  6
+olog   C 1
+h jobs 2
+d whose arg 2
+ed if i 2
+ame is sear 1
+d variable  se 1
+ key-bi 1
+,  shell  variables  may 1
+ files, as if  1
+or who i 1
+       --r 2
+essf 18
+mber of o 1
+ses for ex 1
+essive arg 1
+              \a     aler 3
+e of READLINE_LINE or READLINE_POINT,  1
+s.  There are fo 1
+s-horizo 1
+layi 2
+ive shell,  2
+abled by sho 1
+ame, so  1
+       IGNOREEOF 1
+lare - 1
+d  ||  o 1
+erve 6
+o word. 1
+g was  1
+d [-L|[-P [-e]] [-@]] [dir] 1
+ers,  i 1
+              mode. 1
+ame [ i 1
+'s re 1
+erso 4
+a segme 1
+ry is s 1
+                     keyma 1
+mber are  1
+ilde i 2
+r2 is  2
+d does  3
+ed word lis 1
+essi 8
+ed by 0 (zero). 1
+kly. 1
+  was  defi 1
+he bell is r 1
+ly for a  1
+he differe 1
+hesized s 2
+COPYRIGHT 1
+he lis 59
+lly  2
+ored.  Ea 1
+ swi 1
+mber of s 1
+ be ya 1
+       Co 5
+.  Bash allows  1
+der  Pa 1
+ (see SHELL BUILTIN COMMANDS below).  If sho 1
+e' whi 1
+ will be q 1
+              wi 6
+ax errors.  This is ig 1
+e is absol 1
+ed is saved for  1
+  a  leadi 1
+erformed before a 2
+he alias, 1
+       see  1
+ed.  If   1
+              -m keyma 1
+ressed o 1
+s  of  a 1
+       file1 -o 1
+]>&digi 1
+er $(< file). 1
+lied.  If i 1
+y level is se 1
+he && a 1
+ shell 2
+o words a 1
+.  If readli 1
+       Fi 1
+s word i 1
+self.  The NUL  1
+he valid  1
+s.  The val 1
+ized as s 1
+e read is saved i 1
+ has  8
+  is  2
+              able var ra 1
+m is a sig 1
+sed, a 2
+dex i 4
+al  Sig 1
+kward s 1
+y, add i 1
+he x key.) 1
+SS forma 2
+) is wri 1
+d y m 1
+osix mode, as wi 1
+sed, 2
+lied, a lis 3
+                     All refere 1
+x] [- 2
+ed if s 1
+h have more  1
+              keyma 1
+ wra 1
+o 500. 1
+ired 1
+d for POSIX  1
+.   The 1
+sed, b 1
+ ] ... ) lis 1
+ defi 12
+ewli 40
+oedi 3
+s.  The -F o 1
+ed words as wi 1
+he LC_ALL shell variable  1
+d OR lis 2
+e.  A hard limi 1
+  of  4
+ed.  Usi 1
+sed. 6
+lies -f.  The -g o 1
+ew alias.  This behavior is also a 1
+he form of <(lis 1
+.  If -f is s 1
+kgro 14
+.  If -a is s 1
+ial b 2
+       (see  1
+al slash.  If  1
+or, i 1
+ax  for   1
+-zero. 1
+ked   1
+d Wri 1
+d as  2
+es for res 1
+              bash s 1
+d [redire 3
+o -v. 1
+ C or POSIX.  This im 1
+age sho 1
+dard GNU error message forma 1
+lied whe 1
+ [-aAfFgil 1
+       break [ 1
+.  vi 1
+-id. 1
+mber,  2
+       MAILCHECK 1
+k.  The eleme 1
+alled from ${BASH_SOURCE[$i+1]}. 1
+ors, res 1
+ differs from  2
+ed, dire 3
+ll, a  1
+dard error bei 1
+e is a seq 1
+ body will be affe 1
+ely  (see  COMMAND  EXECUTION ENVIRONMENT above), a 1
+g words a 1
+o words i 1
+ARITHMETIC EVALUATION 1
+       a  1
+ array variable whose members are assig 1
+herwise,  i 1
+d is a seq 1
+es of o 3
+)  has  bee 1
+       keyma 1
+hose 1
+k, ra 1
+ error message is  1
+ $[ex 1
+sed, i 1
+s.  A 3
+ly, a 1
+her   4
+ bash behavior remai 1
+ers read (wi 1
+svPSVX] 1
+ wri 1
+ray  1
+me a m 1
+              are saved.  If se 1
+       also  be  refere 1
+g sele 2
+ed.  The exi 1
+hes (==) or does  1
+her file  1
+.  If  38
+he loo 2
+es are  9
+shd  2
+  are 2
+s, whi 2
+refix-ma 1
+or is >|, or  1
+der ARITHMETIC EVALUATION.  If ex 1
+dex s 1
+       A   3
+s of a f 2
+lly. 2
+              a refere 1
+s from  6
+ds asso 2
+ has bee 15
+r1 -a ex 1
+ial i 1
+he variable HISTFILE (defa 1
+       Ex 4
+ed by a 1
+              *( 1
+  of a word, a 1
+h as de 1
+ sys 9
+limi 2
+  arg 11
+d's  < a 1
+ers is e 1
+] [-r keyseq] 1
+s.  The defa 1
+ames are fo 1
+sr/{ 1
+ame (see SHELL BUILTIN COMMANDS below).  de 1
+less 1
+ild versio 1
+d.  The eleme 1
+.  If bash is i 1
+o a file des 2
+                      If se 29
+              -P      If se 1
+              -E      If se 1
+s -e while exe 1
+-zero if re 1
+d do  4
+es begi 4
+ed shell variables.  May also be s 1
+e.  The val 1
+heir readli 1
+, if a 2
+o word s 2
+ is 0,  a 1
+ed job.  The s 1
+e library  2
+       Bash Refere 1
+ified  6
+ame of a variable whose val 1
+meri 33
+refix-me 1
+a key, M-x mea 1
+ilde  ex 2
+       are  refere 1
+d.  The val 1
+he reg 1
+       -l        Make bash a 1
+hes do  1
+s (M-?) 1
+gle file 1
+ses from shell b 1
+ PATH is  1
+al/sbi 1
+lare,  1
+d is a sim 1
+er or a 1
+, bash does  3
+ ERR is i 1
+s a li 2
+ fail 3
+.  Delimi 1
+d  -0''  removes   1
+d is re-exe 1
+lay of f 1
+sly bee 2
+-file'.  O 1
+ as whe 1
+d COMP_CWORD variables are also se 1
+hes   1
+ dele 2
+rol-Z) while a  1
+       -z s 1
+o levels of 1
+ed.  To be safe, always  1
+e, alo 1
+              ge 4
+ead of `-'  1
+              is re 1
+, if e 1
+       shell;  1
+ ref=$1 1
+lare or lo 1
+d ~/. 2
+sidered bi 1
+ame is defi 1
+ever keyseq is e 1
+o jobs (e.g.,  1
+glob o 1
+ive  offse 1
+".  This variable exis 1
+ follows  1
+radi 3
+ some sys 1
+ed by i 1
+s all of  1
+res  1
+si-seq 1
+k from  3
+ array  1
+       Refere 1
+d  (see 2
+              sof 1
+ $PATH  a 1
+he shell (see Bra 1
+ effe 6
+ored if i 1
+ of bash (e.g., 2.00) 1
+ array variable, ex 1
+he variable whose  1
+r‐ 5
+ered or read 1
+d if  1
+ly-exe 3
+he mos 5
+e,  or a  1
+ial s 1
+ $if  1
+              If se 24
+ds, so a val 1
+       Bash i 1
+       Pa 2
+g word s 1
+refix@} 1
+g words o 1
+       TMPDIR If se 1
+       OPTERR If se 1
+o a variable for whi 1
+bshell, as if  1
+, if i 1
+d   25
+s.  O 4
+he same his 1
+                      shell. 1
+ [-ar] [-h] [jobs 1
+                      arrayvar 1
+] [-W wordlis 1
+he immedia 1
+eahead  1
+e if file1 is older  1
+ale.  The  1
+e a file des 1
+                     Wi 3
+ly, o 1
+he job mos 2
+       BASH_ENV 1
+ase-i 6
+ers are  11
+ore  5
+, or se 3
+h word is  1
+e Variables 1
+lar file. 1
+e of /dev/s 1
+losed af 1
+er or i 1
+s as if i 1
+ loses  i 1
+al readli 1
+ame will be  1
+ive_ 4
+es of LINES a 1
+resses   1
+hoed a 1
+he DEBUG a 2
+aller [ex 1
+ed for keys like Home a 1
+eded by a word of  1
+ames ma 3
+              removal o 1
+ames of variables whose  1
+g.  The defa 4
+amed  7
+ored.  Li 1
+lied   1
+ed by o 6
+amed NAME i 1
+he GNU readli 1
+he res 41
+e  Same as -x. 1
+e.  This also affe 1
+s a ra 1
+lay is o 1
+o be a 3
+e.  The defa 2
+reserve- 1
+ly <s 1
+ers begi 1
+d.  The  defa 1
+e of BASH_ENV is s 1
+ess is available as  1
+he  shell   2
+o be b 1
+d word is  1
+ over  1
+ files) whe 1
+ame of a key s 1
+s.  T 1
+ immedi‐ 1
+e, behaves ide 1
+abs aro 1
+ified. 5
+a key 1
+em mai 1
+er#word} 1
+bshell.  The shell does  1
+e   15
+              Wi 6
+d by  1
+dard  4
+ers.  o 1
+ed by s 3
+hes will be ge 1
+ame (M-/) 1
+       No 5
+ed.  Wi 1
+              >>word 2>&1 1
+o be d 1
+, if eval 1
+ers @ a 1
+              %P        The CPU  1
+g mode (see  2
+ers.   Pa 1
+ is shor 1
+d [ [|⎪|&]  1
+s  af 2
+erform his 1
+es are a 2
+d ( 4
+              >word 2>&1 1
+ially. 1
+d (see SHELL BUILTIN COMMANDS below).  OPTERR is i 1
+e of bash is s 1
+he seq 4
+ser  1
+g all of  2
+                              Perform dire 1
+essed by remov‐ 1
+gs may be  1
+ may be a 2
+ed,  is 1
+ array, 1
+isio 1
+e " 1
+abled does  1
+] [ 12
+e_fig 1
+              -B      The shell  1
+d $BASH_ENV files are  1
+alize-word (M- 1
+mes wi 1
+he  bg  b 1
+ears, a 1
+ld make s 1
+he sig 5
+es may be  1
+rol  is  disabled  or,  whe 1
+h word from  1
+laims i 1
+ array. 1
+he ANSI C s 1
+ses  45
+ed by de 1
+mber a 1
+ zero,  5
+   Killi 1
+h-forward 1
+e for dis 1
+ ASCII bell  1
+o be i 3
+o, grea 1
+ array,  1
+       LC_COLLATE 1
+e removal.  Ea 1
+d2 is exe 2
+he Free Sof 1
+he val 116
+d - 2
+ origi 1
+              -w     Wri 1
+e words from  1
+he shell fa 1
+e as  5
+em ker 1
+              below) 1
+es is es 1
+verify 1
+, bash, whe 1
+ ids  1
+or fd i 1
+ore- 2
+ of GNU Ema 1
+abled.  See  1
+ of word is 1
+reased by a  1
+hree arg 1
+s a si 1
+ a forma 8
+e, before a 1
+e ( 3
+g-of-li 1
+ded (s 1
+s of zero i 1
+d_aliases shell o 1
+e Removal 1
+ed.  The res 1
+egory  3
+es are i 2
+ed as follows 1
+he sho 16
+y jobs 1
+es symboli 1
+ as a  5
+ as a symboli 1
+omized  by   1
+hose of ba 1
+er[offse 1
+ildes). 1
+       READLINE_POINT 1
+       Si 1
+ may be i 1
+ if exe 1
+ely, ra 1
+hem a 1
+                              dire 1
+he sim 2
+              be se 2
+he wai 4
+.  Cha 1
+d.  Ordi 1
+or.  If  1
+o 1 ea 1
+al Parame 1
+ked,  1
+ger exis 1
+akes  5
+o error messages 1
+ or a 1
+ is similar  1
+er for  1
+o be o 5
+ame  or  symbol   1
+g, bash e 1
+dard error file des 1
+mber (e.g., 4.2) or a 1
+              dirs 1
+ser (gro 4
+rs while 1
+ory -d offse 1
+o variables wi 1
+ed  by   2
+e, ass 1
+g words.  If a  1
+ (or followi 3
+e removal before bei 1
+s, assig 1
+ed form, es 1
+s of AND a 1
+g-bash@g 1
+mber i 2
+e - 3
+er} ex 1
+ory whe 2
+              Wri 1
+              -x     Mark  1
+mber is omi 1
+ive  array.   If  bo 1
+d bei 1
+mber  (s 1
+       COMP_POINT 1
+g   28
+ed off.  If 1
+  or sig 1
+dard. 1
+d a slash  1
+ose- 1
+       ·      shell  1
+eeded whe 1
+e") 1
+                     The firs 1
+              -d     The firs 1
+s.  e 1
+lare a 5
+ed jobs, if job  1
+ly  from  a   1
+e do  1
+es  begi 1
+              Kill  6
+  PS2  whe 1
+o be s 3
+lass is o 1
+g.  Normally o 1
+       HOME   The  home  dire 1
+ized.  Si 1
+) be ex 1
+lare b 7
+he  remembered  lo 1
+here is a 2
+ may be o 2
+ores ea 1
+-arg (M-., M-_) 1
+ser. 2
+.  All o 1
+ive arrays are  1
+ory.  If  1
+ or f 1
+gly (as i 1
+       ~/.i 1
+or fd s 1
+g) or as a  1
+ames se 1
+ +a may  1
+ed horizo 1
+g message, a 1
+       be se 1
+sed a  1
+he IEEE POSIX s 1
+lar, a ba 1
+                      dire 1
+o mark his 1
+       The shell  3
+k (C-y) 1
+he word before  2
+y exis 1
+hem i 3
+       To avoid  1
+isms 1
+ may be q 2
+       [-+]O [sho 1
+ses. 1
+d hard limi 1
+erform hos 1
+ored by i 1
+ds as  1
+              Adds a dire 1
+                     dire 2
+ser was las 1
+ive  shell  re 1
+hes were ge 1
+o file is fo 2
+d-word (C-x *) 1
+-arg 2
+de  /e 1
+ or i 2
+rofile, i 2
+ed by defa 1
+              Ge 1
+e  is  reloaded i 1
+do (C-_, C-x C- 1
+              This  dire 1
+he symboli 1
+d)  1
+s), a 1
+se de 1
+ may be s 1
+e of all  1
+ files.  Whe 1
+ive shell is o 1
+able/res 1
+he sof 2
+ogra 6
+eived  1
+ors.  Bash versio 1
+ers from  4
+h   17
+ ids. 1
+m | -sigs 1
+              The  firs 1
+sed  for 1
+her ema 1
+age.  The followi 1
+d < 1
+ zero, i 2
+g job ide 1
+  sh- 1
+r is false. 1
+  bash  is   1
+              The firs 1
+g ( 2
+  mea 1
+       ^      The firs 1
+ely followed by a  1
+ also 1
+egory. 1
+e is saved.  A 1
+e if  8
+ombi 4
+h sear 2
+he -e se 1
+mber s 1
+ld be  7
+ame whose val 1
+ variable is i 1
+g Tex 1
+he LS_COLORS e 2
+ is made wi 1
+d variables wi 1
+ array variable whose val 1
+ds).  Whe 2
+ed for logi 2
+ers defi 1
+kward  dire 1
+ error.  The symbols %% a 1
+y-sys 1
+ is false. 4
+es of se 1
+g is a  1
+ored.  The variable CDPATH defi 1
+                     Read key bi 1
+here is j 1
+do lis 1
+-dis 1
+ keyboards wi 1
+o bash.  The  1
+es fail 1
+dard error is 1
+ or o 2
+h  @ or *,  1
+, or whe 1
+h a variable s 1
+d.  This is a  1
+o a valid file des 1
+              are se 1
+lly.  If  1
+dexed arrays;  1
+or is a si 1
+              firs 1
+he  begi 1
+g BASH_XTRACEFD or assig 1
+ed, bash reads a 1
+bshell, whi 1
+  exe 3
+d RETURN  4
+e)  4
+ge of dire 2
+d/or give  1
+ds (defa 1
+g loaded all a 1
+ of alias ex 1
+d, refers  1
+       jobs are se 1
+e  grea 1
+he --logi 3
+d is readable.  The -- 1
+ized; if a  1
+es, followed by a  1
+g word will be dis 1
+ive shells, a 1
+hes  have bee 1
+ed.  The GLOBIGNORE shell variable is  1
+al bell.  If se 1
+ized 1
+g / 1
+d,  24
+ges i 3
+oexe 1
+ or s 2
+ CDPATH is  2
+he -o bashdefa 1
+       keyseq- 1
+sim. 1
+ism is similar  1
+h ( 1
+ed.  If SECONDS is  1
+h a file of  1
+       The firs 1
+gle sim 2
+heir des 1
+g file wi 1
+layed his 1
+here is o 2
+edes  1
+ -o defa 1
+.  M-- s 1
+ifies  3
+       All o 1
+ally sele 1
+her word s 1
+d is  25
+here are  5
+bdire 4
+ers are assig 2
+able of a 1
+es is re 1
+re re 1
+he whi 2
+.  The shell se 1
+       HISTFILESIZE 1
+ly does   1
+e.  No o 1
+lied,  30
+  job 1
+gle e 1
+ifi‐ 1
+hey are available for s 1
+lear-s 1
+herwise.  A 1
+ dire 18
+ames wi 3
+ely, wi 1
+al variables  1
+, a file   1
+       dire 2
+self.  This is k 1
+ some  2
+ializa 14
+assed  9
+der Word S 3
+       readarray [-d delim] [- 1
+d of  28
+h - 1
+ mode.  This  1
+al's; s 1
+d). 1
+rs  or  a 1
+ed.  If a 1
+=re 1
+e, eve 2
+e,  25
+ for  22
+P]  1
+ed off.  The o 1
+ly [-aAf] [- 1
+er is a si 1
+ array eleme 1
+ally rese 1
+he abili 1
+ors  5
+hes of  2
+sidered se 1
+abled,   1
+heir arg 1
+d [-f] 1
+sed for  2
+e is read, before  1
+ is Off, b 1
+eive SIGHUP  1
+a a 1
+ed as a li 1
+hey are exe 1
+eeds  3
+olla 9
+ser id.  If  2
+y.  Arg 1
+d form is  1
+s  is 1
+lar file.  If  1
+abled, !.  Whe 1
+d $- i 1
+d will be  1
+d (M-!) 1
+he slash  2
+ive are exe 1
+rol  7
+ges s 1
+er may  1
+ zero res 1
+or is assig 2
+ames will  1
+ime   2
+s from o 2
+o zero, or  1
+ribi 1
+e of MACHTYPE. 1
+ are saved i 1
+ as a gro 1
+e or more 1
+d's s 1
+ames  7
+reme 31
+her or  6
+er (\) may be  1
+ely   1
+   Programmable Com 1
+e library se 1
+       mark-dire 1
+s, readli 1
+es is available 1
+e). 2
+e I 1
+he above ex 1
+ildes i 1
+ifier. 2
+d.  A sam 1
+ed.  The seq 1
+h a `.' i 1
+              shell or a shell s 1
+ializi 1
+ew/') or ` 1
+              The zero 1
+ as a hos 2
+vokes a 1
+omes 1
+gle o 1
+or.  Ea 1
+ed.  If i 1
+ versio 6
+ 512-by 2
+d arg 8
+ were  1
+kslash  4
+     Clears  1
+losi 12
+ax fea 1
+s  of 1
+e for exe 1
+.  Com 1
+se ma 1
+hes are 2
+he word -d'' be 1
+ C lo 1
+he same ma 1
+h sele 1
+ers (i.e.  missi 1
+ame from  2
+ly  ), 1
+se words  1
+gle q 8
+or Same as -m. 1
+] [las 1
+                      disabled 1
+ed agai 3
+rokes.  Co 1
+oded as follows 2
+d S 3
+]>>word 1
+ is a lis 1
+              for a li 1
+              /e 1
+dom i 1
+ive shell, or a 1
+ers.  The assig 1
+ file 15
+.  Bash versio 2
+ers are read before  1
+her a 2
+ PATH  1
+d ari 8
+hey are bo 1
+g  of   1
+  lis 1
+ked for  1
+arser  1
+d U 2
+des  aliases  a 1
+ a valid  1
+g or rese 1
+er of delim is  2
+file will  1
+ed.  If m 1
+ -s [ 1
+       disow 1
+her b 1
+gle s 4
+       ba 5
+e mode.  Wi 2
+o M-# i 1
+e of -eq, - 1
+lass ma 2
+h key ex 1
+g is a valid val 2
+ HOSTFILE is  1
+dex 0 is  2
+ed by re 1
+ M-C-x mea 1
+referred.  This is sema 1
+ers as  field   1
+e1 ... val 1
+his   2
+sis. 1
+able are  1
+omma 686
+he .  b 1
+ked i 1
+e] ... | - ] 1
+arses  2
+ job  5
+he  -e o 1
+sly loaded wi 1
+ry,  addi 1
+her his 2
+s (C-x !) 1
+ base.  If base# is omi 1
+ial vari‐ 1
+o modify dire 1
+  of  < 1
+glob If se 2
+al is i 1
+d dis 3
+       hash [-lr] [- 1
+ers like C-q, for exam 1
+his  job is job  1
+h.  Whe 1
+d.  Posi 1
+e or semi 1
+alias [-a] [ 1
+ems,  1
+ors. 3
+g,  7
+bshell  e 2
+able  - 1
+d ema 2
+mber  of  f 1
+       HISTSIZE 1
+                      will  1
+ of versio 3
+ame (M-@) 1
+er as  4
+h of ${ 1
+ime may be followed by a  1
+omme 25
+                      The  wordlis 1
+here may a 1
+       ^s 1
+d, wha 1
+rol- 3
+ word do  1
+hes a 5
+       ${! 4
+ame[s 8
+essary,   1
+shed 1
+g from o 2
+d !=.  Whe 1
+hysi 4
+rol. 3
+, vi is  1
+her i 4
+ed or modified a 1
+he alias is   1
+-his 2
+ial files, bash will  2
+rsive  1
+d \ 1
+kslash.  If e 1
+o be a shell s 2
+ory  45
+                      The shell se 1
+rivileged mode.  I 1
+se lo 1
+       bi 7
+ed by si 1
+d (M-&) 1
+e as a word bo 1
+, add a  1
+he same lo 1
+ever ri 1
+, M-DEL is bo 1
+s allowed i 1
+       ${# 2
+ GLOBIGNORE, i 1
+ed as refere 1
+es (see PARAMETERS below). 1
+ed as a se 1
+s bash's behavior. 2
+ames. 3
+se * if  1
+e, readli 2
+ elli 2
+g I 1
+       The  shell s 1
+dard error.  No 1
+or.   The  file des 1
+es (see EXPANSION below). 1
+or &,  1
+ive.  This o 1
+d, whe 3
+kslash- 1
+       de 5
+       The shell s 2
+m   1
+he  redire 1
+lasses  defi 1
+es  dele 1
+he sole i 1
+ale.  If  1
+d ` 1
+ely  if  a   1
+wo dire 1
+ed  by  3
+-las 2
+s (C-x $) 1
+ers before  1
+h.  A val 1
+h a +, a 1
+h,  1
+es a job wi 1
+kslash. 1
+d a 40
+ive fashio 3
+ors (see  1
+ames is  5
+, read saves  a 1
+ive jobs.  If jobs 1
+              -r     Make  1
+s, leavi 1
+his fashio 3
+ weigh 1
+her exe 1
+ded, i 1
+d b 14
+rese 28
+her o 8
+e HH (o 3
+              \xHH    3
+e [ 1
+arser. 1
+ries 1
+ame,   1
+ [NAME]  1
+e, lis 1
+d, as see 1
+COMMAND EXECUTION ENVIRONMENT 1
+ly delimi 1
+hes i 1
+ed are  1
+ error.  Tildes are 1
+       shell s 1
+hese files whe 1
+lied a 5
+ be a  se 1
+voked wi 8
+ames of  2
+ases.  The followi 1
+h is ! by  defa 1
+a-R 1
+g O 1
+o differe 1
+e is  41
+e edi 13
+ored 4
+d earlier  1
+he args i 1
+ if a  1
+              -W wordlis 1
+ommo 10
+d e 6
+ key  1
+ job. 1
+   Here S 1
+=word} 1
+dexed array;  1
+ser\ 1
+d  if  i 1
+d f 4
+rol  over   1
+ by . or so 1
+lar files.  If read  1
+her s 5
+              -d delim 1
+losed wi 1
+ks  of 1
+dary  2
+e-dime 1
+mber of exi 1
+ame, remove  1
+ordi 13
+abled.  If -s is  s 1
+ed.   If a  1
+ may  2
+ers (le 2
+olor 1
+h be  1
+       ha 3
+d asy 1
+e, or does  1
+he sys 4
+ed  below   1
+              Arra 1
+e a 39
+e of  123
+ame is dis 1
+       ge 2
+aller dis 1
+ess.  The li 1
+ry.  The  1
+ad (Off) 1
+g S 2
+       desired, s 1
+d 32767 is ge 1
+s (de 1
+d ` re 1
+sly exe 1
+d i 45
+e b 10
+o array variables. 1
+ory, 1
+o words.  I 1
+s.  This  3
+ file is sim 1
+hes o 5
+ if word is  1
+d a li 1
+SYNOPSIS 1
+ed.  This is  1
+less  a 1
+he READLINE_POINT variable  1
+s mode. 1
+ory- 1
+reased below a POSIX-ma 1
+all is  a 1
+OPTIONS 1
+       bash [o 1
+or -S is s 1
+ory. 7
+he READLINE_LINE variable  1
+reve 7
+ames are 1
+d is followed by a & a 1
+g as  3
+.  Bash  2
+he shell begi 1
+ 0.  Posi 1
+, all  1
+lied i 2
+oo ma 1
+osed 1
+e e 5
+g differe 1
+yle key es 1
+-gro 1
+ors are re 1
+ SHELLOPTS are  1
+o   39
+h sigs 3
+d m 4
+h a -. 1
+d or  4
+d  make i 1
+ified as - 2
+d Comma 5
+e f 4
+s  wi 3
+e for i 1
+, as des 1
+ses.  The jobs  1
+       refers  1
+eded by {var 1
+g Sys 1
+e blo 2
+es dire 1
+ is as if  1
+ asso 10
+ally  de 1
+o alias has bee 1
+e differe 1
+ share a  1
+als SIGTTIN, SIGTTOU, a 1
+       eq 1
+ely follow  1
+hemselves (q 1
+d o 15
+he hash b 2
+e file  3
+ off  1
+) id, a 2
+d assig 6
+rovide a 1
+g-of-his 1
+ory (see HISTORY below) for li 1
+       fo 2
+d refers  1
+eger  3
+he  array.   If 1
+lar file may be s 1
+or versio 1
+h.  Usi 1
+e i 45
+her‐ 2
+ below), a 1
+hesis whe 1
+       ig 1
+s  a  war 1
+  req 1
+lied m 1
+ded deb 3
+e arg 3
+d q 7
+es for  2
+d;  2
+ive wo 1
+he bell. 2
+ially whe 3
+gh divisio 1
+gs are as follows;  1
+ries.  The his 1
+o 1.  The re 1
+ware Fo 2
+lied.  If  2
+ds is  4
+sed whe 6
+  overwri 1
+d r 2
+alls  3
+h zero. 2
+here is a library of  1
+       kill i 1
+osix mode, bash  1
+rs, a 1
+ii bla 1
+heir mea 2
+  be   1
+he file i 2
+alled from  1
+se a word break,  1
+ess  is 1
+d s 56
+ive, exi 2
+              mea 1
+versio 1
+       dy 1
+, makes readli 1
+he  maxim 1
+ase (Off) 2
+his job,  1
+arser has marked as variable assig 1
+ors is gro 1
+s  of  ${! 1
+h x a 1
+di‐ 1
+ears  1
+ firs 3
+d his 9
+eg‐ 1
+ase).  U 1
+dexed  array 1
+e m 1
+ime forma 1
+ores 2
+e as == a 1
+ word a 2
+efail 1
+,  a  lo 1
+       ex 15
+              Usi 1
+k,  2
+g ` 1
+READLINE 1
+  bash  is  i 1
+ers or q 1
+d "  1
+ll, ma 1
+-word} 1
+.  This variable is reado 3
+he  variable's 1
+o ( 1
+ems a 1
+g a 44
+       ma 12
+asses  1
+eger; ari 1
+e o 15
+" his 1
+mber of ways  1
+rsively ex 1
+o C,  or  e 1
+kslash or wi 1
+       im 1
+lied s 1
+osix  i 1
+des  ig 1
+.  This is se 1
+ is a seq 1
+g b 8
+d for 1
+mbers $# dow 1
+f i 1
+       le 1
+sed as  i 1
+  is  made   1
+all.  If a  1
+er before  2
+e dis 3
+e.  This  1
+heir exe 1
+.  Exi 1
+re-de 1
+egers wi 1
+eeded, a shell f 1
+rovide i 1
+.org or  1
+ variables a 1
+es a lis 2
+ass‐ 1
+se wi 3
+d las 1
+ers by defa 1
+hey are file 1
+he  keyma 1
+ word bei 1
+e;  2
+-lis 6
+.  A ba 1
+eger be 1
+              (see JOB CONTROL below). 1
+es as  2
+ [--abefhkm 1
+.  If HISTFILE is  1
+ will  4
+ as a res 1
+s or redire 1
+e r 1
+       SHELL BUILTIN COMMANDS below). 1
+g d 1
+erally. 1
+ words.  If  IFS 1
+.  If FUNCNAME is  1
+ers are se 1
+ame is a variable wi 1
+              mask  1
+e s 18
+o - 1
+es file 1
+       me 8
+g e 4
+ry).   Wi 1
+ories have a slash a 1
+rs, i 1
+d * is  1
+       zero- 1
+gle-q 1
+g f 4
+ [-fv] [- 1
+g jobs before exi 1
+s immedia 2
+he delimi 2
+es.  The  1
+ified as -g. 1
+       0 (zero) 1
+  val 1
+       li 2
+ded.  Ba 1
+ers may be  1
+  shell  f 1
+ded is  1
+dexed array is  1
+er  whi 1
+he file s 3
+h  variable  or f 1
+l,  2
+h ` 1
+ame[@]} ex 1
+,  ?,  for lis 1
+d (see REDIRECTION below).  If |& is  1
+ (C) 1989-2016 by  1
+heses  1
+h a 25
+ary o 4
+e of old i 1
+kward-kill-word, a 1
+ file).  The  1
+sly. 1
+mber N, o 1
+abled or i 2
+g i 65
+ bash, yo 1
+ive-shell s 2
+esses available  1
+d exe 39
+  shell  i 1
+ glob 1
+h b 1
+h, file 1
+y EOF  1
+e, Readli 1
+ millise 1
+d a si 1
+h  #   1
+       mi 1
+ leas 3
+ error re 1
+e of HISTFILESIZE.  If HISTFILESIZE is  1
+o ls -F, for i 1
+              Programmable Com 1
+ble  q 1
+  is  give 2
+o all jobs whe 2
+allba 6
+he FCEDIT variable is  1
+voked  3
+alls. 1
+er bei 1
+ers   2
+he <(lis 1
+.  If COMP_WORDBREAKS is  1
+ly if,  1
+ give 8
+, aliases are ex 1
+h zero.  For  exam 1
+h e 5
+       lo 1
+ems where  1
+e [-ab 1
+ial  variable  as 1
+s (C-x /) 1
+e-file 1
+mber 1 a 1
+heses is   1
+ase  is   1
+              if [ - 1
+here is a si 1
+h f 1
+d exi 7
+ ERR, if se 1
+h zero.  For exam 1
+es do  1
+ a may be  1
+              "\e[11~" 1
+d file2 refer  1
+or de 1
+g m 1
+hed as a s 1
+       ·      redire 1
+ 128), a variable assig 1
+lied over  1
+ally, a 1
+roy arrays.   1
+g o 39
+ally  12
+lay   5
+d gro 2
+voked.  If  1
+g of ea 1
+ly ba 1
+es is available.  Use  3
+e does  1
+s ESC-Co 1
+       3.     Redire 1
+mber less  5
+, is s 1
+              |  & ; ( ) < > s 1
+  is  a 4
+e [-af 1
+ above)  1
+hey a 4
+ed before  3
+h i 18
+ive shell exi 1
+ds via  1
+   Sear 1
+he keyboard- 1
+       ra 1
+ order of de 1
+omma or a valid seq 1
+he release). 1
+b/g 1
+g q 1
+he args are added. 1
+ eval 6
+g;  1
+.  If a file 1
+s may also a 1
+ess's da 1
+il keyword,  2
+ded arg 1
+il, or sele 1
+ors (``C-[C-J'') 1
+id sys 1
+he file does  3
+       The redire 3
+o be redire 1
+       variable, a 1
+osix mode, as if  1
+g r 3
+ word s 1
+ly be 1
+                      allex 1
+ (des 1
+                              Array variable  1
+g s 28
+ed.  ESC f is eq 1
+ word (or  1
+d SIGINT is  1
+d's 1
+ word, a 1
+) form is  1
+mber forma 1
+  shell  s 1
+ed  from   1
+edly  1
+  do do 1
+s   8
+ PROMPTING above.  This o 1
+       re 6
+e (see READLINE above) is  1
+hes for b 1
+ grea 3
+              -P  1
+       HISTTIMEFORMAT variable is se 1
+a (O 1
+d <&-,  1
+erformed  wi 1
+er's a 1
+g shell.  The s 1
+voked as a 2
+  sof 1
+h as  4
+ly shell variables are lis 1
+h word. 1
+ regard  8
+e>) 1
+essary.  This is a 2
+mask or i 1
+ word is  1
+  of  o 1
+ser mail files  1
+ `*' is a 1
+; however,  1
+layed words,  1
+ is always available from f 1
+r ) 1
+h o 11
+her variable.  Tha 1
+h ~), hos 1
+       Redire 4
+       This sy 1
+he message, $_ ex 1
+BUGS 1
+ed above  2
+       se 5
+e or  6
+ed words if  1
+e.  The delimi 1
+h  a ^, $, *, -, or %.  Words are  1
+es a job s 1
+/hos 4
+abled, a 1
+alled 1
+e file (${BASH_SOURCE[$i+1]}) where ${FUNCNAME[$i]} was  1
+osix 1
+ged or if  1
+  is  i 4
+g order of  3
+vars 1
+orre 10
+yle  3
+f behavior. 1
+abled Names of e 1
+re by resolvi 1
+sidered o 1
+e-variable (M-$) 1
+ffer. 1
+ly.  Ea 1
+ word of  2
+rols whe 1
+       or 3
+imal.  O 1
+hree i 1
+he bashb 1
+s behavior  3
+ly -l is s 1
+ if more arg 1
+e error o 1
+voked. 3
+ds are exe 3
+ HISTSIZE  1
+omes  lo 1
+g is de 1
+he delayed s 1
+ame) a 1
+ame is exe 1
+h @ or *,  4
+ly de 1
+ame [()]  1
+efail o 1
+h s 22
+rs while se 1
+sidered q 1
+o ESC-[. 1
+e-a 1
+he key is  1
+ job.  I 1
+he basis for job  1
+o all members of a 1
+e of erased 1
+e>. 2
+e's 1
+d lis 7
+shd [- 2
+he job's  1
+ame is followed by =val 1
+ess of a 1
+er, as C-d  1
+he SIGHUP.  To  1
+hes for i 1
+ed.  This me 1
+       si 1
+ime a 1
+  whe 1
+h a `-'.  The TIMEFORMAT variable may be se 1
+ reads  a 1
+s may be  7
+  of  ra 1
+he FIGNORE variable is  1
+als.  O 1
+s ( 2
+o, less  1
+o,  1
+ally- 1
+he %?  job  ide 1
+hey m 1
+k a 2
+es of obje 1
+age-like forma 1
+ all remembered lo 1
+              valid shell variable  1
+ally. 4
+g, sear 1
+ers ESC a 1
+d '. 1
+ribed  above  i 1
+er is  12
+assed as a 3
+d -x" (see SHELL BUILTIN COMMANDS below). 2
+es by  1
+ above). 2
+ overwri 2
+mber where ea 1
+              ``em 1
+hey o 3
+       ro 1
+e is a modified his 1
+ viewi 1
+h do  1
+his variable is also  1
+her variable.  This allows variables  1
+he shell wi 2
+ems do  2
+amed  by  sigs 1
+hree o 1
+lied, or if  1
+es asso 1
+s).  Wi 1
+d  E 1
+sed by 1
+       less  1
+   A 2
+              +( 1
+imes, as  1
+ form;  1
+ of a s 2
+o read a 6
+e of HISTFILE is  1
+er of  11
+ (ema 1
+       Shell variables are allowed as o 1
+hey may be removed d 1
+.  Bash removes bra 1
+~/shell-mail?"$_ has mail!"' 1
+  is,  "$@"  is eq 1
+s, a  1
+k e 1
+ge.   If 1
+ed for some reaso 1
+                      variable 1
+       so 1
+gh, as ex 1
+hes all  1
+ is * or @, removes  1
+air  a 1
+hree q 1
+d != o 1
+he [[ a 1
+der Tilde Ex 1
+his a 1
+rivileged 1
+              -f      Disable  1
+  is  s 3
+e-i 1
+hey s 1
+   D 1
+              ``/ 1
+ers, "$@" a 1
+ be give 1
+       Arrays below)  1
+der CONDITIONAL EXPRESSIONS.  Word s 1
+less  a  s 1
+ime i 9
+m reside 1
+abled, m 1
+he  dire 3
+h arg is a 1
+osor 1
+gs.  Ea 1
+ses a hash  1
+or ex 1
+       LC_NUMERIC 1
+se  aliases   1
+ime a shell f 1
+ds or  1
+o add  1
+ix-li 1
+ely i 2
+]=s 1
+egers  (i 1
+e exa 1
+              This variable  2
+ by arg 1
+       added as addi 1
+       ·      addi 1
+ed above. 3
+                     Tr 5
+imes o 2
+o symboli 1
+ed.  The -E o 1
+hes for s 1
+       ya 4
+k i 3
+refix (Off) 2
+her val 2
+ers may  2
+aller 1
+bshells.  The  1
+s, removes  1
+l dire 1
+              addi 1
+ shell.  Whe 1
+       + -    addi 1
+his e 1
+y sigs 1
+s false if  1
+e of EDITOR if FCEDIT is  1
+al digi 2
+he  reado 1
+ames, as  1
+       wi 5
+his f 2
+o O 31
+, where  1
+ds are read from  1
+ messages are  1
+d -F, are ig 1
+he absol 2
+g may be  1
+o read i 2
+ores SIGTTIN, SIGTTOU,  a 1
+e exe 2
+e>< 2
+g member of FUNCNAME was i 1
+ mark 1
+ly eq 1
+                      rese 1
+                      hashall Same as -h. 1
+ive shells o 1
+ime o 1
+.  These are li 1
+g bla 1
+, a q 1
+            . "/e 1
+              Drag  1
+al  base is a de 1
+              variable  2
+dles  1
+he IFS variable.  If IFS is  1
+       below)  1
+hed  by 1
+he order lis 1
+ly ig 1
+kslash is  2
+ed.  The arg 1
+his i 6
+g !  1
+laims  1
+                     rese 1
+ is a d 1
+k for overflow,  1
+mber grea 2
+s of sh, mos 1
+ime q 1
+ds are lis 1
+ (C-q, C-v) 1
+dard error  2
+e before re 1
+g variable or f 1
+ive  shell 1
+ified as a 1
+e exi 1
+              all reado 1
+l i 1
+ames are give 2
+ CDPATH is sear 1
+ whose   1
+ame is give 1
+d by defa 5
+or mi 1
+   N 1
+able eigh 1
+       below).  To  1
+              Tr 32
+              omi 1
+er lexi 1
+][l]R  The ela 1
+em-wide s 1
+ 1024-by 1
+ime s 7
+e, whi 2
+ if `` 1
+ear  i 1
+size 1
+  before   1
+              remai 1
+      Remove all leadi 1
+e word.  His 1
+er x is lower 1
+har (C-b) 1
+g symboli 1
+his library may add  1
+ess is r 1
+s before s 1
+ase all f 1
+   O 1
+dexed or assig 1
+              A  reado 1
+k;  1
+ial  Parame 1
+       addi 1
+ame, a 6
+g is  14
+hemselves. 1
+e a ma 1
+d below),  1
+g  `+'  or  `-',  `+'  is 1
+o  read  a 1
+k s 3
+g is ho 1
+d from  3
+g a differe 1
+ers,  2
+   Q 1
+er%word} 1
+he  file 2
+ly ex 1
+ obje 1
+ or from a file.  Bash also i 1
+       /bi 1
+ly ( a 1
+his o 3
+ is followed by a /, o 1
+g fea 1
+ly if i 1
+ly ma 2
+alls de 1
+ kill a 1
+m f 2
+              reado 1
+              rese 3
+g of  26
+ory file, a 1
+r,  2
+ $HISTSIZE li 1
+  a  variable 1
+ax.  The val 1
+ges  shell 1
+   S 1
+e  I 1
+her war 1
+   Movi 1
+ore files  1
+eger re 1
+ame.  The -l o 1
+                      file    File  1
+lay readli 4
+.  Tha 1
+ever i 1
+har (C-d) 1
+m i 4
+ial  variable,  a 1
+/sbi 1
+her LC_ variable s 1
+dexed array. 1
+s are bei 2
+g2.  Eq 1
+g2^ 1
+kward-word (M-b) 1
+g des 4
+ge.   S 1
+or 2)  2
+ed by a |.  Com 1
+he dirs b 1
+       able  1
+lare -A  1
+leared. 1
+ers). 1
+his s 1
+ds exe 4
+              Read li 1
+s', 1
+       is 126. 1
+erformed, q 1
+ible  1
+.org 1
+mber of  arg 1
+ zero; o 1
+              readi 1
+ame, i 1
+l s 1
+s are added  1
+,  ari 3
+ribed below.  The ex 1
+       sh as file{1,2} a 1
+       RANDOM Ea 1
+o exe‐ 1
+       reado 1
+he ASCII val 1
+d req 1
+s  are   2
+wise AND 1
+dexed  array s 1
+g symbols 1
+s,  21
+gger  2
+es x-$ like x*, b 1
+s)) 1
+alled.  O 1
+ re-read-i 2
+al devi 1
+he alias.  The  1
+or 0  if   1
+ffix  1
+ word is omi 2
+er shell o 1
+ is  i 1
+o a 28
+d res 2
+  is  re 2
+he HISTSIZE variable is  1
+har (C-f) 1
+g before s 1
+e a lo 1
+s, redire 1
+, while  1
+er word s 2
+ is a s 4
+ bash is exe 1
+ameref variable will be  1
+1 || ex 1
+ds exi 1
+o b 2
+g arg 9
+                      3.     If   1
+er.  The ba 1
+all (a shell f 1
+ase of al 6
+g mode,  1
+-roo 1
+g bra 5
+ bash behavior i 1
+d "*" as a 1
+ess ID of  8
+heir val 2
+ds gro 1
+alias b 1
+or 1). 1
+rovides  o 1
+ry dis 1
+              as i 1
+ds from  2
+e of SHELLOPTS from  1
+  is  se 1
+s are give 4
+ame, o 1
+o show-all-if-ambig 1
+s of 127.  If a  1
+losed.  As a s 1
+o d 1
+                     If  hos 1
+ar shell o 1
+g ari 1
+er TMOUT se 1
+o  remember  i 1
+es is  1
+ed.  If a val 1
+bshell, i 1
+o e 5
+m s 2
+arame 205
+ form is  2
+ array variable wi 2
+sdirs o 1
+s). 2
+ed shell f 1
+alogo 3
+d seq 3
+ exis 14
+he .  (so 1
+ess,  1
+     Read li 1
+y   6
+o f 4
+ will be  1
+able for  1
+ify a 3
+-all-a 1
+e variables  1
+es of  17
+h #  1
+ is  o 1
+              shell, a 1
+                      hos 1
+g dir 1
+e -D.  I 1
+ro (C-x e) 1
+s (C-x @) 1
+ly ra 1
+hed by i 2
+ limi 5
+ame, s 1
+g shell.  The  1
+d  f 3
+erformed as  1
+.  The same word is o 1
+e is ".o 1
+ames of all shell f 1
+ from a 1
+ire bash 1
+o i 40
+                              Same as -P. 1
+       jobs -x  1
+ross 1
+ or Off (wi 1
+der SHELL BUILTIN COMMANDS for a des 1
+              Pa 2

@@ -1,0 +1,50 @@
+2
+3
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+C
+3
+4
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+15
++
+100
+QUIT
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+15
++
+100
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+10
+QUIT
+15
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+4
++
+100
+QUIT
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+****************8883
+"*"
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+/bin /boot /cdrom /dev /etc /home /initrd.img /initrd.img.old /lib /lib32 /lib64 /libx32 /lost+found /media /mnt /opt /proc /root /run /sbin /snap /srv /swapfile /sys /tmp /usr /var /vmlinuz /vmlinuz.old
+q
+?
+?
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+script1 script2 script3 script4 script6-data script6-generator script6-handler test
+q
+*
+*
+16
++
+16
+*
+10
+QUIT
+Q
+*

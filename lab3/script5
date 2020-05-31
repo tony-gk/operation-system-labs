@@ -1,0 +1,17 @@
+#!/bin/bash
+
+>procs5
+
+for pid in $(ls /proc | egrep [0-9]+)
+  do
+    if [ -d  "/proc/$pid/" ]; then
+      path=/proc/$pid/status
+      ppid=$(egrep -s "PPid" $path | awk '{print $2}') 
+      path=/proc/$pid/sched
+      load_avg=$(egrep "se.avg.load_avg" $path | awk '{print $3}')
+      echo "$pid $ppid $load_avg" >> procs5
+    fi
+  done
+
+sort -nk2 procs5 -o procs5
+gawk -i inplace '{printf "ProcessID=%s : Parent_ProcessID=%s : Average_Load_Time=%s\n", $1, $2, $3}' procs5

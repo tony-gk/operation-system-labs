@@ -1,0 +1,5 @@
+#!/bin/bash
+if [[ "$1" -eq "$2" ]]
+        then echo 'strings are equal'
+        else echo 'string are not equal'
+        fi

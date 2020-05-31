@@ -1,0 +1,40 @@
+#!/bin/bash
+
+echo $$ > .pid
+
+mode="+"
+val=1
+
+usr1()
+{
+  mode="+"
+}
+usr2()
+{
+  mode="*"
+}
+term()
+{
+  mode="term"
+}
+trap 'usr1' USR1
+trap 'usr2' USR2
+trap 'term' SIGTERM
+
+while true; do
+  case "$mode" in
+    +)
+      (( val += 2 ))
+      ;;
+    \*)
+      (( val *= 2 ))
+      ;;
+    "term")
+      echo "Terminated by another process"
+      exit
+      ;;
+  esac
+  echo "$val $mode"
+  sleep 1
+done
+

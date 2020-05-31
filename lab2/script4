@@ -1,0 +1,23 @@
+#!/bin/bash
+
+declare -A words
+
+for file in /bin/*; do
+  if head -1 $file | egrep -q "^#!"
+    then 
+      f="$f $(head -1 $file | tr -d " ")"
+  fi
+done
+
+echo $f |  awk '{ 
+  for ( i=1; i <= NF; i++) 
+    words[$i]++ } 
+END { 
+  max = 0; 
+  for (w in words) 
+    if (max < words[w]) {
+      max = words[w]; 
+      maxw = w
+    } 
+  print maxw
+}'

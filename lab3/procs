@@ -1,0 +1,161 @@
+PID:CMD 
+1:/sbin/init splash 
+2:[kthreadd] 
+3:[rcu_gp] 
+4:[rcu_par_gp] 
+6:[kworker/0:0H-kblockd] 
+8:[mm_percpu_wq] 
+9:[ksoftirqd/0] 
+10:[rcu_sched] 
+11:[migration/0] 
+12:[idle_inject/0] 
+14:[cpuhp/0] 
+15:[cpuhp/1] 
+16:[idle_inject/1] 
+17:[migration/1] 
+18:[ksoftirqd/1] 
+20:[kworker/1:0H-kblockd] 
+21:[cpuhp/2] 
+22:[idle_inject/2] 
+23:[migration/2] 
+24:[ksoftirqd/2] 
+26:[kworker/2:0H-kblockd] 
+27:[cpuhp/3] 
+28:[idle_inject/3] 
+29:[migration/3] 
+30:[ksoftirqd/3] 
+32:[kworker/3:0H-kblockd] 
+33:[kdevtmpfs] 
+34:[netns] 
+35:[rcu_tasks_kthre] 
+36:[kauditd] 
+37:[khungtaskd] 
+38:[oom_reaper] 
+39:[writeback] 
+40:[kcompactd0] 
+41:[ksmd] 
+42:[khugepaged] 
+43:[crypto] 
+44:[kintegrityd] 
+45:[kblockd] 
+46:[tpm_dev_wq] 
+47:[ata_sff] 
+48:[md] 
+49:[edac-poller] 
+51:[devfreq_wq] 
+53:[watchdogd] 
+58:[kswapd0] 
+60:[ecryptfs-kthrea] 
+149:[kthrotld] 
+150:[irq/122-aerdrv] 
+151:[irq/123-aerdrv] 
+152:[irq/124-aerdrv] 
+153:[acpi_thermal_pm] 
+155:[ipv6_addrconf] 
+166:[kstrp] 
+185:[charger_manager] 
+234:[nvme-wq] 
+235:[nvme-reset-wq] 
+236:[nvme-delete-wq] 
+238:[irq/51-ELAN2301] 
+241:[scsi_eh_0] 
+242:[scsi_tmf_0] 
+243:[scsi_eh_1] 
+244:[scsi_tmf_1] 
+269:[jbd2/nvme0n1p2-] 
+270:[ext4-rsv-conver] 
+317:/lib/systemd/systemd-journald 
+322:[kworker/0:1H-kblockd] 
+333:[kworker/3:1H-events_highpri] 
+340:/lib/systemd/systemd-udevd 
+350:[loop0] 
+377:[loop1] 
+388:[loop2] 
+389:[loop3] 
+410:[kworker/2:1H-events_highpri] 
+411:[loop4] 
+413:[loop6] 
+415:[loop8] 
+416:[loop9] 
+417:[loop10] 
+418:[loop11] 
+419:[loop12] 
+421:[loop13] 
+422:[loop14] 
+427:[loop15] 
+431:[loop16] 
+438:[cfg80211] 
+439:[loop17] 
+442:[irq/133-iwlwifi] 
+452:[loop18] 
+500:[i915/signal:0] 
+504:[i915/signal:1] 
+506:[i915/signal:2] 
+507:[i915/signal:6] 
+547:[kworker/1:0-events] 
+599:[nvkm-disp] 
+629:[kworker/2:1-events] 
+635:[ttm_swap] 
+745:/usr/sbin/cron -f 
+751:/usr/sbin/irqbalance --foreground 
+757:/usr/sbin/thermald --no-daemon --dbus-enable 
+761:/usr/sbin/NetworkManager --no-daemon 
+762:/usr/sbin/ModemManager --filter-policy=strict 
+763:/usr/sbin/acpid 
+764:/usr/sbin/switcheroo-control 
+766:/usr/lib/accountsservice/accounts-daemon 
+771:/usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers 
+776:/usr/lib/udisks2/udisksd 
+780:/lib/systemd/systemd-logind 
+797:/sbin/wpa_supplicant -u -s -O /run/wpa_supplicant 
+809:/usr/lib/snapd/snapd 
+842:/usr/lib/policykit-1/polkitd --no-debug 
+865:/usr/sbin/gdm3 
+887:/usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal 
+963:[loop7] 
+1107:/usr/lib/upower/upowerd 
+1948:gdm-session-worker [pam/gdm-password] 
+2076:[kworker/u8:8-events_power_efficient] 
+2121:[kworker/u8:41-events_unbound] 
+2141:[irq/127-mei_me] 
+2327:/usr/lib/fwupd/fwupd 
+2389:[kworker/u9:2-hci0] 
+2405:[krfcommd] 
+2447:[kworker/3:3-mm_percpu_wq] 
+2728:[kworker/1:3-mm_percpu_wq] 
+3136:[kworker/0:0-rcu_gp] 
+3180:[kworker/3:0-events] 
+3232:[kworker/u8:0+events_unbound] 
+3325:/usr/lib/bolt/boltd 
+3336:[kworker/0:1-rcu_gp] 
+3403:/sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-wlp2s0.pid -lf /var/lib/NetworkManager/dhclient-3245c949-d964-4e59-ada1-cb1242d6e26f-wlp2s0.lease -cf /var/lib/NetworkManager/dhclient-wlp2s0.conf wlp2s0 
+3461:[kworker/1:2H-events_highpri] 
+3534:[kworker/2:2-cgroup_destroy] 
+3607:[kworker/3:1-events] 
+3755:[kworker/0:2-events] 
+3783:[kworker/u8:1] 
+4396:[xfsalloc] 
+4403:[xfs_mru_cache] 
+4406:[jfsIO] 
+4407:[jfsCommit] 
+4408:[jfsCommit] 
+4409:[jfsCommit] 
+4410:[jfsCommit] 
+4411:[jfsSync] 
+6700:[loop19] 
+8132:[loop20] 
+8677:[loop5] 
+17360:gdm-session-worker [pam/gdm-password] 
+22093:dbus-launch --autolaunch=dbfc3aee4c34478fa5e5e86738af9ab5 --binary-syntax --close-stderr 
+22094:/usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session 
+22096:/usr/libexec/xdg-desktop-portal 
+22101:/usr/libexec/xdg-document-portal 
+22105:/usr/libexec/xdg-permission-store 
+22115:/usr/libexec/xdg-desktop-portal-gtk 
+22119:/usr/lib/gvfs/gvfsd 
+22124:/usr/lib/gvfs/gvfsd-fuse /home/tonny/.cache/gvfs -f -o big_writes 
+22137:/usr/lib/dconf/dconf-service 
+28464:[kworker/u9:3-rb_allocator] 
+29000:/usr/lib/bluetooth/bluetoothd 
+31129:/usr/sbin/cupsd -l 
+31130:/usr/sbin/cups-browsed 

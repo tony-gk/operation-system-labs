@@ -1,0 +1,8 @@
+#!/bin/bash
+
+while true; do
+  read line
+  if [[ $line == "TERM" ]]; then
+    kill -15 $(cat .pid) 
+  fi
+done
